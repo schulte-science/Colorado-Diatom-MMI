@@ -1,0 +1,926 @@
+FY,CollDate,Sample,StationID,WaterbodyName,Location,PH,COND (µs/cm),DO,TEMP,ALKALINITY [mg/L],ARSENIC DIS [ug/L],COPPER DIS [ug/L],CHLORIDE [mg/L],HARDNESS TOT [mg/L],IRON DIS [ug/L],IRON TREC [ug/L],MANGANESE DIS [ug/L],AMMONIA [mg/L],NO5 [mg/L],N-KJELDAHL [mg/L],NITROGEN TOT [mg/L],PHOSPHORUS [mg/L],SELENIUM [ug/L],SULFATE [mg/L],ZINC [ug/L],TSS [mg/L]
+FY05,8/3/2004,Routine Sample,10249,Soap Creek,above Blue Mesa Reservoir,7.97,109,8.61,11.89,56,<1,<5,,53,21,110,4,<0.03,<0.3,<0.5,,0.051,<1.0,7,<10,<10
+FY05,8/24/2004,Routine Sample,7551,Raton Creek,at Gallinas,8.59,701,13.49,17.91,,<1,<5,,220,16,49,9,<0.03,<0.3,<0.5,,0.021,<1.0,83,<10,12
+FY05,8/24/2004,Routine Sample,92,Apishapa River,near Aguilar,7.92,588,8.75,15.4,,<1,<5,,220,12,76,41,0.03,<0.3,<0.5,,0.019,<1.0,85,13,23
+FY05,8/25/2004,Routine Sample,7545,Purgatoire River,above Weston,8.58,259,7.2,20.52,,<1,<5,,130,35,250,17,0.03,<0.3,<0.5,,0.017,<1.0,26,13,16
+FY05,8/25/2004,Routine Sample,7547,South Fork Purgatoire River,at Torres,8.12,153,9.38,10.27,,<1,<5,,68,41,200,21,0.03,<0.3,<0.5,,0.014,<1.0,11,11,<10
+FY05,8/25/2004,Routine Sample,7548,North Fork Purgatoire River,near Vigil,8.08,127,8.72,8.68,,<1,<5,,65,<10,41,<2,0.04,<0.3,0.74,,<0.01,<1.0,4,<10,<10
+FY05,8/26/2004,Routine Sample,7560,Trinchera Creek,below Trinchera,8.25,1121,8.49,17.97,,2,<5,,470,20,870,13,<0.03,<0.3,<0.5,,0.072,1.5,420,13,52
+FY05,8/26/2004,Routine Sample,7571,San Francisco Creek,at Barela,8.13,1313,7.75,20.98,,<1,<5,,510,21,390,160,0.05,<0.3,<0.5,,0.023,<1.0,470,10,35
+FY05,9/13/2004,Routine Sample,9190,East Fork San Juan River,at USGS Gage,7.9,137,10.06,17.9,,<1,<5,,62,11,36,<2,0.04,<0.3,<0.5,,0.018,<1.0,15,<10,<10
+FY05,9/14/2004,Routine Sample,9275,Williams Creek,at FR 631 (at Bridge Campground),9.28,67,5.93,19.76,,<1,<5,,26,280,440,9,0.08,<0.3,<0.5,,0.077,<1.0,<3,<10,<10
+FY05,9/14/2004,Routine Sample,137D,San Juan River,above Pagosa Springs at Service Rd.,7.72,103,7.72,10.24,,<1,<5,,38,34,73,3,0.04,<0.3,<0.5,,0.052,<1.0,8,<10,<10
+FY05,9/14/2004,Routine Sample,9120B,McCabe Creek,at 411 Rd.,8.6,462,6.89,17.76,,1,<5,,220,49,740,28,0.05,<0.3,<0.5,,0.056,<1.0,63,<10,20
+FY05,9/15/2004,Routine Sample,9280,Devils Creek,at Devils Creek SWA,7.94,611,6.92,16.14,,<1,<5,,300,11,18,3,0.04,<0.3,<0.5,,<0.01,<1.0,150,11,<10
+FY05,9/15/2004,Routine Sample,9861,Rio Blanco River,at mouth,7.26,174,8.17,10.91,,<1,<5,,64,36,120,8,0.07,<0.3,<0.5,,<0.01,<1.0,8,<10,<10
+FY05,9/15/2004,Routine Sample,102F,Navajo River,above Chromo,7.74,971,8.08,11.38,,<1,<5,,65,22,120,10,0.07,<0.3,<0.5,,0.11,<1.0,37,<10,<10
+FY05,9/16/2004,Routine Sample,9246,Stollsteimer Creek,at Cat Creek Rd.,7.91,689,8.65,18.99,,<1,<5,,450,130,550,26,0.07,<0.3,0.83,,0.05,2.8,290,11,10
+FY05,9/16/2004,Routine Sample,9250,Piedra River,at Hwy 160,7.09,408,9.23,12.24,,4,<5,,140,42,70,3,0.04,<0.3,<0.5,,0.029,<1.0,100,<10,<10
+FY05,9/16/2004,Routine Sample,68,San Juan River,above Navajo Reservoir,6.74,320,8.51,18.58,,1,<5,,100,47,290,4,0.07,<0.3,<0.5,,0.051,<1.0,62,<10,<10
+FY05,9/28/2004,Routine Sample,10551,Escalante Creek,at Escalante SWA,8.38,494,9.78,13.83,220,10,<5,8,240,<10,440,5,0.05,<0.3,<0.5,,0.027,<1.0,61,<10,26
+FY05,9/29/2004,Routine Sample,10212,Smith Fork,below Crawford,8.55,1870,9.28,12.64,240,<1,<5,,1100,16,170,34,0.05,<0.3,<0.5,,0.024,<1.0,1100,<10,<10
+FY05,9/30/2004,Routine Sample,10669C,Cow Creek,at Hwy. 550,8.47,552,9.53,11.88,160,<1,<5,2,310,<10,220,7,0.07,<0.3,<0.5,,0.032,1.1,160,<10,15
+FY05,10/13/2004,Routine Sample,10320,Cochetopa Creek,near mouth,8.57,225,10.07,11.85,110,5,<5,<2,98,170,460,25,0.06,<0.3,<0.5,,0.17,<1.0,8,<10,<10
+FY05,10/13/2004,Routine Sample,10350,Razor Creek,at 45 Rd. Bridge,8.17,573,8.86,8.53,220,5,<5,8,240,150,460,190,0.07,<0.3,<0.5,,0.15,<1.0,84,11,12
+FY05,10/14/2004,Routine Sample,10118,East River,above Gothic,8.05,299,10.91,4.8,110,<1,<5,<2,150,100,170,58,0.06,<0.3,<0.5,,<0.01,<1.0,46,<10,<10
+FY05,10/14/2004,Routine Sample,58,Taylor River,at Almont near USGS Gage,8.05,150,9.97,4.66,70,<1,<5,<2,72,27,87,<2,0.06,<0.3,<0.5,,0.016,<1.0,8,<10,<10
+FY05,10/14/2004,Routine Sample,10268A,Ohio Creek,at Rock House Ranch,7.89,93,12.37,11.36,47,<1,<5,<2,37,330,560,20,0.06,<0.3,<0.5,,0.086,<1.0,<3,<10,<10
+FY05,10/15/2004,Routine Sample,10336,Gold Creek,above Ohio City,8.14,141,10.12,2.59,67,3,<5,<2,67,80,100,13,0.04,<0.3,9.5,,0.011,<1.0,7,11,<10
+FY05,10/15/2004,Routine Sample,10334,North Quartz Creek,at Quartz Campground,7.58,194,10.35,2.59,96,0.004,<5,<2,100,18,32,5,0.06,<0.3,<0.5,,<0.01,<1.0,15,<10,<10
+FY05,10/19/2004,Routine Sample,61,Dolores River,at Gateway,8.39,947,9.35,11.42,150,<1,<5,110,340,<10,1900,6,0.07,<0.3,<0.5,,0.13,<1.0,270,<10,170
+FY05,10/20/2004,Routine Sample,10831,Naturita Creek,at Naturita,8.35,2160,10.74,13.37,300,<1,<5,36,910,21,130,68,0.05,<0.3,<0.5,,0.022,<1.0,1100,<10,<10
+FY05,10/20/2004,Routine Sample,10840,Tabeguache Creek,near mouth,8.34,598,9.88,13.08,250,2,<5,36,260,12,200,16,0.2,<0.3,<0.5,,0.073,<1.0,45,<10,11
+FY05,10/20/2004,Routine Sample,10800,San Miguel River,near mouth,8.34,719,11.35,10.09,120,<1,<5,6,350,17,49,16,0.27,<0.3,<0.5,,0.014,<1.0,300,13,<10
+FY05,10/21/2004,Routine Sample,10825,Leopard Creek,below Alder Creek,8.38,412,10.24,9.33,170,<1,<5,3,200,35,120,3,0.05,<0.3,1.4,,0.021,<1.0,57,<10,<10
+FY05,10/21/2004,Routine Sample,10855,Beaver Creek,at mouth w/ San Miguel River,8.32,407,9.86,6.69,190,<1,<5,5,200,<10,55,4,0.08,<0.3,<0.5,,0.022,<1.0,41,<10,<10
+FY05,3/15/2005,Routine Sample,10770,West Dolores River,near Stone at Hwy 145,8.41,496,11.03,-0.18,140,,<5,,160,81,,18,0.05,<0.3,<0.5,,0.017,<1.0,29,<10,
+FY05,3/15/2005,Routine Sample,10901A,Lost Canyon Creek,near Dolores,7.61,101,10.75,-0.23,37,,<5,,43,220,,3,0.25,<0.3,<0.5,,0.022,<1.0,7,<10,
+FY05,3/16/2005,Routine Sample,9715,Chicken Creek,at Mancos,7.55,278,9.78,3.16,48,,<5,,100,250,1200,50,0.25,<0.3,<0.5,,0.02,<1.0,68,<10,
+FY05,3/16/2005,Routine Sample,9722,Mancos River,at Mancos Park,8.21,495,10.98,0.04,110,,<5,,210,62,450,35,0.05,<0.3,<0.5,,0.025,<1.0,150,<10,
+FY05,3/16/2005,Routine Sample,9721,Middle Fork Mancos Creek,at Rd L,7.45,325,11.21,-0.22,90,,<5,,140,180,330,4,0.05,<0.3,<0.5,,0.019,<1.0,69,<10,
+FY05,3/17/2005,Routine Sample,9825,McElmo Creek,at State Line,8.19,3050,10.97,4.19,230,,<5,,1600,<10,380,150,0.05,0.53,<0.5,,0.014,<1.0,1500,<10,
+FY05,3/17/2005,Routine Sample,9830,Yellow Jacket Creek,near mouth,8.45,1620,10.53,7.76,280,,<5,,650,<10,470,230,0.05,<0.3,<0.5,,0.019,<1.0,500,<10,
+FY05,3/17/2005,Routine Sample,10908,Dolores River,at Lone Dome SWA,8.33,268,10.23,6.38,91,,<5,,120,77,230,30,0.05,<0.3,<0.5,,0.016,<1.0,29,<10,
+FY05,3/28/2005,Routine Sample,9415,Salt Creek,at 309A Rd.,8.61,526,9.17,10.22,170,,<5,,130,53,840,42,0.05,<0.3,<0.5,,0.035,<1.0,63,<10,
+FY05,3/29/2005,Routine Sample,9431,Lightner Creek,above Perkins SWA,8.44,361,9.47,5.33,140,,<5,,180,31,420,2,0.06,<0.3,<0.5,,0.017,<1.0,39,<10,
+FY05,3/29/2005,Routine Sample,9435,Hermosa Creek,at gage,8.52,415,9.88,5.18,150,,<5,,200,<10,84,<2,0.04,<0.3,<0.5,,<0.01,<1.0,63,<10,
+FY05,3/29/2005,Routine Sample,9605,Cherry Creek,above La Plata at Rd 105,8.68,786,10.06,4.63,180,,<5,,350,25,3500,21,0.06,<0.3,0.97,,0.081,<1.0,210,<10,
+FY05,3/30/2005,Routine Sample,9370,Vallecito Creek,at Vallecito Rd.,8.07,95,11.08,0.18,33,,<5,,42,11,31,<2,0.04,<0.3,<0.5,,<0.01,<1.0,8,<10,
+FY05,3/30/2005,Routine Sample,9380,Los Pinos River,above Vallecito Reservoir,8.48,127,10.87,0.41,52,,<5,,57,31,48,3,0.04,<0.3,<0.5,,<0.01,<1.0,6,<10,
+FY05,3/30/2005,Routine Sample,9680,La Plata River,at Hesperus (at Hwy 160),8.38,198,9.19,5.56,64,,<5,,95,24,52,17,0.04,<0.3,0.92,,<0.01,<1.0,26,<10,
+FY05,3/30/2005,Routine Sample,138A,Florida River,at USGS Gage above Lemon Reservoir,8.64,251,10.13,2.61,96,,<5,,130,<10,16,<2,0.05,0.55,0.5,,<0.01,<1.0,25,<10,
+FY05,4/27/2005,Routine Sample,10241,Lake Fork Gunnison River,at Gateview,8.05,175,8.67,6.99,34,,<5,,70,30,190,11,0.05,<0.3,<0.5,,0.019,<1.0,41,17,
+FY05,4/27/2005,Routine Sample,10245,Henson Creek,above Hwy 149,7.77,160,9.08,4.3,34,,<5,,61,120,160,33,0.05,<0.3,<0.5,,0.013,<1.0,35,68,
+FY05,4/27/2005,Routine Sample,10248,Lake Fork Gunnison River,above Lake San Cristobal,7.8,147,9.11,4.44,30,,<5,,60,24,110,20,0.05,<0.3,<0.5,,0.011,<1.0,34,<10,
+FY05,4/28/2005,Routine Sample,10230,Cimarron River,Along Hwy 50 East Cimarron - Picnic area fishing,8.54,251,9.67,7.02,67,,<5,,92,150,600,20,0.05,<0.3,<0.5,,0.064,<1.0,45,<10,
+FY05,4/28/2005,Routine Sample,10624,Cedar Creek,at Miguel Rd crossing north,8.25,1620,9.2,7.88,300,,<5,,640,14,1700,110,0.05,2.1,<0.5,,0.019,5,530,13,
+FY05,4/28/2005,Routine Sample,10230B,Little Cimarron River,above confluence with Cimarron,8.09,145,8.95,6.92,44,,<5,,53,250,520,7,0.05,<0.3,<0.5,,0.089,<1.0,19,<10,
+FY05,5/2/2005,Routine Sample,7622,Cucharas River,at Cuchara,7.92,174,9.64,1.24,76,,<5,,67,25,400,<2,0.05,<0.3,1,,0.011,<1.0,<3,<10,
+FY05,5/2/2005,Routine Sample,7620,Wahatoya Creek,at Rd 358,8.11,220,5.38,8.26,86,,<5,,82,110,1200,12,0.12,<0.3,<0.5,,0.048,<1.0,21,<10,
+FY05,5/3/2005,Routine Sample,7603,Pass Creek,at 572 Rd.,8.1,292,7.19,5.81,120,,<5,,110,58,770,9,0.05,<0.3,1.4,,0.039,<1.0,13,<10,
+FY05,5/3/2005,Routine Sample,7604,Muddy Creek,at mouth,8.19,1050,7.4,5.81,170,,<5,,360,42,14000,16,0.12,1.3,0.59,,0.26,11,390,<10,
+FY05,5/3/2005,Routine Sample,7609,Huerfano River,above Red Wing,7.93,161,6.58,4.24,64,,<5,,63,81,230,7,0.08,<0.3,<0.5,,0.013,<1.0,8,<10,
+FY05,5/4/2005,Routine Sample,7655,Cucharas River,below Cucharas Reservoir,8.31,814,6.24,9.42,180,,<5,,200,59,770,15,0.11,<0.3,0.5,,0.042,<1.0,210,<10,
+FY06,7/12/2005,Routine Sample,12144,Troublesome Creek,above confluence with East Fork,7.94,289,7.36,19.2,120,,<5,,100,150,790,43,<0.03,0.48,4.4,,0.23,2.6,7,<10,
+FY06,7/12/2005,Routine Sample,12146,Muddy Creek,above Wolford Mountain Reservoir,8.28,824,7.72,22.87,220,,<5,,330,120,290,17,<0.03,<0.3,0.56,,0.012,6.3,210,11,
+FY06,7/13/2005,Routine Sample,12116,Sheephorn Creek,at CR1 near Radium,8.59,384,7.56,19.5,140,,<5,,150,37,200,10,<0.03,<0.3,<0.5,,0.021,2.4,46,<10,
+FY06,7/13/2005,Routine Sample,12118,Big Alkali Creek,at mouth,8.05,1760,6.81,24.55,200,,<5,,790,60,1300,300,0.06,<0.3,1.1,,0.17,39,750,20,
+FY06,7/14/2005,Routine Sample,12115,Sweetwater Creek,above Sweetwater Lake,8.3,253,8.42,9.73,88,,<5,,120,<10,42,<2,0.05,<0.3,<0.5,,0.052,1.3,23,<10,
+FY06,7/25/2005,Routine Sample,7183,Halfmoon Creek,at USGS gage,7.78,72,8.25,10.75,190,<1,<5,,30,43,77,4,0.03,<0.3,<0.5,,<0.01,<1.0,4,<10,
+FY06,7/25/2005,Routine Sample,7188,Iowa Gulch,below Black Cloud Mine,7.96,187,8.73,6.26,68,<1,<5,,87,47,260,15,<0.03,0.52,<0.5,,0.01,1.3,16,81,
+FY06,7/25/2005,Routine Sample,7191,Tennessee Creek,above Leadville,7.39,40,7.77,11.43,16,<1,<5,,15,180,440,11,0.04,<0.3,<0.5,,0.016,<1.0,<3,<10,
+FY06,7/26/2005,Routine Sample,7166,South Cottonwood Creek,below Cottonwood Lake,7.72,95,7.79,16.97,31,<1,<5,,41,360,420,9,0.03,<0.3,<0.5,,<0.01,1.1,4,<10,
+FY06,7/26/2005,Routine Sample,7170,Pine Creek,at Princeton,7.73,83,12.37,11.47,29,<1,<5,,33,24,240,3,0.04,<0.3,<0.5,,0.023,<1.0,7,<10,
+FY06,7/26/2005,Routine Sample,7176A,South Fork Lake Creek,upstream from Sayres Gulch,7.48,93,10.86,5.26,<10,<1,6,,33,78,400,38,0.03,<0.3,<0.5,,<0.01,<1.0,27,59,
+FY06,7/27/2005,Routine Sample,7137,Poncha Creek,above Hwy 285,7.76,109,6.31,20.24,48,<1,<5,,44,520,710,23,<0.03,<0.3,<0.5,,0.033,2.4,<3,<10,
+FY06,7/27/2005,Routine Sample,7164,Browns Creek,at FR 255,7.59,71,7.82,11.62,11,<1,<5,,23,48,110,<2,<0.03,<0.3,<0.5,,<0.01,1,15,<10,
+FY06,7/27/2005,Routine Sample,7165K,Chalk Creek,at Rd 292 Bridge,7.56,119,7.52,9.72,23,<1,<5,,47,66,96,16,<0.03,<0.3,<0.5,,<0.01,1,24,120,
+FY06,7/28/2005,Routine Sample,7122,Badger Creek,above confluence w/ Arkansas R.,8.54,1227,9.02,12.18,180,2,<5,,280,<10,24,3,0.03,<0.3,<0.5,,0.067,26,100,10,
+FY06,8/8/2005,Routine Sample,7503,St. Charles River,"at Hwy 50, Santa Fe Drive",7.83,2470,9.21,22.05,190,,<5,,1100,14,140,54,0.12,1.1,1.2,,0.026,35,1300,<10,
+FY06,8/8/2005,Routine Sample,7710,Apishapa River,near White Rock,9.5,556,8.15,32.01,49,,<5,,150,26,550,3,0.05,<0.3,0.68,,0.03,4.4,190,<10,
+FY06,8/9/2005,Routine Sample,7845,Two Butte Creek,below Two Butte Reservoir,8.14,842,6.15,26.47,190,,<5,,270,<10,62,6,<0.03,<0.3,0.57,,<0.01,12,210,<10,
+FY06,8/10/2005,Routine Sample,7549,Purgatoire River,at Hwy 101,8.28,2390,7.52,27.89,130,,<5,,850,<10,480,27,<0.03,<0.3,0.53,,0.019,12,1100,14,
+FY06,8/10/2005,Routine Sample,7805,Arkansas River,below John Martin Reservoir,7.81,3500,7.89,27.66,230,,<5,,1300,13,100,210,<0.03,1.1,0.61,,<0.01,28,1800,<10,
+FY06,8/22/2005,Routine Sample,8111,Embargo Creek ,at campground above Cathedral Creek,7.6,64,8.08,11.94,27,<1,<5,,22,41,65,<2,<0.03,<0.3,<0.5,,0.063,<1.0,<3,<10,
+FY06,8/22/2005,Routine Sample,8116,West Alder Creek,near South Fork,7.84,90,7.96,14.98,39,<1,<5,,34,380,510,32,<0.03,<0.3,<0.5,,0.16,<1.0,<3,<10,
+FY06,8/23/2005,Routine Sample,8148,Lime Creek,above FR 526,8.53,100,8.17,14.74,42,3,<5,,39,200,340,11,<0.03,<0.3,<0.5,,0.12,<1.0,<3,<10,
+FY06,8/23/2005,Routine Sample,8150,Red Mountain Creek,above Ivy Creek,7.95,89,9.25,6.7,19,<1,<5,,31,36,130,11,0.03,<0.3,<0.5,,0.079,<1.0,16,<10,
+FY06,8/23/2005,Routine Sample,8155,South Clear Creek,below Browns Lake SWA,7.61,86,6.2,16.36,36,1,<5,,31,1100,1400,120,0.26,<0.3,0.89,,0.15,<1.0,<3,<10,
+FY06,8/24/2005,Routine Sample,8147,Cross Creek,above confluence with Beaver Creek,8.23,121,9.04,6.6,52,<1,<5,,52,<10,10,<2,<0.03,<0.3,0.81,,0.078,<1.0,<3,<10,
+FY06,8/24/2005,Routine Sample,8629,South Fork Carnero Creek,at FR 675 above campground,8.03,126,7.63,15.94,52,<1,<5,,51,270,880,32,<0.03,<0.3,<0.5,,0.16,<1.0,3,<10,
+FY06,8/24/2005,Routine Sample,8415,Pinos Creek,near Del Norte,8.01,122,8.48,11.3,50,<1,<5,,47,61,140,8,<0.03,<0.3,<0.5,,0.078,<1.0,4,<10,
+FY06,8/25/2005,Routine Sample,8520,Cotton Creek,at gage,8.32,308,9.01,7.94,85,<1,<5,,150,<10,35,<2,<0.03,<0.3,<0.5,,<0.01,<1.0,55,<10,
+FY06,8/25/2005,Routine Sample,8565,North Crestone Creek,near Crestone,8.2,101,9.64,8.28,40,<1,<5,,45,<10,30,<2,0.03,<0.3,<0.5,,<0.01,<1.0,<3,<10,
+FY06,9/12/2005,Routine Sample,7115,Tallahassee Creek,nr mouth,8.58,901,6.44,21.62,290,1,<5,,310,<10,<10,<2,<0.03,<0.3,<0.5,,0.044,6.8,120,<10,
+FY06,9/12/2005,Routine Sample,7117,Currant Creek,at Wormer Gulch STL,8.76,694,9.03,16.76,280,<1,<5,,230,<10,<10,<2,<0.03,<0.3,<0.5,,0.054,1.6,40,<10,
+FY06,9/13/2005,Routine Sample,7241,Fourmile Creek,at Garden Park,8.27,1120,7.37,12.25,190,1,<5,,480,46,130,75,<0.03,<0.3,<0.5,,0.039,1.1,380,<10,
+FY06,9/13/2005,Routine Sample,7250,Cripple Creek,above Fourmile Creek,8.29,1051,6.56,14.49,98,2,<5,,260,15,170,9,0.03,6.2,0.62,,0.36,1.2,160,17,
+FY06,9/14/2005,Routine Sample,7118,Grape Creek,at Temple Canyon Park,8.58,343,6.36,15.29,170,1,<5,,150,18,240,7,0.03,<0.3,<0.5,,0.049,<1,17,<10,
+FY06,9/14/2005,Routine Sample,7125,Texas Creek,at Arkansas River at Hwy 50,8.53,379,7.4,14.28,210,2,<5,,170,43,170,9,<0.03,<0.3,<0.5,,0.03,<1,5,<10,
+FY06,9/14/2005,Routine Sample,7130,Hayden Creek,at Coaldale Campground,8.46,292,8.27,6.78,110,<1,<5,,120,25,150,9,0.03,<0.3,<0.5,,<0.01,<1,28,<10,
+FY06,9/15/2005,Routine Sample,7220,Oak Creek,at Oak Creek Campground,8.3,500,7.19,11.59,230,<1,<5,,190,25,2200,8,0.03,<0.3,<0.5,,0.062,1.1,32,<10,
+FY06,9/15/2005,Routine Sample,7222,Hardscrabble Creek,above Greenwood,8.43,360,7.01,14.67,140,<1,<5,,140,73,170,6,0.03,<0.3,<0.5,,0.047,<1,30,<10,
+FY06,9/15/2005,Routine Sample,7129,Arkansas River,at Salt Lick Recreation site,8.46,292,7.91,11.06,120,3,<5,,140,<10,12,<2,<0.03,<0.3,<0.5,,<0.01,<1,24,<10,
+FY06,9/26/2005,Routine Sample,8367,Trinchera Creek,above Mountain Home Reservoir,7.7,182,8.35,16.17,76,,<5,,74,390,550,87,0.03,<0.3,<0.5,,0.025,<1.0,9,<10,
+FY06,9/26/2005,Routine Sample,8375,Sangre de Cristo Creek,near Fort Garland,8.12,422,10.42,12.32,190,,<5,,190,33,170,160,0.03,<0.3,<0.5,,0.041,<1.0,16,<10,
+FY06,9/27/2005,Routine Sample,8315,Culebra Creek,at San Luis,8.39,243,11.66,14.52,110,,<5,,100,78,160,16,0.03,<0.3,2.8,,0.046,<1.0,7,<10,
+FY06,9/27/2005,Routine Sample,8329,Rito Seco Creek,above Battle Mountain Mine,7.69,133,10.59,6.88,58,,<5,,54,150,340,27,0.03,<0.3,<0.5,,0.05,<1.0,3,<10,
+FY06,9/27/2005,Routine Sample,8348,Alamosa River,at Gomez,6.61,321,8.92,15.37,<10,,<5,,110,41,170,210,0.03,<0.3,<0.5,,<0.01,<1.0,110,22,
+FY06,9/27/2005,Routine Sample,8355,Hot Creek,at Hot Creek SWA,8.66,205,9.05,19.95,97,,<5,,68,58,780,24,0.05,<0.3,<0.5,,0.11,<1.0,<3,<10,
+FY06,9/28/2005,Routine Sample,8337,La Jara Creek,at La Jara State Wildlife Area,8.05,177,9.28,12.5,80,,<5,,61,200,600,36,0.03,<0.3,<0.5,,<0.01,<1.0,<3,<10,
+FY06,9/28/2005,Routine Sample,8350,Alamosa River,at FR 250 Bridge,6.78,96,10.58,8.62,14,,<5,,32,330,2500,85,0.03,<0.3,<0.5,,<0.01,<1.0,22,<10,
+FY06,9/28/2005,Routine Sample,8705,Elk Creek,above mouth at campground,7.48,57,9.38,10.54,24,,<5,,20,170,480,7,0.03,<0.3,<0.5,,0.08,<1.0,<3,<10,
+FY06,9/29/2005,Routine Sample,8715,La Manga Creek,above Elk Creek,7.68,101,10.43,7.6,43,,<5,,31,260,450,3,0.04,<0.3,<0.5,,0.095,<1.0,<3,<10,
+FY06,5/9/2006,Routine Sample,7502,Timpas Creek,3 mi SW of Timpas East of Brown Reservoir,7.72,278,7.22,17.93,,<1,,26,,,,,,<0.3,<0.5,,0.028,4.6,1500,,8
+FY06,5/9/2006,Routine Sample,7590,Chicosa Arroyo,at 75.0 Rd,8.16,405,7.62,18.53,,<1,,74,,,,,,<0.3,<0.5,,0.015,10.6,2500,,8
+FY06,5/10/2006,Routine Sample,7853,Clay Creek,at Highway 287,7.64,1358,4.93,18.77,,1,,32,,,,,,<0.3,0.6,,0.068,5.8,500,,8
+FY06,5/10/2006,Routine Sample,7997A,East Carrizo Creek,at Carrizo Picnic Area,7.73,627,6.43,14.32,,3,,18,,,,,,<0.3,<0.5,,0.15,5.3,52,,8
+FY07,7/17/2006,Routine Sample,6543A,Arikaree River,at DD Rd. bridge,8.21,565,9.26,31.41,280,7,<5,7,200,39,300,14,<0.03,<0.3,<0.5,,0.08,<1.0,12,<10,28
+FY07,7/17/2006,Routine Sample,6026,Black Wolf Creek,at Hwy 385,8.11,426,8.39,26.11,200,11,<5,6,150,43,790,8,0.07,0.69,0.69,,0.04,<1.0,11,<10,46
+FY07,7/18/2006,Routine Sample,6266,North Fork Republican River,at Sandsage SWA,7.82,370,8.81,17.4,170,9,<5,3,140,35,580,13,0.04,1.6,<0.5,,0.04,<1.0,11,<10,40
+FY07,7/18/2006,Routine Sample,6030,Chief Creek,"at DOW Hatchery Bridge, u/s from Wray",8.17,312,7.43,24.86,140,10,<5,3,110,40,100,5,0.09,0.74,<0.5,,0.04,<1.0,9,<10,12
+FY07,8/7/2006,Routine Sample,11770,South Fork White River,at Oak Ridge SWA near gage,8.27,303,7.19,31.8,120,<1,<5,,140,16,63,3,0.04,<0.3,<0.5,,0.02,<1.0,29,<10,
+FY07,8/7/2006,Routine Sample,11765,East Miller Creek,at Cty Rd 57,8.09,828,7.28,11.59,150,<1,<5,,440,<10,13,2,<0.03,0.44,<0.5,,<0.01,<1.0,300,<10,
+FY07,8/8/2006,Routine Sample,11601,Piceance Creek,at Cty Rd 5,7.88,277,6.77,15.79,970,5,<5,,560,130,270,120,<0.03,<0.3,0.6,,0.16,<1.0,600,<10,
+FY07,8/8/2006,Routine Sample,11625,Black Sulphur Creek,at 29 Rd.,7.93,993,6.54,13.94,340,2,<5,,380,50,120,38,<0.03,<0.3,<0.5,,0.02,1.8,200,<10,
+FY07,8/8/2006,Routine Sample,11728,Duck Creek,at Cty Rd 20,8.25,259,5.47,22.21,390,3,<5,,450,11,1200,59,<0.03,<0.3,<0.5,,0.05,1.2,380,<10,
+FY07,8/9/2006,Routine Sample,11732A,Yellow Creek,at confluence with Barcus Creek,8.17,282,9.28,14.67,690,5,<5,,800,14,22,<2,<0.03,0.47,0.52,,0.03,2.5,930,<10,
+FY07,8/9/2006,Routine Sample,11726,East Douglas Creek,above Cathedral Creek,8.42,765,5.54,20.47,240,2,<5,,290,16,2300,5,<0.03,<0.3,<0.5,,0.05,<1.0,180,<10,
+FY07,8/10/2006,Routine Sample,11722,Cathedral Creek,at Cty Rd 28,8.19,1480,7.15,14.79,500,4,<5,,840,14,170,5,0.03,0.84,0.74,,0.06,7.1,1000,<10,
+FY07,8/10/2006,Routine Sample,11720,West Douglas Creek,above West Creek,8.33,296,6.6,13.42,330,<1,<5,,1100,23,110,59,0.03,<0.3,0.7,,0.02,<1.0,1400,<10,
+FY07,8/14/2006,Routine Sample,11412,Little Snake River,at FR 129 (on Williams property),8.3,198,8.19,22.79,84,3,<5,3,70,90,230,7,<0.03,<0.3,<0.5,,0.02,<1.0,8,<10,
+FY07,8/14/2006,Routine Sample,11446,Slater Creek,at Cty. Rd. 1 nr. USGS station,8.42,322,6.91,21.5,160,1,<5,<2,130,100,410,25,<0.03,<0.3,<0.5,<0.5,0.04,<1.0,7,<10,
+FY07,8/15/2006,Routine Sample,11480,Talamantes Creek,at 94 Rd,8.46,373,8.26,11.78,180,2,<5,3,180,20,260,3,<0.03,<0.3,<0.5,<0.5,0.06,<1.0,7,<10,
+FY07,8/15/2006,Routine Sample,11485,Vermillion Creek,at Hwy 318,8.46,964,8.27,18.6,180,3,<5,130,230,13,890,3,<0.03,<0.3,<0.5,<0.5,0.04,2.2,110,<10,
+FY07,8/16/2006,Routine Sample,12832,Little Bear Creek,at 27 Rd N. of Craig,8.76,102,7.56,22.32,49,<1,<5,<2,41,73,140,2,0.03,<0.3,<0.5,<0.5,0.03,<1.0,<3,<10,
+FY07,9/11/2006,Routine Sample,11193,Garfield Creek,at 312 Rd in SWA,8.42,669,10.37,13.75,,1,,8,,24,83,,<0.03,<0.3,<0.5,<0.5,0.01,<1.0,230,,<10
+FY07,9/11/2006,Routine Sample,11187,East Divide Creek,at 313 Rd near gage,8.59,504,9.41,16.87,,<1,,7,,35,1900,,<0.03,<0.3,0.59,0.62,0.07,2.5,40,,120
+FY07,9/11/2006,Routine Sample,11190A,Main Elk Creek,at FR 243,8.35,319,9.75,17.75,,<1,,<2,,<10,<10,,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,11,,<10
+FY07,9/12/2006,Routine Sample,11175,Middle Rifle Creek,above West Rifle Creek,7.97,815,9.68,10.56,,<1,,6,,31,130,,<0.03,<0.3,0.74,0.96,0.01,<1.0,230,,<10
+FY07,9/12/2006,Routine Sample,11140,Parachute Creek,below confluences,8.5,721,11.57,14.91,,4,,18,,12,170,,<0.03,1.1,<0.5,1.3,0.02,2.7,100,,<10
+FY07,9/12/2006,Routine Sample,11207,Dry Fork,at Cty Rd 222,8.44,2540,9.52,19.11,,4,,21,,24,1100,,<0.03,<0.3,<0.5,<0.5,0.03,2.6,1000,,56
+FY07,9/13/2006,Routine Sample,11208,Roan Creek,above Mud Spring Canyon,8.34,772,10.22,8.43,,2,,6,,11,36,,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,130,,<10
+FY07,9/13/2006,Routine Sample,11206,Carr Creek,above Scott Hill Rd.,8.44,711,9.85,10.95,,3,,3,,<10,17,,<0.03,0.43,0.52,0.95,<0.01,1.5,86,,<10
+FY07,9/13/2006,Routine Sample,11217,Clear Creek,at Chevron gage,7.8,906,7.39,12.54,,3,,14,,<10,<10,,<0.03,1,<0.5,1.2,<0.01,2.2,130,,<10
+FY07,9/13/2006,Routine Sample,11250,Buzzard Creek,at 64.3 Rd,8.5,648,11.87,20.07,,2,,8,,31,96,,<0.03,<0.3,<0.5,<0.5,0.02,<1.0,78,,<10
+FY07,9/18/2006,Routine Sample,12372C,Cataract Creek,at outlet of Cataract Creek,8.17,48,10.29,11.27,22,<1,<5,<2,20,180,230,5,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,4,17,<10
+FY07,9/19/2006,Routine Sample,12225,Keyser Creek,near mouth,6.43,920,11.91,2.09,39,<1,<5,<2,37,25,59,<2,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,6,<10,<10
+FY07,9/19/2006,Routine Sample,12230,Williams Fork,at FR 141 at bridge,7.23,890,9.51,9.02,39,<1,<5,<2,27,130,190,5,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,5,<10,<10
+FY07,9/20/2006,Routine Sample,12205,Williams Fork,at Henderson Mine,7.57,74,10,5.39,32,<1,<5,<2,29,270,460,14,<0.03,<0.3,<0.5,<0.5,<0.01,<1.0,4,<10,<10
+FY07,9/20/2006,Routine Sample,12180,Meadow Creek,below Meadow Reservoir,7.64,121,9.17,7.24,60,<1,<5,<2,41,420,1400,73,<0.03,<0.3,0.69,0.71,0.02,<1.0,<3,<10,<10
+FY07,10/12/2006,Routine Sample,8146G,North Branch to Pass Creek,at Hwy 160,7.25,53,11.4,2.68,15,<1,,4,,,,,,<0.3,<0.5,<0.5,0.03,,4,,
+FY07,10/12/2006,Routine Sample,8146F,North Branch to Pass Creek,below Wolf Creek parking lot drainage,7.24,57,11.31,4.56,16,<1,,5,,,,,,<0.3,<0.5,<0.5,0.04,,4,,
+FY07,10/12/2006,Routine Sample,8146E,North Branch to Pass Creek,USFS site 1,7.42,62,11.31,5.04,<10,<1,,7,,,,,,<0.3,<0.5,<0.5,0.04,,3,,
+FY07,4/30/2007,Routine Sample,7998,South Rush Creek,near Punkin Center,8.1,1080,8.26,16.09,,2,,56,,,,,,<0.3,<0.5,<0.5,0.03,<1.0,220,,<10
+FY07,4/30/2007,Routine Sample,7527,Steels Fork,at Cty. Rd 11,8.4,701,8.52,21.91,,5,,41,,,,,,<0.3,0.76,0.76,0.16,1.7,68,,<10
+FY07,4/30/2007,Routine Sample,7512,Chico Creek,at Rd. 3,8.13,1559,6.4,22.71,,2,,25,,,,,,<0.3,<0.5,<0.5,0.04,1.5,520,,<10
+FY07,5/1/2007,Routine Sample,7283,Red Creek,at Siloam,8.42,698,8.06,14.89,,4,,14,,,,,,3.6,<0.5,4.01,0.34,3.1,94,,302
+FY07,5/1/2007,Routine Sample,7284,Rock Creek,at Cty Rd. 200,8.2,1968,8.04,22.24,,<1,,19,,,,,,0.32,<0.5,0.75,<0.01,8.2,1100,,<10
+FY07,5/2/2007,Routine Sample,7620,Wahatoya Creek,at Rd 358,8.04,116,9.69,6.54,,<1,,2,,,,,,<0.3,<0.5,<0.5,0.19,<1.0,13,,170
+FY07,5/1/2007,Routine Sample,7286A,Peck Creek,at Bronquist,8.71,1305,6.36,17.86,,<1,,17,,,,,,<0.3,<0.5,<0.5,0.04,5,550,,<10
+FY07,5/2/2007,Routine Sample,7630,Bear Creek,at 330 Rd.,8.76,1192,7.7,16.52,,<1,,22,,,,,,<0.3,<0.5,<0.5,0.03,<1.0,85,,16
+FY07,5/30/2007,Routine Sample,7595,Del Agua Arroyo,at Hwy I-25 Frontage Rd.,8.53,1109,9.82,10.42,,<1,,14,,,,,,<0.3,,<0.5,0.02,3.3,240,,32
+FY07,5/30/2007,Routine Sample,7635,Santa Clara Creek,at Hwy I-25,8.3,484,9,12.4,,<1,,3,,,,,,<0.3,,<0.5,0.04,1.7,33,,62
+FY07,5/30/2007,Routine Sample,7226,Hardscrabble Creek,at Cty Rd 19,8.29,705,8.64,17.91,,<1,,10,,,,,,<0.3,,<0.5,0.08,2.2,250,,26
+FY08,7/16/2007,Routine Sample,10666,Billy Creek,at end of Cty Rd 2,10.2,127,6.84,18.23,70,1,<5,<2,50,110,1300,4,<0.03,,<0.5,,<0.01,<1.0,4,13,56
+FY08,7/16/2007,Routine Sample,10672,Deer Creek,at Cty Rd 8A,8.42,161,7.41,16.56,88,<1,<5,<2,70,93,960,7,<0.03,,<0.5,,0.2,<1.0,5,10,56
+FY08,7/17/2007,Routine Sample,10567,Potter Creek,at mouth,8.26,866,7.64,28.74,240,<1,<5,15,310,25,40,10,<0.03,,<0.5,,<0.01,<1.0,240,11,<10
+FY08,7/17/2007,Routine Sample,10634,Spring Creek,at Spring Canyon Rd.,8.06,542,8.72,18.92,180,2,<5,4,190,75,130,57,<0.03,,0.53,,0.18,<1.0,130,20,<10
+FY08,7/18/2007,Routine Sample,10551,Escalante Creek,at Escalante SWA,8.66,357,7.89,26.15,150,16,<5,6,140,13,27,<2,<0.03,,<0.5,,0.01,<1.0,42,<10,<10
+FY08,7/18/2007,Routine Sample,10558,Nork Fork Escalante Creek,above mouth,8.61,354,9.16,20.22,200,25,<5,<2,180,58,200,6,<0.03,,1.5,,0.01,<1.0,5,11,<10
+FY08,7/18/2007,Routine Sample,10559,Middle Fork Escalante Creek,above confluence with East Fork,8.73,258,8.25,24.05,140,15,<5,<2,120,100,180,4,<0.03,,0.5,,0.01,<1.0,6,<10,10
+FY08,7/18/2007,Routine Sample,10618,East Fork Dry Creek,at FR 540,8.02,172,9.89,13.51,88,<1,<5,<2,79,170,200,10,<0.03,,<0.5,,<0.01,<1.0,9,15,<10
+FY08,7/19/2007,Routine Sample,10570,Kannah Creek,at Kannah Creek Trailhead,8.09,98,10.57,14.51,54,<1,<5,<2,44,61,180,4,<0.03,,<0.5,,0.04,<1.0,4,14,12
+FY08,7/30/2007,Routine Sample,10215,Smith Fork,at USGS gage at FR 712,8.02,147,9.42,22.59,,,,<2,,51,,,,<0.3,,<0.5,0.02,,17,,<10
+FY08,7/31/2007,Routine Sample,10266,Mill Creek,at TR 438 off 727 Rd.,broke,broke,broke,broke,,,,<2,,220,,,,<0.3,,<0.5,0.84,,<3,,<10
+FY08,8/1/2007,Routine Sample,10262,Beaver Creek,at Gunnison SWA at 762 Rd,7.43,53,9.53,11.63,,,,<2,,180,,,,<0.3,,<0.5,0.07,,<3,,<10
+FY08,8/1/2007,Routine Sample,10271A,South Beaver Creek,at powerline service rd.,7.85,167,7.35,22.51,,,,<2,,1200,,,,<0.3,,0.53,0.31,,<3,,<10
+FY08,8/2/2007,Routine Sample,10350,Razor Creek,at 45 Rd. Bridge,,377,9.28,13.82,,,,2,,380,,,,<0.3,,0.75,0.38,,20,,10
+FY08,8/13/2007,Routine Sample,5773,Bear Creek,at Waconda Park,7.75,103,12.04,16.64,,<1,,3,,,36,,,<0.3,,<0.5,0.02,<1.0,8,<10,<10
+FY08,8/13/2007,Routine Sample,5774,Carpenter Creek,at 74 Rd.,7.54,245,8.37,23.12,,<1,,17,,,1500,,,<0.3,,0.66,0.08,<1.0,13,<10,<10
+FY08,8/13/2007,Routine Sample,5776A,West Plum Creek,at Haystack Ranch,6.74,158,7.98,15.81,,<1,,9,,,150,,,<0.3,,<0.5,0.02,<1.0,22,<10,<10
+FY08,8/14/2007,Routine Sample,5771,Jackson Creek,at Jackson Creek Rd.,7.66,147,11.39,20.73,,<1,,4,,,420,,,<0.3,,<0.5,0.12,<1.0,13,<10,<10
+FY08,8/14/2007,Routine Sample,5779B,East Plum Creek,above Emily Griffith School,7.84,105,11.82,15.37,,<1,,<2,,,65,,,<0.3,,<0.5,0.02,<1.0,6,<10,<10
+FY08,8/15/2007,Routine Sample,5589,South Boulder Creek,at South Mesa Open Space,7.71,51,10.35,13.33,,<1,,2,,,73,,,<0.3,,<0.5,0.01,<1.0,6,<10,<10
+FY08,8/15/2007,Routine Sample,5823,Turkey Creek,above reservoir,8.14,1561,9.19,16.36,,<1,,130,,,97,,,0.48,,0.73,0.02,5.8,650,<10,<10
+FY08,8/15/2007,Routine Sample,5757A,Mount Vernon Creek,at Matthews/Winters Park,8.24,1311,9.45,15.51,,<1,,350,,,88,,,1.9,,3.4,0.07,10,21,12,<10
+FY08,8/16/2007,Routine Sample,5775,Cook Creek,at 74 Rd.,7.09,172,8.21,18.71,,1,,14,,,2400,,,<0.3,,<0.5,0.08,1.4,5,<10,<10
+FY08,8/16/2007,Routine Sample,5772A,Garber Creek,above Bee Rock Rd.,8.19,196,10.66,16.95,,<1,,6,,,370,,,<0.3,,<0.5,0.06,1.3,15,<10,<10
+FY08,8/28/2007,Routine Sample,29,St. Vrain Creek,at mouth,8.28,1098,7.81,24.03,,,,54,,26,,,,3.8,,4.7,0.75,,350,,24
+FY08,8/27/2007,Routine Sample,5459,Little Thompson River,above Parrish Ranch,7.69,502,6.16,17.84,,,,8,,42,,,,<0.3,,<0.5,0.02,,170,,<10
+FY08,8/28/2007,Routine Sample,5366,North Fork Cache La Poudre River,at Road 74E,8.54,386,10.2,21.63,,,,10,,49,,,,<0.3,,0.91,0.01,,10,,<10
+FY08,8/28/2007,Routine Sample,5377A,Boxelder Creek,at 15 Rd. NW of Wellington,8.27,240,7.66,20.92,,,,2,,150,,,,<0.3,,0.65,0.05,,62,,15
+FY08,8/29/2007,Routine Sample,5395,Buckhorn Creek,below Sheep Creek,8.1,50,8.15,14.96,,,,2,,260,,,,<0.3,,<0.5,0.04,,3,,<10
+FY08,8/30/2007,Routine Sample,5208,Crow Creek,at Nagakawa SWA,8.08,1323,5.4,20.59,,,,87,,15,,,,6.6,,7.8,2,,470,,<10
+FY08,9/10/2007,Routine Sample,10917,North Fork Mesa Creek,at Cty Rd. 19.5,9,421,9.54,22.01,,3,,37,,,,,,<0.3,,<0.5,0.01,3.5,44,<10,<10
+FY08,9/10/2007,Routine Sample,10980,Roc Creek,near mouth abv. Dolores River,7.3,1540,8.77,22.42,,2,,440,,,,,,<0.3,,<0.5,0.21,2.1,67,<10,260
+FY08,9/11/2007,Routine Sample,10834,Naturita Creek,at Cty Rd. 1135,8.47,1321,8.45,12.65,,1,,18,,,,,,<0.3,,<0.5,0.05,1.4,590,17,89
+FY08,9/11/2007,Routine Sample,10840,Tabeguache Creek,near mouth,8.44,641,7.91,15.36,,2,,17,,,,,,<0.3,,<0.5,0.02,1.7,62,<10,16
+FY08,9/11/2007,Routine Sample,10845,Cottonwood Creek,above mouth,8.49,877,9.13,12.38,,<1,,7,,,,,,<0.3,,<0.5,<0.01,<1.0,370,<10,<10
+FY08,9/12/2007,Routine Sample,10847,Maverick Draw,at 37.5 Rd.,8.51,1216,7.56,17.15,,2,,25,,,,,,<0.3,,<0.5,0.1,1.8,440,10,51
+FY08,9/12/2007,Routine Sample,10906,La Sal Creek,at Hwy 90 and X4 Rd.,8.56,341,8.66,14.93,,2,,3,,,,,,<0.3,,<0.5,0.02,1.6,14,<10,10
+FY08,9/12/2007,Routine Sample,10905G,West Paradox Creek,at Cty Rd. U1,8.61,182,8.84,13.76,,1,,<2,,,,,,<0.3,,<0.5,0.02,1.4,8,<10,<10
+FY08,9/13/2007,Routine Sample,10922,Ute Creek,at mouth,8.24,0,10.17,9.77,,2,,6,,,,,,<0.3,,0.75,0.16,2.2,6,16,270
+FY09,7/14/2008,Routine Sample,12851B,Sage Creek,in canyon on Rd 37,8.38,1019,8.83,15.67,270,<1,<5,9,530,23,,53,<0.03,<0.1,<0.5,<0.5,0.02,<1,320,30,<10
+FY09,7/15/2008,Routine Sample,12846,Elkhead Creek,at Rippy property,8.92,166.4,8.76,22.61,80,<1,<5,<2,,57,,4,<0.03,<0.1,<0.5,<0.5,0.02,<1,10,12,<10
+FY09,7/15/2008,Routine Sample,12849,First Creek,east of USFS/State boundary,8.11,110.1,11.93,9.42,56,<1,<5,<2,61,110,,23,<0.03,<0.1,<0.5,<0.5,0.05,<1,,<10,<10
+FY09,7/15/2008,Routine Sample,12846A,Elkhead Creek,above Rippy property,8.76,165.8,8.88,21.7,76,<1,<5,<2,73,56,,5,<0.03,<0.1,<0.5,<0.5,0.02,<1,10,36,<10
+FY09,7/15/2008,Routine Sample,WCOP99-0565,Elkhead Creek,at EMAP site,8.87,190.4,10.89,21.36,84,<1,<5,<2,,180,,13,<0.03,<0.1,<0.5,<0.5,0.01,<1,12,<10,<10
+FY09,7/16/2008,Routine Sample,12840,Elkhead Creek,at Highway 40,broke,broke,broke,broke,90,<1,<5,3,,250,,17,<0.03,<0.1,<0.5,<0.5,0.02,<1,32,<10,<10
+FY09,7/16/2008,Routine Sample,12843,Elkhead Creek,at County Rd. 76,8.57,340.1,6.9,17.15,130,<1,<5,3,140,64,,8,<0.03,<0.1,<0.5,<0.5,0.02,<1,47,<10,<10
+FY09,7/16/2008,Routine Sample,12863,Mad Creek,at Christina SWA,7.53,21.24,8.2,15.47,12,<1,<5,<2,,42,,<2,<0.03,<0.1,<0.5,<0.5,<0.01,<1,<3,<10,<10
+FY09,7/16/2008,Routine Sample,12843A,Elkhead Creek,below Elkhead Reservoir,8.36,213.5,8.24,16.74,80,<1,<5,2,,350,,20,0.03,<0.1,<0.5,<0.5,0.03,<1,25,<10,<10
+FY09,7/29/2008,Routine Sample,10121,Cement Creek,above campground,8.37,332.8,9.58,8.94,140,<1,<5,<2,190,17,,10,<0.03,<0.1,<0.5,<0.5,<0.01,<1,32,19,<10
+FY09,7/29/2008,Routine Sample,10267,Mill Creek,below West Elk Wilderness Trailhead,7.78,66.26,8.1,15.39,32,<1,<5,<2,25,96,,15,<0.03,<0.1,<0.5,<0.5,0.09,<1,<3,<10,<10
+FY09,7/30/2008,Routine Sample,10125,Smith Fork,above Smith Fork Campground,7.94,141.7,7.31,20.58,52,<1,<5,<2,60,56,,15,<0.03,<0.1,<0.5,<0.5,0.02,<1,16,18,<10
+FY09,7/30/2008,Routine Sample,10250,Soap Creek,at Soap Creek Campground,8.03,111.8,8,17.05,50,<1,<5,<2,48,30,,6,<0.03,<0.1,<0.5,<0.5,0.03,<1,7,<10,<10
+FY09,7/30/2008,Routine Sample,10262,Beaver Creek,at Gunnison SWA at 762 Rd,7.53,56.23,9,10.21,32,<1,<5,<2,22,180,,35,<0.03,<0.1,<0.5,<0.5,0.07,<1,<3,<10,<10
+FY09,7/31/2008,Routine Sample,12741,Snowmass Creek,at 8 Rd.,8.45,204.4,8.9,13.91,68,<1,<5,<2,98,<10,,3,<0.03,<0.1,<0.5,<0.5,<0.01,<1,35,11,<10
+FY09,7/31/2008,Routine Sample,12771,Woody Creek,at FR 103 above Lenado,7.48,38.21,8.57,11.8,22,<1,<5,<2,16,37,,<2,<0.03,<0.1,<0.5,<0.5,0.02,<1,<3,<10,<10
+FY09,7/31/2008,Routine Sample,12792,Sopris Creek,at Emma Road Bridge,8.54,413.9,8.82,13.91,150,<1,<5,3,230,32,,10,<0.03,<0.1,0.52,0.59,0.03,<1,66,25,<10
+FY09,8/18/2008,Routine Sample,5254,Cherry Creek,at Franktown at Hwy 86,7.65,166.6,7.42,17.65,60,1,5,9,65,320,7100,40,<0.03,0.26,<0.5,0.68,0.42,<1,9,21,210
+FY09,8/18/2008,Routine Sample,5256,Cherry Creek,at Prairie Canyon Ranch,7.08,144.2,6.6,15.01,52,<1,6,8,55,400,3200,59,<0.03,0.26,0.54,0.8,0.49,<1,8,21,31
+FY09,8/18/2008,Routine Sample,5258,West Cherry Creek,at Jones Rd.,7.15,209.9,7.08,11.11,56,<1,6,18,70,660,1100,67,<0.03,<0.1,0.66,0.7,0.2,<1,14,26,<10
+FY09,8/18/2008,Routine Sample,5253A,Cherry Creek,at Castle Oak Dr.,7.64,174.2,7.46,19.2,64,1,<5,10,64,200,5800,17,<0.03,0.27,<0.5,0.75,0.41,<1,10,13,180
+FY09,8/18/2008,Routine Sample,EPA02-CC01,Cherry Creek,below Castlewood Canyon,7.89,151.9,8.22,16.3,58,1,<5,9,58,180,6500,10,<0.03,0.27,<0.5,0.68,0.42,<1,8,18,290
+FY09,8/19/2008,Routine Sample,5252,Cherry Creek,at Bow Tie Open Space,8.04,579.2,6.3,24.11,150,3,10,46,180,200,2500,44,<0.03,0.79,<0.5,1.3,0.32,<1,72,40,68
+FY09,8/19/2008,Routine Sample,5253,Cherry Creek,behind Stroh Soccer Fields,7.49,276.2,7.89,16.03,86,2,14,19,99,140,1800,100,<0.03,0.19,<0.5,0.66,0.4,<1,20,23,30
+FY09,8/19/2008,Routine Sample,5252A,Cherry Creek,at Ecological Park,7.91,552.6,7.05,21.33,150,2,13,44,170,93,3400,49,<0.03,0.79,<0.5,1.3,0.38,<1,67,36,110
+FY09,8/19/2008,Routine Sample,5252B,Cherry Creek,at Sulphur Gulch Trail,7.67,349,6.9,20.53,,2,,25,,,,,,,,0.53,,,,,110
+FY09,9/8/2008,Routine Sample,9672,La Plata River,at 122 Rd.,8.41,299.3,7.59,19.01,120,<1,<5,3,130,40,,6,<0.03,<0.1,<0.5,<0.5,<0.01,1.1,30,<10,<10
+FY09,9/8/2008,Routine Sample,9676,La Plata River,at Ridgewood Event Center,8.48,210.8,7.74,18.25,82,<1,<5,2,96,18,,<2,<0.03,<0.1,<0.5,<0.5,<0.01,<1,16,<10,<10
+FY09,9/8/2008,Routine Sample,9678,La Plata River,at Hwy 140 Bridge,8.28,174.3,8.43,16.23,66,<1,<5,<2,81,70,,16,0.039,<0.1,<0.5,<0.5,<0.01,<1,16,<10,<10
+FY09,9/8/2008,Routine Sample,9680,La Plata River,at Hesperus (at Hwy 160),8.26,162.5,9.08,14.08,63,<1,<5,<2,77,74,,15,<0.03,<0.1,<0.5,<0.5,0.01,<1,17,<10,<10
+FY09,9/8/2008,Routine Sample,9687,La Plata River,at Mayday,7.71,144.7,8.61,7.79,50,<1,<5,<2,66,<10,,<2,<0.03,<0.1,<0.5,<0.5,<0.01,<1,19,<10,<10
+FY09,9/8/2008,Routine Sample,9690,La Plata River,at La Plata,7.87,153.8,9.22,6.51,50,<1,<5,<2,70,<10,,<2,<0.03,0.14,<0.5,<0.5,<0.01,<1,24,<10,<10
+FY09,9/9/2008,Routine Sample,9432,Junction Creek,at Forest Service Boundary,7.98,345.4,10.41,9.14,150,<1,<5,<2,150,<10,,<2,<0.03,<0.1,0.68,0.68,<0.01,<1,11,13,<10
+FY09,9/9/2008,Routine Sample,9683,La Plata River,at Sword of Truth,8.03,147.9,9.77,9.68,52,<1,<5,<2,67,<10,,2,<0.03,<0.1,0.54,0.57,<0.01,<1,18,12,<10
+FY09,9/11/2008,Routine Sample,101,San Miguel River,near Norwood,8.01,429.7,9.67,9.9,93,<1,<5,4,190,19,,10,<0.03,0.17,<0.5,0.53,0.02,<1,100,46,<10
+FY09,9/11/2008,Routine Sample,9426,Animas River,nr Trimble,7.31,547.2,10,14.79,110,<1,<5,20,210,73,,210,<0.03,<0.1,<0.5,<0.5,<0.01,1.4,130,120,<10
+FY09,9/11/2008,Routine Sample,10815,San Miguel River,at Society Turn,7.88,322,6.29,13.69,64,<1,<5,3,140,78,,110,<0.03,0.16,<0.5,0.52,0.01,<1,81,220,<10
+FY09,9/11/2008,Routine Sample,10817,Big Bear Creek,at mm 2,8.41,391.4,13.69,8.54,120,<1,<5,3,190,17,,<2,<0.03,<0.1,<0.5,<0.5,0.01,1.2,58,18,<10
+FY09,9/11/2008,Routine Sample,10871,South Fork San Miguel River,near mouth,8.13,548.9,8.1,13.1,68,<1,<5,3,280,23,,120,<0.03,<0.1,<0.5,<0.5,<0.01,1.1,240,55,<10
+FY09,9/23/2008,Routine Sample,52,Eagle River,at Gypsum,8.32,881.5,12.81,9.99,140,<1,<5,45,12,48,240,6,<0.03,0.38,<0.5,0.59,0.04,<1,100,<10,<10
+FY09,9/23/2008,Routine Sample,12541,Beaver Creek,at Avon,8.28,268.7,10.13,10.09,82,<1,<5,4,150,22,110,4,<0.03,<0.1,0.69,0.69,0.01,<1,42,16,<10
+FY09,9/23/2008,Routine Sample,12552,Gore Creek,at mouth near Minturn,9.18,367.8,10.62,11.21,120,<1,<5,17,190,<10,30,<2,<0.03,0.43,<0.5,0.59,0.08,<1,45,22,<10
+FY09,9/23/2008,Routine Sample,12553,Gore Creek,at Stephens Park in West Vail,9.07,372.8,9.68,11.08,110,<1,<5,16,190,<10,36,<2,<0.03,0.45,<0.5,0.54,0.08,<1,43,22,<10
+FY09,9/23/2008,Routine Sample,12501A,Eagle River,below Milk Creek near Wolcott,8.5,805.4,12.42,9.67,110,<1,<5,120,250,160,93,27,<0.03,0.61,<0.5,0.69,0.07,<1,110,44,<10
+FY09,9/23/2008,Routine Sample,12502D,Lake Creek,at Hwy 6 nr Edwards,8.29,451.6,10.21,10.78,120,<1,<5,4,270,10,40,3,<0.03,0.12,<0.5,0.61,<0.01,<1,100,28,<10
+FY09,9/23/2008,Routine Sample,12502H,Eagle River,blw Lake Cr in Edwards,8.44,414.8,10.16,10.87,100,<1,<5,11,210,97,180,31,<0.03,0.41,<0.5,<0.5,0.04,<1,82,38,<10
+FY09,9/23/2008,Routine Sample,12502I,Eagle River,abv Squaw Cr nr Edwards,8.28,790.7,10.7,10.42,100,<1,<5,120,220,82,310,29,<0.03,0.7,<0.5,0.96,0.12,<1,98,40,<10
+FY09,9/23/2008,Routine Sample,12554B,Gore Creek,at Westhaven Ln blw Vail WWTP,8.47,329.4,9.62,10,100,<1,<5,14,190,<10,13,3,<0.03,0.57,<0.5,0.68,0.08,<1,33,20,<10
+FY09,9/24/2008,Routine Sample,12515,Red Sandstone Creek,at mouth at Vail,8.44,2986,10.33,5.99,110,<1,<5,2,150,<10,<10,7,<0.03,<0.1,<0.5,<0.5,<0.01,<1,30,20,<10
+FY09,9/24/2008,Routine Sample,12555,Gore Creek,abv Vail,8.46,170.3,9.22,9.45,62,<1,<5,9,72,14,<10,4,<0.03,<0.1,<0.5,<0.5,<0.01,<1,4,<10,<10
+FY09,9/24/2008,Routine Sample,12502F,Eagle River,nr Benchmark Lake in Avon,8.34,321.3,10.47,7.3,96,<1,<5,8,200,190,37,69,<0.03,0.2,0.56,0.77,0.01,<1,58,54,<10
+FY09,9/24/2008,Routine Sample,12502G,Eagle River,at Reserve Rd in Edwards,7.98,404.7,10.64,7.47,110,<1,<5,10,210,110,22,28,<0.03,0.55,<0.5,0.68,0.04,<1,84,46,<10
+FY09,9/24/2008,Routine Sample,12554A,Gore Creek,at Forest Rd in Vail,8.59,340,10.03,7.84,110,<1,<5,17,180,<10,<10,3,<0.03,0.21,<0.5,<0.5,<0.01,<1,34,19,<10
+FY09,9/24/2008,Routine Sample,12555A,Gore Creek,downstream of Pulis Bridge,8.16,198.7,8.83,9.22,72,<1,<5,11,91,12,<10,5,<0.03,0.11,<0.5,<0.5,<0.01,<1,5,11,<10
+FY10,7/28/2009,Routine Sample,31,St. Vrain Creek,below Longmont,,,,,130,1,<5,31,400,54,1300,21,<0.03,1.8,<0.5,1.8,<0.01,1.8,360,11,35
+FY10,7/28/2009,Routine Sample,5511,St. Vrain Creek,below Longmont WWTP,7.93,720.1,7.37,19.98,130,<1,16,30,260,100,570,18,<0.03,1.6,<0.5,1.6,0.26,1.3,180,11,<10
+FY10,7/28/2009,Routine Sample,5512,St. Vrain Creek,at Hygiene Road,7.31,205.4,7.4,17.04,53,<1,26,3,85,200,750,52,<0.03,0.071,<0.5,0.071,0.12,<1,43,<10,13
+FY10,7/28/2009,Routine Sample,5570,Boulder Creek,at mouth,8.94,887.6,,21.46,210,2,<5,44,310,35,250,18,<0.03,0.32,<0.5,32,0.12,1.1,170,<10,<10
+FY10,7/29/2009,Routine Sample,5504,St. Vrain Creek,blw St. Vrain Valley WWTP,8.11,1012,7.16,18.72,160,,18,,370,100,2300,27,0.036,1.5,<0.5,,0.42,1.6,300,13,
+FY10,7/29/2009,Routine Sample,5571,Boulder Creek,at 1650 Rd.,8.56,107,8.25,19.22,150,2,18,40,190,130,1400,23,0.037,2.1,<0.5,2.14,0.46,1.3,98,11,47
+FY10,7/29/2009,Routine Sample,5572,Boulder Creek,u/s Coal Creek near Gooding,9.12,416,9.17,20.7,120,<1,12,29,170,95,450,9,<0.03,1.6,<0.5,1.6,0.54,<1,61,11,11
+FY10,7/29/2009,Routine Sample,5576,Boulder Creek,u/s Boulder WTP @ 61st,7.74,171.9,6.57,16.74,40,<1,6,18,55,140,580,15,0.097,0.26,<0.5,0.36,0.04,<1,9,<10,12
+FY10,8/4/2009,Routine Sample,5975,Twin Creek,above Lake George,8.21,402.4,8.31,17.74,120,1.2,<5,30,150,550,240,290,<0.03,<0.05,<0.5,,0.03,<1,15,<10,<10
+FY10,8/4/2009,Routine Sample,5971A2,Trout Creek,u/s of confluence with West Cr.,8.16,293.8,8.02,15.82,97,1.1,<5,15,100,86,780,260,<0.03,0.12,<0.5,0.12,0.2,<1,11,<10,23
+FY10,8/4/2009,Routine Sample,5971A3,Trout Creek,below Manitou Reservoir Lake,9.37,323.5,7.45,16.66,96,<1,7,<2,110,65,100,26,0.066,0.31,0.97,1.28,0.33,<1,<3,<10,13
+FY10,8/4/2009,Routine Sample,5971A4,Trout Creek ,u/s of South Meadows CG,7.59,351.2,6.72,13.15,98,<1,<5,30,110,160,260,220,0.055,1.6,0.5,2.1,0.28,<1,9,11,<10
+FY10,8/5/2009,Routine Sample,7243,Fourmile Creek,d/s of Cripple Creek confluence,7.86,536.4,8.18,16.92,110,<1,<5,14,210,370,650,92,<0.03,0.094,<0.5,0.094,0.06,<1,140,11,<10
+FY10,8/5/2009,Routine Sample,7250,Cripple Creek,above Fourmile Creek,8.04,1173,8.52,13.33,120,1.9,7,170,240,140,98,31,<0.03,9.5,<0.5,9.5,0.5,<1,130,21,<10
+FY10,8/5/2009,Routine Sample,7252,Cripple Creek,below Arequa Gulch,7.94,1211,8.32,11.25,110,1.5,8,200,240,56,97,44,<0.03,11.4,<0.5,11.4,0.19,<1,100,26,<10
+FY10,8/5/2009,Routine Sample,7263,Cripple Creek,above Arequa Gulch,7.94,1130,7.16,21.73,120,<1,8,170,200,56,190,570,<0.03,15.3,0.73,16,1.99,<1,68,53,<10
+FY10,8/25/2009,Routine Sample,5628,Clear Creek,100 yds below Argo Discharge,7.93,172.7,6.15,13.86,33,<1,<5,7,62,51,130,45,<0.03,0.14,<0.5,0.14,<0.01,<1,43,55,<10
+FY10,8/25/2009,Routine Sample,5638,West Fork Clear Creek,below Woods Creek,7.76,414,5.84,11.25,22,<1,<5,6,140,28,140,310,<0.03,0.21,<0.5,0.21,<0.01,<1,180,27,<10
+FY10,8/25/2009,Routine Sample,5642,Clear Creek,above Georgetown Reservoir,8.02,142.2,9.1,8.74,44,<1,<5,6,53,47,69,9,<0.03,0.15,<0.5,0.15,<0.01,<1,12,130,<10
+FY10,8/26/2009,Routine Sample,5634,Clear Creek,below West Fork,7.84,197.7,7.5,13.54,35,<1,<5,6,69,78,140,54,<0.03,0.21,<0.5,0.21,0.01,<1,45,34,<10
+FY10,8/27/2009,Routine Sample,5665,North Fork Clear Creek,above Chase Gulch,7.22,125.9,,11.62,27,<1,<5,12,40,42,43,62,<0.03,<0.05,<0.5,<0.5,<0.01,<1,11,78,<10
+FY10,8/28/2009,Routine Sample,5648A,Clear Creek,at Silver Plume,8.08,135.4,8.78,8.71,43,<1,<5,7,53,78,96,8,<0.03,0.15,<0.5,0.15,<0.01,<1,8,64,<10
+FY10,8/31/2009,Routine Sample,USFS-36311,Crosby Creek,100 m below Road Crossing,7.01,803,,14.28,38,<1,<5,<2,34,55,71,5,<0.03,<0.05,<0.5,<0.5,<0.01,<1,4,<10,
+FY10,8/31/2009,Routine Sample,USFS-363408,Colorado Creek,below confluence of 3 forks,6.48,1039,,12.5,52,2.1,<5,<2,45,170,220,20,<0.03,<0.05,<0.5,<0.5,0.02,<1,6,<10,
+FY10,8/31/2009,Routine Sample,USFS-364034,Little Grizzly Creek,30 m above headgate,5.6,1331,,14.39,38,<1,<5,<2,30,220,240,9,<0.03,<0.05,<0.5,<0.5,0.01,<1,<3,<10,
+FY10,9/1/2009,Routine Sample,151,Slate River,below Coal Creek,7.71,20.3,7.75,12.63,70,<1,<5,3,87,87,210,82,<0.03,0.073,<0.5,0.073,0.05,<1,22,11,
+FY10,9/1/2009,Routine Sample,USFS-363463,Whalen Creek,0.6 miles abv FR 615,5.6,,,10.5,20,<1,<5,<2,18,270,290,8,<0.03,<0.05,<0.5,<0.5,<0.01,<1,<3,<10,
+FY10,9/1/2009,Routine Sample,USFS-364785,Chedsey Creek,at Routt NF boundary,5.6,792,7.06,13.39,40,<1,<5,<2,36,350,390,35,<0.03,<0.05,<0.5,<0.5,<0.01,<1,<3,<10,
+FY10,9/1/2009,Routine Sample,USFS-365215,Newcomb Creek,0.7 miles blw FR 615,5.6,,,10.5,38,<1,<5,<2,37,410,540,10,<0.03,<0.05,<0.5,<0.5,<0.01,<1,5,<10,
+FY10,9/1/2009,Routine Sample,USFS-365274,Grizzly Creek,0.8 miles abv Highway 14,5.69,872,,16.06,37,1.3,<5,3,36,390,420,10,<0.03,<0.05,<0.5,<0.5,0.06,<1,<3,<10,
+FY10,9/2/2009,Routine Sample,10403,North Fork Gunnison River,abv Leroux Creek at 34 Rd.,8.24,1650,10.4,19.95,260,<1,<5,42,800,29,240,89,<0.03,<0.05,<0.5,<0.5,0.02,4.4,620,<10,
+FY10,9/2/2009,Routine Sample,10404G,North Fork Gunnison River,above Paonia WWTP,8.11,767.7,7.89,15.45,270,<1,<5,10,340,35,97,57,<0.03,<0.05,<0.5,<0.5,<0.01,1.1,110,<10,
+FY10,9/2/2009,Routine Sample,10406D,North Fork Gunnison River,blw Bear Ck @ Hwy 133 Bridge,8.28,239.6,8.79,13.69,110,<1,<5,3,92,23,260,7,<0.03,<0.05,<0.5,<0.5,0.01,<1,6,<10,
+FY10,9/2/2009,Routine Sample,USFS-376014,Indian Creek,at Routt NF boundary,7.15,1436,7.06,14.06,72,<1,<5,<2,55,2000,3300,33,<0.03,<0.05,0.53,0.53,0.18,<1,4,<10,
+FY10,9/2/2009,Routine Sample,USFS-381852,South Fork Arapaho Creek,above confluence with MF Arapaho Cr,5.69,833,7.06,10.39,39,<1,<5,<2,34,690,1100,54,<0.03,<0.05,<0.5,<0.5,0.13,<1,<3,<10,
+FY10,9/2/2009,Routine Sample,USFS-382557,Middle Fork Arapaho Creek,above confluence with SF Arapaho Cr,8.19,867,7.22,12.67,44,<1,<5,<2,36,250,380,9,<0.03,<0.05,<0.5,<0.5,0.1,<1,<3,<10,
+FY10,9/15/2009,Routine Sample,12564,Homestake Creek,@ FR 703 @ GAGE,6.92,47,,9.49,32,<1,<5,<2,19,400,610,64,<0.03,<0.05,<0.5,<0.5,<0.01,<1,4,<10,
+FY10,9/16/2009,Routine Sample,12710,Roaring Fork River,below Basalt,8.65,365.1,,13.58,180,<1,<5,3,160,28,4500,5,<0.03,0.071,<0.5,0.071,0.03,<1,76,<10,
+FY10,9/16/2009,Routine Sample,12780,Roaring Fork River,at Fother Gill,8.71,455.3,,12.43,100,<1,<5,4,210,11,36,5,<0.03,0.22,<0.5,0.51,0.06,<1,130,<10,
+FY10,9/16/2009,Routine Sample,12783,Roaring Fork River,below Aspen,,417.4,8.93,8.77,100,<1,<5,3,190,22,32,3,<0.03,0.15,<0.5,0.15,<0.01,<1,120,13,
+FY10,9/16/2009,Routine Sample,12786,Roaring Fork River,at Difficult Creek Campground,,84.8,8.74,9.72,29,<1,<5,<2,34,17,30,<2,<0.03,<0.05,<0.5,<0.5,<0.01,<1,12,<10,
+FY10,9/17/2009,Routine Sample,12797,Hunter Creek,at Red Mnt Bridge nr Aspen,,125.1,8.27,12.44,50,<1,<5,<2,51,68,99,4,<0.03,<0.05,<0.5,<0.5,<0.01,<1,10,<10,
+FY10,9/17/2009,Routine Sample,12761D,Brush Creek,at Brush Creek Rd.,8.42,491.2,8.42,15.4,170,1.2,<5,14,220,40,630,14,<0.03,0.95,0.53,1.5,0.22,<1,65,<10,
+FY10,9/18/2009,Routine Sample,142,Eagle River,at Redcliff,8.25,222,,7.42,100,<1,<5,2,110,95,210,6,<0.03,<0.05,<0.5,<0.5,0.01,<1,12,<10,
+FY10,9/18/2009,Routine Sample,12703A,Roaring Fork River,at Aspen Glen,8.32,485.5,8.95,12.04,130,<1,<5,5,210,16,44,7,<0.03,0.14,<0.5,0.14,0.03,<1,110,<10,
+FY10,9/22/2009,Routine Sample,5611,Clear Creek,below Croke Canal,7.7,281.1,6.79,14.13,40,<1,<5,18,84,71,1600,130,<0.03,0.17,<0.5,0.17,0.04,<1,59,56,
+FY10,9/22/2009,Routine Sample,5612,Clear Creek,below Wannamaker Canal,7.7,280.3,7.01,14.59,39,<1,<5,18,91,64,1800,64,<0.03,0.17,<0.5,0.17,0.04,<1,59,65,
+FY10,9/22/2009,Routine Sample,5616,Clear Creek,at Trestle bridge,7.7,286.1,7.34,12.12,40,<1,<5,19,91,50,750,72,<0.03,0.18,<0.5,0.58,0.02,<1,60,75,
+FY10,9/22/2009,Routine Sample,5618,Clear Creek,below Farmers Highline Canal,7.7,280.4,7.06,14.6,42,<1,5,20,95,38,880,82,<0.03,0.2,<0.5,0.2,0.03,<1,61,79,
+FY10,9/22/2009,Routine Sample,5620,Clear Creek,at Ford St bridge,7.6,269.8,9.13,6.16,36,<1,<5,16,90,47,680,100,<0.03,0.19,<0.5,0.52,0.02,<1,58,110,
+FY10,9/23/2009,Routine Sample,5606,Clear Creek,at I-70 bridge,7.88,389.8,8.49,14.29,82,<1,<5,29,330,45,900,15,0.35,0.49,0.91,1.4,0.38,<1,64,<10,
+FY10,9/23/2009,Routine Sample,5609,Clear Creek,blw McIntyre St,7.84,264.5,9.07,13.76,46,<1,<5,17,100,52,620,110,<0.03,0.13,<0.5,0.51,0.03,<1,62,49,
+FY10,6/15/2010,Routine Sample,5251,Cherry Creek,at Inlet to Cherry Creek Reservoir,7.84,970.2,,22.74,200,3,7,72,240,19,2200,76,0.037,0.81,0.67,1.5,0.28,2.4,130,<10,55
+FY10,6/15/2010,Routine Sample,5821,Plum Creek,at Titan Rd.,7.72,354.2,,20.53,84,<1,<5,31,94,52,4200,15,<0.03,0.23,0.42,0.65,0.11,<1,26,<10,130
+FY10,6/15/2010,Routine Sample,7293,Wildhorse Creek,at confl. w/ Arkansas R.,7.7,3177,4.14,14.4,140,1.5,1.3,38,470,23,420,54,0.033,8.1,0.95,9,0.44,107,460,19,11
+FY10,6/15/2010,Routine Sample,7304,Monument Creek,d/s Tri-Lakes WWTP,7.12,313.4,,18.24,64,<1,10,35,70,120,440,37,0.15,1,0.69,1.7,1.9,<1,13,16,<10
+FY10,6/15/2010,Routine Sample,7310,East Fork Sand Creek,at Powers Ave.,7.95,1599,,20.99,320,<1,11,190,130,48,530,35,42,1.1,53.3,54.4,6.9,1.8,100,<10,29
+FY11,7/13/2010,Routine Sample,9871,McElmo Creek,abv Trail Canyon @ Gage,8.4,1237,7.36,22.36,220,,<5,,520,18,5600,12,<0.03,0.27,0.62,,0.23,<1,500,<10,
+FY11,7/14/2010,Routine Sample,8348,Alamosa River,at Gomez,7.49,187,7.56,16.24,13,,5,,64,54,500,200,<0.03,<0.03,<0.1,,0.014,<1,62,<10,
+FY11,7/20/2010,Routine Sample,7306,Fountain Creek,at Nevada Ave,8.24,705,7.41,23.1,120,,<5,,190,20,1200,18,<0.03,2.6,0.63,,0.17,2.4,23,18,
+FY11,7/28/2010,Routine Sample,7182,Arkansas River,below Leadville,8.05,176,7.04,17.26,57,,<5,,84,150,310,26,<0.03,0.11,<0.1,,0.024,<1,36,42,
+FY11,8/1/2010,Routine Sample,5971A3,Trout Creek,below Manitou Reservoir Lake,9.31,307.4,,20.88,96,<1,<5,29,110,79,670,17,0.063,0.25,0.43,0.68,0.15,<1,10,<10,17
+FY11,8/2/2010,Routine Sample,5971A2,Trout Creek,u/s of confluence with West Cr.,8.16,316.2,,21.83,110,1.7,<5,20,110,110,660,130,<0.03,0.073,<0.1,<0.1,0.044,<1,11,<10,<10
+FY11,8/2/2010,Routine Sample,5978,Fourmile Creek,at YMCA,7.95,152,7.03,20.18,46,<1,<5,2,58,120,390,14,<0.03,0.33,<0.1,0.33,0.034,<1,13,<10,<10
+FY11,8/2/2010,Routine Sample,5977,Sugar Creek,at County Road 67,7.95,170.5,7.77,14.32,60,<1,<5,2,67,33,200,<2,<0.03,0.059,<0.1,<0.1,0.011,<1,10,<10,<10
+FY11,8/2/2010,Routine Sample,5976A,Pine Creek,at mouth,8.07,231.4,7.62,16.2,42,<1,<5,16,87,39,530,2,<0.03,0.15,<0.1,0.15,0.021,<1,10,<10,<10
+FY11,8/3/2010,Routine Sample,5971D1,Trail Creek,1 mile above mouth,7.47,176.9,,17.69,69,<1,<5,3,72,320,3400,73,<0.03,0.19,<0.1,0.28,0.16,<1,8,<10,52
+FY11,8/3/2010,Routine Sample,5971A1,Horse Creek,at mouth,7.96,299,,23.11,90,1,<5,38,110,250,2100,120,<0.03,0.16,<0.1,0.16,0.056,<1,15,<10,27
+FY11,8/3/2010,Routine Sample,5773,Bear Creek,at Waconda Park,7.38,116.7,7.09,15.63,36,<1,<5,3,40,77,160,8,<0.03,0.047,<0.1,<0.1,0.011,<1,8,<10,<10
+FY11,8/10/2010,Routine Sample,7265,Cripple Creek,Abv Squaw Gulch - blw Cripple Creek WWTP,7.98,1241,6.67,19.54,140,,<5,,230,20,130,380,<0.03,12.2,0.57,,0.27,<1,81,19,
+FY11,8/17/2010,Routine Sample,8337,La Jara Creek,at La Jara State Wildlife Area,8.48,144.2,6.79,22.41,80,,<5,,51,140,570,18,<0.03,<0.03,0.66,,0.15,<1,<3,<10,
+FY11,8/18/2010,Routine Sample,8704K,Conejos River,at Hwy 17 @ FR 250,7.75,50.59,8.66,12.59,30,,<5,,3.1,<10,63,<2,<0.03,<0.03,0.29,,0.15,<1,<3,<10,
+FY11,8/18/2010,Routine Sample,8704,Conejos River,"at Counselors Cabin, near Mogote",7.99,56.52,7.88,17.85,27,,<5,,23,63,230,7,0.032,<0.03,0.35,,0.15,<1,3,<10,
+FY11,8/18/2010,Routine Sample,8300,Rio Grande River,"at Costilla County Rd G, old state bridge",8.99,366,10.26,25.17,140,,<5,,94,84,880,29,<0.03,<0.03,0.81,,0.22,<1,36,<10,
+FY11,8/30/2010,Routine Sample,5605,Clear Creek,at Youngfield St,9.84,517.2,6.09,20.63,180,<1,<5,46,140,190,190,150,0.27,0.57,1.11,1.7,1.73,<1,51,<10,<10
+FY11,8/30/2010,Routine Sample,5602,Clear Creek,at Tennyson,9.93,477.3,7.25,19.07,150,<1,<5,40,150,110,460,69,0.049,0.38,0.7,1.1,1.19,<1,55,46,<10
+FY11,8/30/2010,Routine Sample,5601,Clear Creek,at Pecos Street,9.91,557.8,8.39,20.9,170,1.4,<5,51,170,110,450,130,0.089,0.29,0.75,1.04,1.3,<1,81,35,<10
+FY11,8/30/2010,Routine Sample,34,Clear Creek,near mouth,9.91,843.8,9.56,22.41,210,1.7,<5,100,240,55,360,77,0.033,0.23,0.68,0.9,0.38,<1,99,22,<10
+FY11,8/31/2010,Routine Sample,7316,Fountain Creek,at Circle Drive,7.02,694.8,7.8,19.32,120,<1,<5,49,170,140,780,41,0.06,2.7,1.13,3.8,0.37,2.1,130,37,27
+FY11,8/31/2010,Routine Sample,7320,Fountain Creek,in Fountain @ Hwy 85-87,7.02,813.6,7.24,21.31,130,1.2,<5,48,220,270,630,20,0.033,3.2,0.69,3.9,0.53,2.1,150,23,16
+FY11,8/31/2010,Routine Sample,7350,Fountain Creek,at Hwy 47,7.02,1083,7.01,24.69,190,1.8,<5,55,330,1100,3600,57,<0.03,1.5,0.61,2.1,0.34,3.5,240,17,81
+FY11,9/9/2010,Routine Sample,7162,Cottonwood Creek,at Buena Vista,7.76,122.1,8.78,9.82,60,,<5,,52,68,320,3,<0.03,0.097,<0.1,,0.011,<1,8,<10,
+FY11,9/13/2010,Routine Sample,8120A,S.F. Rio Grande River,South of Town of South Fork,9.06,70.05,7.86,16.17,34,,<5,,23,89,240,4,<0.03,<0.03,0.23,,0.043,<1,3,<10,
+FY11,9/14/2010,Routine Sample,7227,St. Charles River,above Lake Isabel,7.34,55.25,8.61,11.32,28,,<5,,22,54,70,4,<0.03,<0.03,0.13,,<0.01,<1,5,15,
+FY11,9/15/2010,Routine Sample,7501,Timpas Creek,near Rocky Ford,7.35,3329,6.41,16.9,240,,<5,,2000,<10,1400,67,<0.03,4.4,0.78,,0.049,24,1800,<10,
+FY11,9/16/2010,Routine Sample,8375,Sangre de Cristo Creek,near Fort Garland,8.18,353,7.72,17.1,230,,<5,,200,14,500,400,<0.03,<0.03,0.19,,0.05,<1,15,<10,
+FY11,9/20/2010,Routine Sample,5221,Big Dry Creek,near Ft. Lupton,8.1,1499,8.27,17.21,190,1.2,<5,120,290,70,440,100,0.59,5.6,1.6,7.2,1.41,1.6,220,25,15
+FY11,9/20/2010,Routine Sample,5140,South Platte River,at Ft. Lupton,7.68,1062,6.64,18.06,160,1,<5,110,250,74,410,66,0.45,6.2,1.53,7.7,1.66,1.3,170,22,13
+FY11,9/20/2010,Routine Sample,5138,South Platte River,at Weld CR 18,8.07,1086,9.16,18.9,170,1.1,5,110,260,60,360,52,0.13,5.9,1.15,7.1,1.53,1.2,180,22,16
+FY11,9/20/2010,Routine Sample,5137,South Platte River,at Weld CR 28,8.38,1067,10.42,19.62,170,1.2,<5,100,260,40,590,41,0.083,5.7,0.98,6.6,1.34,1.2,170,20,23
+FY11,9/20/2010,Routine Sample,130,South Platte River,near Platteville,8.56,1091,11.13,21.29,190,1.2,<5,120,270,34,560,55,<0.03,5,0.94,5.9,0.93,1,200,16,27
+FY11,9/20/2010,Routine Sample,5416,Big Thompson River,"at I-25 Frontage Road, Loveland",8.43,783,9.52,19.66,130,<1,<5,17,300,19,500,17,<0.03,2,0.7,2.7,0.42,2.8,280,10,16
+FY11,9/20/2010,Routine Sample,7808,Arkansas River,nr Lamar Hwy 50/287 bridge,7.98,3734,8.85,26.11,290,,<5,,1500,<10,530,120,0.15,1.6,0.68,,0.032,8.2,1800,<10,
+FY11,9/21/2010,Routine Sample,5040,South Platte River,at Brush SWA,8.28,1911,8.3,21.41,270,1.3,<5,100,600,10,500,31,<0.03,4.1,0.59,4.7,0.38,3.3,570,<10,27
+FY11,9/21/2010,Routine Sample,5030,South Platte River,at Messex SWA,8.03,1949,8.07,15.3,290,1.2,<5,96,640,<10,31,64,<0.03,3,0.4,3.4,0.18,3.8,660,<10,<10
+FY11,9/21/2010,Routine Sample,5006,South Platte River,at Tamarack SWA,8.54,2033,10.58,18.81,280,2.2,6,130,700,<10,300,12,<0.03,1.9,0.44,2.3,0.12,2.5,860,<10,<10
+FY11,9/21/2010,Routine Sample,5005,South Platte River,at Ovid,8.52,2245,9.65,20.23,270,2.2,<5,120,730,<10,420,10,<0.03,2.1,0.58,2.6,0.095,2.3,830,<10,16
+FY11,9/21/2010,Routine Sample,7392,Severy Creek ,at mouth,7.26,59.25,9.01,7.61,21,,<5,,18,39,70,3,<0.03,0.12,0.26,,<0.01,<1,3,<10,
+FY11,9/21/2010,Routine Sample,7380A,Monument Creek,at mouth,8.41,638.7,7.14,22.6,130,,<5,,180,26,990,4,0.048,3.4,0.72,,<0.01,2,100,37,
+FY11,9/21/2010,Routine Sample,7549,Purgatoire River,at Hwy 101,7.67,3479,8.54,20.92,280,,<5,,1300,<10,360,180,<0.03,0.066,0.26,,0.022,2.5,1900,<10,
+FY11,6/20/2011,Routine Sample,9245,Stollsteimer Creek,at Highway 151,8.21,954.7,10.09,20.35,210,<1,<5,17,420,20,96,29,<0.01,<0.02,0.3,0.3,0.038,<1,190,20,<10
+FY11,6/20/2011,Routine Sample,CO072M,Junction Creek,at gage station,8.61,182.4,11.74,13.06,84,<1,<5,<1,89,<4,70,<2,<0.01,<0.02,<0.2,<0.2,0.015,<1,8,5,<10
+FY11,6/21/2011,Routine Sample,WCOP99-0670,Lost Canyon Creek,1 mile from USFS Rd. 556,7.81,79.29,14.25,6.25,31,<1,43,<1,36,100,680,3,0.021,<0.02,0.74,0.74,0.026,<1,10,6,<10
+FY11,6/21/2011,Routine Sample,DOLORES012,Roaring Forks Creek,at mouth,8.3,164.6,12.36,9.78,78,<1,59,1,80,29,220,2,<0.01,<0.02,0.26,0.26,0.023,<1,6,4,<10
+FY11,6/21/2011,Routine Sample,DOLORES011,Rio Lado Creek,above confl with Dolores River,8.6,258.9,14.4,9.17,130,<1,33,<1,130,12,300,3,<0.01,<0.02,0.23,0.23,0.03,<1,7,5,<10
+FY11,6/21/2011,Routine Sample,10742,Little Taylor Creek,above conf. with Taylor Creek,8.2,125.9,13.11,10.04,58,<1,19,<1,61,58,330,3,0.015,<0.02,0.45,0.45,0.027,<1,4,<4,<10
+FY11,6/21/2011,Routine Sample,DOLORES007,Taylor Creek,50 yds above confl with Dolores R,8.09,114.4,10.54,12.53,52,<1,60,<1,54,56,430,4,0.021,<0.02,0.33,0.33,0.029,<1,4,<4,<10
+FY11,6/21/2011,Routine Sample,WCOP04-R007,Yellow Jacket Creek,0.25 mile blw confluence w/ Risley Canyon,8.54,857.5,6.46,23.44,230,1.4,<5,19,380,16,2700,7,0.018,<0.02,0.7,0.7,0.11,<1,230,9,82
+FY11,6/22/2011,Routine Sample,9895A,Unnamed Tributary,to Ritter Draw,7.86,315.2,8.95,12.62,150,<1,<5,7,170,60,550,11,0.023,0.023,0.5,0.53,0.091,<1,45,7,<10
+FY11,6/22/2011,Routine Sample,9896A,McElmo Creek,above Vista Verde Outfall 001A,8.09,1790,7.94,14.88,180,<1,<5,24,760,23,910,11,0.014,0.047,0.65,0.7,0.045,<1,770,11,31
+FY12,7/12/2011,Routine Sample,11375,Johnson Gulch,nr Craig,8.2,4655,7.55,16.35,470,,<5,,1800,88,190,27,<0.01,<0.02,0.98,,0.13,1.5,2200,24,
+FY12,7/18/2011,Routine Sample,10649,Coal Creek,off Coal Creek Rd (above hydropower plant),8.21,182.8,14.41,12.98,87,<1,<5,<1,82,14,120,<2,0.027,<0.02,0.6,0.61,0.058,<1,6,6,<10
+FY12,7/19/2011,Routine Sample,10981,Atkinson Creek,at Hwy 141,8.42,708.2,6.9,27.6,320,2.7,6,8,290,40,1300,38,0.078,0.061,0.97,1,0.077,<1,64,12,100
+FY12,7/19/2011,Routine Sample,10905G,West Paradox Creek,at Cty Rd. U1,8.42,139.4,12.23,17.02,70,<1,<5,3,65,59,2100,11,0.035,0.028,0.41,0.44,0.09,<1,8,8,200
+FY12,7/20/2011,Routine Sample,10874,Howards Fork,below Ophir,7.41,480.6,28.72,6.47,28,<1,17,3,220,1300,5300,470,0.033,0.1,<0.2,0.26,0.17,<1,210,270,100
+FY12,7/20/2011,Routine Sample,10858,Fall Creek,at FR 618,8.42,265.5,9.31,14.18,95,<1,<5,<1,130,20,140,<2,0.025,<0.02,<0.2,<0.2,0.025,<1,36,16,<10
+FY12,7/20/2011,Routine Sample,10860D,Specie Creek,near mouth off Rd M44,8.55,372.4,8.81,18.16,160,1.1,<5,5,170,48,650,4,0.023,<0.02,0.56,0.56,0.043,<1,26,10,22
+FY12,7/21/2011,Routine Sample,10846,Dry Creek,at GG 25 Rd,8.2,603.4,7.61,20.2,100,1.9,8,12,190,27,9000,16,0.055,0.25,1.4,0.62,0.27,<1,180,13,330
+FY12,7/21/2011,Routine Sample,10847,Maverick Draw,at 37.5 Rd.,8.69,1257,9.38,18.171,360,2.4,6,22,620,17,1900,260,0.036,0.021,0.95,0.97,0.19,<1,350,23,76
+FY12,7/21/2011,Routine Sample,10860,McKenzie Creek,at mouth above confl. w/ San Miguel,8.31,542,6.69,20.44,240,<1,<5,6,250,14,140,11,0.025,<0.02,<0.2,<0.2,0.031,<1,35,14,<10
+FY12,8/1/2011,Routine Sample,12202,Blacktail Creek,at Rd 212 crossing,7.92,134.2,,11.92,58,<1,<5,2,58,270,610,26,0.27,<0.02,0.22,0.22,0.045,<1,2,6,<10
+FY12,8/1/2011,Routine Sample,12169,Rock Creek,at Rock Creek SWA near Toponas,7.66,67.64,,13.83,27,<1,<5,<1,25,170,530,12,0.022,<0.02,0.27,0.27,0.038,<1,2,<4,<10
+FY12,8/1/2011,Routine Sample,12898A,Bear River,at Yampa Town Park,8.13,186.7,,13.05,85,<1,<5,<1,87,180,640,33,<0.01,0.039,0.29,0.33,0.064,<1,4,5,<10
+FY12,8/1/2011,Routine Sample,12880,Service Creek,at Service Creek SWA,7.65,45.04,,15.84,18,<1,<5,<1,16,88,160,3,0.023,<0.02,<0.2,<0.2,0.024,<1,<2,<4,<10
+FY12,8/2/2011,Routine Sample,12876,Trout Creek,at Cty. Rd. 179 near mouth,8.12,655.9,,17.39,150,<1,<5,3,290,150,900,23,0.046,<0.02,0.45,0.45,0.068,<1,<2,11,28
+FY12,8/2/2011,Routine Sample,12854,Fish Creek,at 27 Rd.,8.42,715.6,,18.23,250,<1,<5,3,350,47,1300,43,0.027,0.022,0.43,0.45,0.12,<1,130,15,150
+FY12,8/2/2011,Routine Sample,12853,Grassy Creek,at Rd 27A,,,,,59,1,<5,18,1500,21,790,99,0.042,1.5,0.63,2.2,0.094,4.2,<2,31,27
+FY12,8/2/2011,Routine Sample,12895,Wolf Creek,at 52 Rd.,7.89,596.4,,17.89,200,<1,<5,6,290,58,150,60,0.028,<0.02,0.23,0.24,0.056,<1,87,12,<10
+FY12,8/2/2011,Routine Sample,12867,Greenville Creek,above USFS boundary,7.99,203.5,,14.82,95,<1,<5,<1,96,24,600,4,0.019,<0.02,<0.2,<0.2,0.058,<1,3,43,38
+FY12,8/3/2011,Routine Sample,12840,Elkhead Creek,at Hwy 40,8.14,210.7,,20.75,39,<1,<5,2,77,120,1800,34,0.03,<0.02,0.35,0.36,0.048,<1,22,10,16
+FY12,8/3/2011,Routine Sample,12843A,Elkhead Creek,below Elkhead Reservoir,8.61,199.1,,20.2,65,<1,<5,2,73,98,1600,23,0.026,<0.02,0.35,0.36,0.045,<1,21,6,15
+FY12,8/16/2011,Routine Sample,12856,Foidel Creek,at Road 33,8.38,2638,9.72,18.16,290,,<5,,1300,14,330,270,0.03,<0.02,0.44,,0.066,<1,1300,24,
+FY12,8/17/2011,Routine Sample,12552,Gore Creek,at mouth near Minturn,8.24,244.4,8.34,12.74,80,,<5,,97,10,67,<2,0.014,0.25,<0.2,,0.013,<1,23,7,
+FY12,8/17/2011,Routine Sample,12541,Beaver Creek,at Avon,8.17,196.4,8.04,14.72,63,,<5,,75,7,670,<2,<0.01,<0.02,<0.2,,<0.01,<1,25,4,
+FY12,8/17/2011,Routine Sample,12118,Big Alkali Creek,at mouth,7.86,1793,7.67,17.35,200,,<5,,830,18,240,390,0.018,0.039,0.36,,0.01,2.5,800,43,
+FY12,8/29/2011,Routine Sample,12809,Yampa River,U/S STAGECOACH RES @ CR16,8.64,323.5,8.22,16.89,140,,<5,,140,95,1500,8,0.017,<0.02,0.36,,0.087,<1,24,4,
+FY12,8/31/2011,Routine Sample,115,Blue River,above Dillon Reservoir,8.25,163.8,8.73,9.65,,,<5,5,59,14,,7,<0.01,0.22,,,0.011,<1,17,55,
+FY12,9/12/2011,Routine Sample,5920,Craig Creek,at Estabrook,7.7,40.61,9.34,8.64,16,<1,<5,<1,11,370,510,4,0.016,<0.02,<0.2,<0.2,,<1,<2,<4,<10
+FY12,9/12/2011,Routine Sample,CO174M,Scott Gomer Creek,,,,,,20,<1,<5,<1,17,270,320,5,0.016,0.085,<0.2,<0.2,0.009,<1,5,<4,<10
+FY12,9/12/2011,Routine Sample,5988B4,South Mosquito Creek,at mouth,8.54,307.7,8.29,8.17,87,<1,14,<1,150,470,590,150,0.017,0.07,<0.2,<0.2,0.012,<1,79,770,<10
+FY12,9/13/2011,Routine Sample,5967,South Fork South Platte River,at Knight Imler SWA,8.45,345.8,8.29,9.27,130,<1,<5,2,160,150,460,22,0.017,<0.02,<0.2,<0.2,0.023,<1,41,12,<10
+FY12,9/13/2011,Routine Sample,5966,South Fork South Platte River,at 63 Ranch Fishing Access Site,8.72,356.8,8.87,11.41,140,<1,<5,2,170,180,340,9,0.023,<0.02,<0.2,<0.2,0.018,<1,47,8,<10
+FY12,9/13/2011,Routine Sample,USFSPIKE2,Rough and Tumbling Creek,"Park Co., CO",8.29,332.8,7.89,10.61,130,<1,<5,2,150,360,740,71,0.018,<0.02,<0.2,<0.2,0.042,<1,35,8,<10
+FY12,9/14/2011,Routine Sample,5953,Middle Fork South Platte River,at Tomahawk SWA,,,,,100,<1,<5,4,130,51,120,10,0.017,<0.02,<0.2,<0.2,0.007,<1,33,17,<10
+FY12,9/14/2011,Routine Sample,5945,South Platte River,near Cove Campground,,,,,100,<1,<5,54,140,34,75,66,0.031,0.028,0.31,<0.2,0.049,<1,57,7,<10
+FY12,9/19/2011,Routine Sample,12900A,North Platte River,AT FR 896 W. of State Hwy 125,8.62,196.7,9.36,12.84,79,,<5,,70,120,510,14,<0.01,<0.02,<0.2,,0.027,<1,15,5,
+FY12,9/19/2011,Routine Sample,12974,Little Grizzly Creek,at mouth,8.78,118.8,9.45,13.14,48,,<5,,42,200,700,19,<0.01,<0.02,0.21,,0.03,<1,8,<4,
+FY12,9/20/2011,Routine Sample,12968,Snyder Creek,at 755 USFS Rd.,8.63,807.2,7.49,16.15,170,,<5,,250,30,1900,110,0.054,<0.02,2,,0.093,<1,230,8,
+FY12,9/26/2011,Routine Sample,11535,Lost Creek,abv Buford @ 8 Rd.,8.51,431.7,8.81,13.52,150,<1,<5,3,210,56,140,27,0.014,<0.02,0.37,0.37,0.014,<1,70,15,<10
+FY12,9/27/2011,Routine Sample,11625A,Dry Fork of the Piceance,at Little Hills SWA,8.05,974.7,7.49,13.03,330,2.7,<5,18,320,21,1700,15,0.014,1.4,0.43,1.8,0.12,2,170,16,53
+FY12,9/27/2011,Routine Sample,11625,Black Sulphur Creek,at 29 Rd.,8.18,1523,10.29,13.32,380,1.6,<5,25,630,40,96,77,0.014,0.27,0.28,0.31,0.023,<1,390,9,<10
+FY12,9/27/2011,Routine Sample,11601,Piceance Creek,at Cty Rd 5,8.12,2109,8.97,15.32,180,3.6,<5,35,590,79,590,73,0.019,0.061,1.2,1.3,0.093,<1,450,8,15
+FY12,9/28/2011,Routine Sample,11728,Duck Creek,at Cty Rd 20,8.3,2401,8.72,12.59,480,3.3,<5,41,820,11,10,<2,0.01,0.7,0.21,0.91,0.019,4.4,810,11,<10
+FY12,9/28/2011,Routine Sample,11732B,Yellow Creek,above Barcus Creek,8.5,3175,11.11,13.74,720,4.8,<5,49,1000,10,26,<2,0.012,<0.02,0.58,0.59,0.018,<1,1100,5,<10
+FY12,9/28/2011,Routine Sample,11722,Cathedral Creek,at Cty Rd 28,8.43,1282,8.95,17.65,340,2.3,<5,21,430,55,570,40,0.019,<0.02,0.29,0.3,0.02,<1,350,6,13
+FY12,9/29/2011,Routine Sample,11720,West Douglas Creek,above West Creek,8.42,1476,9.11,7.71,320,<1,<5,28,590,26,120,19,0.016,<0.02,0.57,0.57,0.02,<1,450,8,<10
+FY12,10/4/2011,Routine Sample,153,Oak Creek,below Town of Oak Creek,8.3,893.6,8.09,13.62,220,,<5,,310,84,560,24,0.01,<0.02,0.66,,0.038,<1,220,<4,
+FY12,10/11/2011,Routine Sample,12336,Tenmile Creek,above Wheeler Junction nr Copper Mnt,7.9,974.1,8.53,7.97,37,,<5,,430,7,50,210,0.091,0.21,<0.2,,0.007,<1,500,42,
+FY12,10/19/2011,Routine Sample,12725,Cattle Creek,near Blue Creek Rd. bridge,8.28,333.3,9.98,5.23,,,,,,,,,,,,,,,,,
+FY12,10/20/2011,Routine Sample,12783,Roaring Fork River,below Aspen,8.18,366.3,9.16,6.8,140,,<5,,180,<4,<4,<2,<0.005,0.022,0.28,,<0.005,<1,45,6,
+FY12,10/20/2011,Routine Sample,12794A,West Sopris Creek,above diversions for Dinkle Lake,8.71,374.7,9.46,5.15,90,,<5,,160,32,42,3,<0.005,0.1,<0.2,,<0.005,<1,79,21,
+FY12,10/21/2011,Routine Sample,12731,Crystal River,near mouth,8.47,556.7,10.5,8,140,,<5,,230,8,77,<2,<0.005,0.099,<0.2,,<0.005,<1,110,9,
+FY13,7/18/2012,Routine Sample,29,St. Vrain Creek,near mouth,8.14,1044,7.76,24.81,,1.6,5,19,620,720,,180,0.26,4,,,0.34,6.9,630,14,
+FY13,7/18/2012,Routine Sample,124,Little Thompson River,near Milliken,7.81,1639,6.63,21.38,,1.4,<5,37,320,400,,74,0.13,2.3,,,0.29,1.6,320,12,
+FY13,7/23/2012,Routine Sample,5971A1,Horse Creek,at mouth,7.26,426,7.72,19.95,120,0.62,<5,54,140,<2,190,8,0.015,<0.02,0.31,,0.014,<0.17,21,12,
+FY13,7/23/2012,Routine Sample,USFSPIKE1,Pine Creek,near Wigwam,7.61,198,6.71,20.77,82,0.14,<5,2.2,79,<2,54,4.1,0.017,<0.02,0.52,,0.015,0.39,13,<3,
+FY13,7/23/2012,Routine Sample,5936,South Platte River,at Lone Rock Campground,8.55,297,9.29,12.6,100,0.52,<5,36,120,<2,47,11,0.02,0.064,<0.2,,0.02,0.23,42,<3,
+FY13,7/23/2012,Routine Sample,5254,Cherry Creek,at Franktown at Hwy 86,7.7,314,8,15,130,2.3,<5,,110,<2,230,33,0.005,<0.02,<0.2,,0.18,0.19,13,<3,
+FY13,7/27/2012,Routine Sample,5551,North St. Vrain Creek,at gage above Lyons,7.12,19,9.81,14.39,<10,0.1,<5,<1,7.8,140,200,0.55,0.012,<0.02,<0.2,,0.016,<0.17,1.7,<3,
+FY13,7/27/2012,Routine Sample,5561A45,James Creek,d/s Little James Cr.,6.96,20,9.11,13.95,<10,<0.1,<5,<1,10,<2,270,0.57,0.013,0.09,<0.2,,0.024,<0.17,2.9,<3,
+FY13,7/27/2012,Routine Sample,5589,South Boulder Creek,at South Mesa Open Space,7.43,42,9.81,13.07,19,0.12,<5,2,20,<2,130,1.5,0.015,0.06,<0.2,,0.012,<0.17,4.2,<3,
+FY13,7/30/2012,Routine Sample,10322,Cochetopa Creek,at Sillsville,8.29,220,9.36,18.57,120,8.1,<5,2.1,100,2,520,5.7,0.0095,<0.02,<0.2,,0.12,<0.17,6.1,<3,
+FY13,7/30/2012,Routine Sample,10121,Cement Creek,above campground,8.44,325,9.02,16.19,160,0.59,<5,1.4,210,<2,110,13,<0.003,0.045,<0.2,,0.012,0.23,47,<3,
+FY13,7/30/2012,Routine Sample,151,Slate River,below Coal Creek,7.88,172,9.49,18.51,64,0.73,<5,3.2,78,<2,370,4,0.0055,<0.02,<0.2,,0.015,0.18,22,4,
+FY13,7/31/2012,Routine Sample,10252,Lake Fork Gunnison River,above Cooper Creek,7.56,154,9.92,9.35,25,0.53,<5,<1,95,<2,51,4.1,0.0065,0.053,<0.2,,<0.004,<0.17,74,24,
+FY13,7/31/2012,Routine Sample,10251,Lake Fork Gunnison River,above Silver Creek,7.44,153,9.77,10.89,12,0.26,<5,<1,83,<2,39,3.7,0.0032,0.076,<0.2,,0.0069,<0.17,78,52,
+FY13,7/31/2012,Routine Sample,10245,Henson Creek,above Hwy 149,7.83,156,9.39,13.05,28,0.27,<5,<1,77,<2,280,2.9,0.0078,0.055,<0.2,,0.019,<0.17,58,18,
+FY13,8/1/2012,Routine Sample,10109,Taylor River,d/s Dinner Bell Campground,7.72,107,9.65,11.8,56,0.26,<5,<1,66,<2,230,5,0.0053,<0.02,<0.2,,0.011,0.21,13,<3,
+FY13,8/1/2012,Routine Sample,10107,Taylor River,at Hog Trough below Taylor Reservoir,7.75,77,10.76,10.26,44,0.14,<5,<1,48,<2,100,3.3,0.028,<0.02,<0.2,,0.015,<0.17,7.1,<3,
+FY13,8/1/2012,Routine Sample,10106,Taylor River,at Rd 742 pulloff,8.33,77,11.27,10.61,44,0.12,<5,<1,49,<2,130,3.4,0.019,<0.02,<0.2,,0.018,<0.17,7.1,<3,
+FY13,8/1/2012,Routine Sample,10105,Taylor River,at Rd 742 bridge,8.4,79,11.54,11.54,43,0.11,<5,<1,49,<2,110,3.3,0.0094,<0.02,<0.2,,0.018,<0.17,7.1,<3,
+FY13,8/1/2012,Routine Sample,10104,Taylor River,below Lottis Creek ,8.58,85,9.98,13.78,45,0.11,<5,<1,49,<2,120,3.6,0.0084,<0.02,0.11,,0.0087,<0.17,6.9,<3,
+FY13,8/1/2012,Routine Sample,10103,Taylor River,below Lodgepole Camp,8.49,87,9.48,14.74,45,0.15,<5,<1,52,<2,130,3.5,0.006,<0.02,<0.2,,0.014,<0.17,7,<3,
+FY13,8/1/2012,Routine Sample,10102,Taylor River,above North Bank Campground,8.04,90,9.53,14.86,47,0.12,<5,<1,52,<2,150,3.8,0.024,<0.02,0.44,,0.026,<0.17,6.9,<3,
+FY13,8/1/2012,Routine Sample,10262,Beaver Creek,at Gunnison SWA at 726 Rd,7.52,75,8.26,19.41,40,0.37,<5,1,37,<2,1100,1.8,0.0097,<0.02,0.39,,0.014,<0.17,<1,<3,
+FY13,8/2/2012,Routine Sample,10271A,South Beaver Creek,at powerline service rd.,6.86,175,6.42,16.84,97,1.5,<5,2.2,90,7,2100,5.3,0.023,<0.02,<0.2,,0.011,0.18,24,<3,
+FY13,8/7/2012,Routine Sample,5318,Cache La Poudre River,above 63rd E Rd,7.84,46,8.09,15.54,19,0.2,<5,,18,41,68,<2,<0.003,<0.02,0.34,,0.011,<0.17,2.9,<3,
+FY13,8/8/2012,Routine Sample,5313,Cache La Poudre River,at Prospect Road,9.45,169.1,8.61,14.98,52,0.46,<5,,63,53,1000,29,<0.003,0.19,0.48,,0.064,0.21,22,5,
+FY13,8/8/2012,Routine Sample,5310,Cache La Poudre River,at Lions Park,8.5,77.96,8.62,15.24,31,0.33,<5,,33,32,640,15,<0.003,0.042,0.6,,0.042,<0.17,4.8,<3,
+FY13,8/14/2012,Routine Sample,5598,North Boulder Creek,at mouth (u/s Hwy 119),,59.8,7.3,16.6,22,<0.10,<5,,22,120,220,<2,<0.003,0.023,<0.1,,0.011,<0.17,3.4,<3,
+FY13,8/15/2012,Routine Sample,5424,Big Thompson River,at downtown Estes Park,7.85,23.6,8.43,12.58,<10,<0.10,<5,,540,3,140,<2,<0.003,0.087,<0.1,,0.01,<0.17,1.5,69,
+FY13,8/21/2012,Routine Sample,7547,South Fork Purgatoire River,at Torres,7.93,141.4,7.48,12.39,54,0.11,<5,<1,57,80,430,2.8,<0.003,0.48,<0.1,,0.018,<0.17,7.5,7,
+FY13,8/21/2012,Routine Sample,7548,North Fork Purgatoire River,near Vigil,8.62,349,7.46,17.94,160,0.21,<5,2.6,120,44,110,6.8,<0.003,<0.02,<0.1,,0.01,0.23,19,10,
+FY13,8/21/2012,Routine Sample,7587,Apache Canyon,near Windmill,6.05,2060,6.57,20.56,860,0.24,<5,180,15,200,700,0.93,<0.003,<0.02,0.44,,0.026,<0.17,3.7,<3,
+FY13,8/21/2012,Routine Sample,7588,Wet Canyon Creek,at mouth,,1665,6.52,23.61,710,0.33,<5,120,98,71,550,12,<0.003,<0.02,0.54,,0.017,<0.17,23,4,
+FY13,8/21/2012,Routine Sample,7545B,Purgatoire River,above Wet Canyon Creek,,421.4,7.4,19.01,190,0.19,<5,9,100,53,680,5.8,<0.003,<0.02,<0.1,,0.014,<0.17,18,5,
+FY13,8/21/2012,Routine Sample,7586,Lorencito Canyon,at mouth,,1455,6.85,27.11,580,0.21,<5,500,78,170,1400,9.3,<0.003,<0.02,0.26,,0.015,0.34,130,4,
+FY13,8/21/2012,Routine Sample,91,Purgatoire River,near Segundo,,533.2,6.59,23.93,230,0.26,<5,18,110,45,4100,7.2,<0.003,<0.02,<0.1,,0.035,<0.17,20,8,
+FY13,8/21/2012,Routine Sample,7582,Long Canyon,above Trinidad Reservoir,,1144,6.97,27.01,270,0.33,<5,200,330,17,980,27,<0.003,<0.02,0.16,,0.014,0.17,31,21,
+FY13,8/21/2012,Routine Sample,7583,Reilly Canyon,above Trinidad Reservoir,,1986,6.45,24.86,800,0.78,<5,120,100,130,1100,14,<0.003,<0.02,0.24,,0.03,0.94,58,<3,
+FY13,8/23/2012,Routine Sample,5589,South Boulder Creek,at South Mesa Open Space,,,,,19,0.17,<5,1.7,21,39,52,1.5,<0.003,0.048,0.15,,0.0093,<0.17,5.1,<3,
+FY13,8/23/2012,Routine Sample,5561A45,James Creek,d/s Little James Cr.,,,,,<10,<0.1,<5,<1,9.8,110,86,0.54,<0.003,0.023,<0.1,,0.0071,<0.17,3.4,<3,
+FY13,8/23/2012,Routine Sample,5551,North St. Vrain Creek,at gage above Lyons,,,,,<10,0.11,<5,<1,7.5,250,180,0.47,<0.003,0.059,0.2,,0.012,<0.17,1.6,<3,
+FY13,8/27/2012,Routine Sample,7309,Sand Creek,at Academy Blvd.,7.88,1089,6.43,23.76,170,1,<5,,340,<2,50,<2,0.011,0.89,<0.1,,0.12,6.6,260,23,
+FY13,9/5/2012,Routine Sample,5590,Coal Creek,at 38 Rd.,8.14,1084,7.98,16.16,210,1.2,<5,,240,150,1500,48,0.045,14,1,,0.63,1.9,170,28,
+FY13,9/5/2012,Routine Sample,5572,Boulder Creek,u/s Coal Creek near Gooding,9.36,371.2,14.29,19.24,120,1.6,<5,,130,69,190,8,0.032,0.58,0.57,,0.47,0.3,39,9.6,
+FY13,9/5/2012,Routine Sample,23,South Platte River,at Henderson,8.26,991.5,10.96,23.65,,1.1,<5,120,190,140,,160,5.3,4.8,,,2.4,1.1,150,33,
+FY13,9/6/2012,Routine Sample,28,Big Thompson River,near mouth,8.14,1422,8.76,16.86,,1.5,<5,15,610,84,,46,0.39,4.8,,,0.41,7.1,570,34,
+FY13,9/6/2012,Routine Sample,27,Cache La Poudre River,near Greeley,8.12,1275,9.23,20.19,,1.3,<5,27,480,26,,16,0.23,4.7,,,0.36,2.8,310,32,
+FY13,9/11/2012,Routine Sample,22,South Platte River,near Kersey,8.27,1357,10.93,19.48,,1.1,<5,91,430,21,,70,0.33,5.7,,,0.71,2.6,500,29,
+FY13,9/13/2012,Routine Sample,5779,East Plum Creek,at Hwy 67,8.34,528.2,7.06,22,120,0.84,<5,,150,170,2900,22,0.059,0.78,0.57,,0.15,0.87,39,21,
+FY13,9/17/2012,Routine Sample,5366,North Fork Cache La Poudre River,at Road 74E,7.56,175.1,9.36,16.14,79,0.9,<5,,74,200,430,7.7,0.021,<0.02,0.46,,0.026,0.17,4.5,6.3,
+FY13,9/19/2012,Routine Sample,5751,Bear Creek,at mouth,8.48,954.3,8.61,18,,0.5,<5,100,350,38,,14,0.033,0.5,,,0.027,1.9,120,24,
+FY13,9/20/2012,Routine Sample,5589,South Boulder Creek,at South Mesa Open Space,8.03,55,11.09,10.43,21,0.33,<5,3,26,48,36,2,0.019,0.089,0.53,,0.038,<0.17,7.6,<3,
+FY13,9/20/2012,Routine Sample,5561A45,James Creek,d/s Little James Cr.,7.5,26,11.15,8.15,12,<0.1,<5,<1,14,46,32,0.83,0.011,0.028,0.39,,0.0062,<0.17,3.6,<3,
+FY13,9/20/2012,Routine Sample,5551,North St. Vrain Creek,at gage above Lyons,7.64,24,11.05,14.86,10,0.19,<5,<1,10,280,190,0.64,0.022,0.042,0.56,,0.021,<0.17,<1,<3,
+FY13,9/24/2012,Routine Sample,12759,South Fork Fryingpan River,above transbasin diversion,8.95,44,11.35,4.11,23,<0.1,<5,<1,30,26,71,1.2,0.0077,0.15,<0.1,,<0.004,<0.17,8.9,9,
+FY13,9/24/2012,Routine Sample,12758,South Fork Fryingpan River,below transbasin diversion,8.46,43.13,11.74,4.57,24,<0.1,<5,<1,30,25,200,1.2,0.014,0.16,<0.1,,0.0063,<0.17,8.9,7.3,
+FY13,9/24/2012,Routine Sample,12758A,South Fork Fryingpan River,at 0.5 miles below diversion,7.7,43.57,11.53,5.91,22,<0.1,<5,<1,28,61,140,1.2,0.0073,0.14,<0.1,,<0.004,<0.17,8.4,7.9,
+FY13,9/24/2012,Routine Sample,12758B,South Fork Fryingpan River,at 1.0 miles below diversion,7.68,43.23,11.65,6.06,22,<0.1,<5,<1,28,65,120,1.2,<0.003,0.13,<0.1,,<0.004,<0.17,8.2,6.3,
+FY13,9/24/2012,Routine Sample,12758C,South Fork Fryingpan River,at 1.5 miles below diversion,6.16,42.97,11.62,6.16,22,<0.1,<5,<1,26,57,110,1.1,0.0073,0.14,<0.1,,<0.004,<0.17,8,7.7,
+FY13,9/24/2012,Routine Sample,12758D,South Fork Fryingpan River,at 2.75 miles below diversion,7.51,41.69,11.64,6.27,24,<0.1,<5,<1,26,51,120,1.1,0.0083,0.12,<0.1,,<0.004,<0.17,7.6,6.2,
+FY13,9/25/2012,Routine Sample,12758E,South Fork Fryingpan River,above mouth,7.35,43.37,12.13,5.77,23,<0.1,<5,<1,30,31,56,1.2,0.0091,0.095,<0.1,,<0.004,<0.17,8.6,4.1,
+FY13,9/25/2012,Routine Sample,12757,Fryingpan River,at Norrie Gage,8.18,48.4,11.16,9.2,25,0.11,<5,<1,27,210,340,1.7,0.0097,0.02,<0.1,,0.0052,<0.17,5.6,5.2,
+FY13,9/25/2012,Routine Sample,12751G,Fryingpan River,at Rocky Fork Gage,7.51,154.4,12.67,7.26,52,0.16,<5,<1,110,20,69,4.7,0.009,0.077,<0.1,,<0.004,<0.17,61,13,
+FY13,9/25/2012,Routine Sample,12756,Fryingpan River,above Rocky Fork Cr Rd bridge,7.53,155.2,12.76,7.4,52,0.16,<5,<1,100,22,60,4.6,0.011,0.053,<0.1,,0.0091,<0.17,61,14,
+FY13,9/25/2012,Routine Sample,12755,Fryingpan River,at Cty Rd 4 (2nd pullout),7.82,157.7,12.13,7.81,53,0.2,<5,<1,100,20,140,4.7,0.012,0.064,<0.1,,0.0095,0.24,59,12,
+FY13,9/25/2012,Routine Sample,12754,Fryingpan River,near big house on hill,8.09,159,12.2,8.23,53,0.15,<5,<1,100,18,130,4.5,0.0073,0.046,<0.1,,0.0091,<0.17,57,12,
+FY13,9/25/2012,Routine Sample,12753,Fryingpan River,above Oak Road,8.16,162.3,11.59,9.02,54,0.16,<5,<1,100,22,120,4.6,0.0088,0.031,0.4,,0.0081,<0.17,57,14,
+FY13,9/25/2012,Routine Sample,12752,Fryingpan River,at Basalt SWA,8.63,171.8,12.92,10.46,56,0.19,<5,<1,110,10,110,4.9,0.012,<0.02,<0.1,,0.0088,<0.17,60,14,
+FY14,8/23/2013,Routine Sample,10814,San Miguel River,below Telluride,7.69,263.2,7.86,16.31,64,0.86,<4,2.6,140,57,94,54,0.023,0.92,0.28,,0.15,0.38,87,150,
+FY14,8/23/2013,Routine Sample,10815,San Miguel River,at Society Turn,7.76,257,7.69,17.04,62,0.79,<4,1.4,140,56,160,52,0.017,0.14,<0.1,,0.014,0.36,87,130,
+FY14,8/23/2013,Routine Sample,10818,San Miguel River,above Marshall Creek (at Idarado),7.39,244.8,7.85,11.04,27,0.2,<4,<1,140,<3,6,<2,0.014,0.16,0.38,,0.0086,0.34,140,440,
+FY14,8/19/2013,Routine Sample,120,Michigan River,at Walden (above WWTF),8.29,193.5,9.07,18.91,110,0.68,4,1.1,92,250,490,31,0.017,<0.05,0.41,,0.038,<0.17,11,<10,
+FY14,8/8/2013,Routine Sample,12183A,Byers Creek,above diversion,7.71,75.44,8.87,6.44,32,<0.1,<4,0,31,<3,3.1,<2,<0.003,<0.05,0.29,,0.007,<0.17,4.4,<10,
+FY14,8/8/2013,Routine Sample,12184A,East St. Louis Creek,above diversion,7.29,41.34,8.94,6.53,18,<0.1,<4,0,14,10,14,<2,<0.003,<0.05,0.13,,0.016,<0.17,2.1,<10,
+FY14,8/8/2013,Routine Sample,12184B,East St. Louis Creek,0.2 mi below diversion,7.33,105.2,8.09,7.68,49,<0.1,<4,0,41,3.5,25,<2,<0.003,<0.05,0.33,,0.017,<0.17,4,<10,
+FY14,8/9/2013,Routine Sample,12188A,Jim Creek,above diversion,7.63,74.23,9.29,5.73,33,<0.1,<4,0,32,20,22,<2,<0.003,0.18,<0.1,,0.0065,<0.17,3.4,<10,
+FY14,8/9/2013,Routine Sample,12188B,Jim Creek,250 yds below diversion,6.75,60.48,7.5,8.69,29,<0.1,<4,0,24,160,580,5.7,<0.003,<0.05,<0.1,,0.022,<0.17,1.7,<10,
+FY14,9/10/2013,Routine Sample,12189A,North Fork Ranch Creek,above diversion,7.46,54.12,8.54,8.71,23,<0.1,<4,0,21,52,100,<2,0.0081,0.12,0.25,,0.0073,<0.17,3,0.32,
+FY14,9/10/2013,Routine Sample,12189B,North Fork Ranch Creek,below diversion,7.3,56.17,8.59,8.42,24,<0.1,<4,0,19,23,24,<2,0.016,<0.05,0.47,,0.012,<0.17,2.2,0.18,
+FY14,8/21/2013,Routine Sample,12554A,Gore Creek,at Forest Rd in Vail,8.37,251.5,8.47,13.91,110,<0.1,<4,12,150,<3,7.3,<2,0.013,0.15,0.13,,0.0067,0.22,44,<10,
+FY14,8/21/2013,Routine Sample,12554B,Gore Creek,at Westhaven Ln blw Vail WWTP,8.18,267.1,8.15,12.65,110,<0.1,<4,20,150,5.2,25,2,0.016,0.71,0.31,,0.079,0.24,41,<10,
+FY14,8/21/2013,Routine Sample,12555,Gore Creek,abv Vail,8.21,126.6,7.29,15.34,65,<0.1,<4,8.7,64,8.2,16,<2,0.014,0.1,0.19,,0.0088,<0.17,2.9,<10,
+FY14,8/22/2013,Routine Sample,12783B,Roaring Fork River,u/s WWTF @ walking bridge,8,293.8,7.69,12.86,89,0.18,<4,1.3,180,14,78,<2,0.017,0.087,0.24,,0.013,0.29,110,<10,
+FY14,8/22/2013,Routine Sample,12783C,Roaring Fork River,d/s WWTF,7.97,295.5,7.76,12.07,91,0.19,<4,3,180,13,28,2.5,0.025,0.14,0.25,,0.06,0.33,110,<10,
+FY14,8/22/2013,Routine Sample,12786B,Roaring Fork River,at Difficult Campground,7.64,66.27,7.19,13.9,24,<0.1,<4,<1,33,23,53,<2,0.02,<0.05,0.25,,0.011,<0.17,16,<10,
+FY14,8/20/2013,Routine Sample,12805B,Yampa River,d/s WWTF @ CR33A Rd,9.03,328.7,12.13,21.72,130,1.8,<4,16,120,63,150,7.3,0.027,0.19,0.64,,0.16,0.2,36,<10,
+FY14,8/20/2013,Routine Sample,12809,Yampa River,above Stagecoach Reservoir,8.47,369.2,9.29,18.02,190,1.1,<4,1.6,210,50,340,6.2,0.021,<0.05,0.34,,0.056,0.29,47,<10,
+FY14,8/20/2013,Routine Sample,12811,Yampa River,above Oak Creek,8.99,256.2,9.75,19.9,120,1.2,<4,2.1,130,50,150,22,0.02,<0.05,0.61,,0.04,0.25,34,<10,
+FY14,8/20/2013,Routine Sample,12815,Yampa River,blw Yampa at CR21,7.99,272.4,7.67,13.47,160,1,<4,<1,180,100,530,14,0.02,<0.05,0.35,,0.074,0.32,31,<10,
+FY14,8/20/2013,Routine Sample,12817,Bear River,d/s Yamcolo Reservoir,7.56,94.28,7.22,13.41,62,0.7,<4,<1,55,110,250,18,0.0044,<0.05,0.3,,0.03,<0.17,2.4,<10,
+FY14,8/19/2013,Routine Sample,12940,Michigan River,below WWTF,8.39,206.9,9.47,20.32,110,0.64,<4,1.6,94,190,430,26,0.022,0.1,0.4,,0.064,<0.17,11,<10,
+FY14,8/19/2013,Routine Sample,12946,Michigan River,at Hwy 14 d/s of S. Fork,7.56,142.3,6.85,18.12,62,0.39,<4,1.4,72,440,620,32,0.016,<0.05,0.24,,0.0093,<0.17,17,<10,
+FY14,8/14/2013,Routine Sample,5580,Middle Boulder Creek,below Barker Dam @ Mile Marker 29,7.11,40.25,7.69,14.11,18,<0.1,<4,3,20,79,250,4.1,0.019,0.12,0.22,,0.016,<0.17,2.9,<10,
+FY14,8/14/2013,Routine Sample,5580a,Middle Boulder Creek,4.0 mi below spillway,7.33,54.54,7.37,14.26,22,<0.1,<4,5.4,26,140,330,10,0.011,0.1,0.21,,0.021,<0.17,3.2,<10,
+FY14,8/14/2013,Routine Sample,5580b,Boulder Creek,8.0 mi below spillway,7.41,55.56,7.77,15.22,25,0.11,<4,3.9,28,170,880,2.6,0.0048,0.058,0.25,,0.021,<0.17,4,<10,
+FY14,8/14/2013,Routine Sample,5581,Middle Boulder Creek,"at Hwy 119, Nederland",7.64,28.19,8.47,9.18,18,<0.1,<4,<1,17,180,220,9,0.006,0.075,<0.1,,0.011,<0.17,2.8,<10,
+FY14,8/28/2013,Routine Sample,5581a,Middle Boulder Creek,below Barker Reservoir spillway,7.14,48.84,,11.48,17,0.12,<4,2,19,110,160,12,0.023,0.062,0.23,,<0.005,<0.17,2.9,<10,
+FY14,8/14/2013,Routine Sample,5581b,Middle Boulder Creek,0.5 mi below spillway,7.02,34.98,7.61,13.76,17,<0.1,<4,2.1,17,86,370,8.6,0.014,0.076,0.24,,0.017,<0.17,2.7,<10,
+FY14,8/14/2013,Routine Sample,5581c,Middle Boulder Creek,1.0 mi below spillway,7.12,37.97,7.57,14.52,18,<0.1,<4,2.5,18,89,220,7.4,0.011,0.1,0.21,,0.015,<0.17,2.7,<10,
+FY14,7/18/2013,Routine Sample,5638,West Fork Clear Creek,below Woods Creek,7.06,133.1,9.51,9.28,18,<0.1,<4,1.9,60,36,67,440,0.021,0.22,0.22,,0.0083,<0.17,61,84,
+FY14,8/15/2013,Routine Sample,5638,West Fork Clear Creek,below Woods Creek,7.41,250.4,8.07,8.6,21,<0.1,<4,1.5,120,18,72,680,0.016,0.22,0.2,,0.012,<0.17,150,130,
+FY14,10/22/2013,Routine Sample,5638,West Fork Clear Creek,below Woods Creek,,201.9,,1.15,23,<0.1,<4,3.6,120,43,92,830,0.016,0.28,<0.1,,0.011,<0.17,150,140,
+FY14,7/18/2013,Routine Sample,5674,Fall River,at mouth near Idaho Springs,7.12,31.58,9.51,12.14,15,<0.1,7.7,<1,17,58,120,6.7,<0.003,0.093,0.16,,0.0086,<0.17,3.8,<10,
+FY14,8/15/2013,Routine Sample,5674,Fall River,at mouth near Idaho Springs,7.39,32.94,8.8,8.82,18,<0.1,5.8,1.2,18,35,87,5.1,<0.003,0.1,<0.1,,0.01,<0.17,4.9,<10,
+FY14,10/22/2013,Routine Sample,5674,Fall River,at mouth near Idaho Springs,,36.39,,2.75,21,<0.1,7.3,1.9,25,34,67,17,<0.003,0.13,<0.1,,0.089,<0.17,7.8,44,
+FY14,7/18/2013,Routine Sample,5675,South Chicago Creek,near mouth at Hwy 103 & FR 247,7.23,40.27,9.35,11.47,19,<0.1,5.7,1,21,63,200,2.9,<0.003,0.12,0.23,,0.015,<0.17,4.7,<10,
+FY14,8/15/2013,Routine Sample,5675,South Chicago Creek,near mouth at Hwy 103 & FR 247,7.3,35.51,8.54,8.54,19,<0.1,<4,<1,20,80,190,<2,0.0035,0.12,0.2,,0.014,<0.17,4.8,<10,
+FY14,10/22/2013,Routine Sample,5675,South Chicago Creek,near mouth at Hwy 103 & FR 247,,29.65,,2.54,20,<0.1,<4,1.2,19,60,130,3.4,<0.003,0.14,<0.1,,0.02,<0.17,4.6,<10,
+FY14,9/10/2013,Routine Sample,5943,South Platte River,near Riverside Campground,8.89,368.3,,20.05,110,0.78,<4,38,130,8.6,23,18,0.018,0.089,0.47,,0.071,<0.17,47,<10,
+FY14,9/10/2013,Routine Sample,5944a,South Platte River,below railroad tunnel,8.71,365.8,,19.57,110,0.76,<4,38,140,7.2,31,29,<0.003,0.058,0.54,,0.062,<0.17,47,<10,
+FY14,9/10/2013,Routine Sample,5944b,South Platte River,0.5 miles east of Co Rd 393,8.77,366.4,,19.66,110,0.79,<4,38,130,5.4,29,14,<0.003,0.085,0.58,,0.13,<0.17,47,<10,
+FY14,9/10/2013,Routine Sample,5945,South Platte River,at Cove Campground,8.68,362.4,,19.11,110,0.77,<4,38,140,3.6,27,38,0.0093,0.074,0.43,,0.076,<0.17,47,<10,
+FY14,9/10/2013,Routine Sample,5948,South Platte River,above Spinney Reservoir,7.98,314.5,,14.91,110,0.32,<4,30,150,42,280,12,<0.003,<0.05,1.5,,0.0087,<0.17,51,<10,
+FY14,9/10/2013,Routine Sample,5950,South Platte River,below Spillway Campground,8.42,357.3,,18.14,110,0.78,<4,32,130,8.5,12,50,0.022,<0.05,0.49,,0.06,<0.17,40,<10,
+FY14,9/10/2013,Routine Sample,5951a,South Platte River,d/s Elevenmile Reservoir @ Spillway @ Gage,8.18,352.1,,17.31,110,0.73,<4,38,140,6.7,11,68,0.034,<0.05,0.47,,0.058,<0.17,47,<10,
+FY14,7/23/2013,Routine Sample,7120A,Grape Creek,at State Hwy 69,8,320,9.48,24.58,160,1.5,<4,3.7,150,130,340,30,<0.003,<0.05,0.27,,0.05,0.24,9.9,21,
+FY14,7/24/2013,Routine Sample,7121,Swift Creek,above Pine Road,7.56,184.5,9.67,13.77,63,<0.1,<4,<1,110,5.2,69,<2,<0.003,<0.05,<0.1,,0.0072,<0.17,49,15,
+FY14,7/25/2013,Routine Sample,7123,North Lake Creek,at FR 198,7.51,81.86,10.07,10.8,49,<0.1,<4,<1,50,9.3,37,<2,<0.003,0.19,<0.1,,0.011,<0.17,8.1,<10,
+FY14,7/25/2013,Routine Sample,7124,Spruce Creek,at CR 331 crossing,7.81,105,9.49,10.69,76,<0.1,<4,<1,70,5.5,80,<2,<0.003,0.21,<0.1,,0.013,<0.17,2.6,<10,
+FY14,7/24/2013,Routine Sample,7132,Middle Taylor Creek,above USFS boundary,7.69,165.1,9.4,13.22,63,<0.1,<4,<1,110,13,140,<2,<0.003,<0.05,<0.1,,0.1,<0.17,41,12,
+FY14,7/24/2013,Routine Sample,7133,South Colony Creek,at South Colony Creek trailhead,7.86,87.99,10.11,8.63,42,<0.1,<4,<1,62,7.1,40,<2,<0.003,0.2,<0.1,,<0.005,0.19,20,<10,
+FY14,7/23/2013,Routine Sample,7222a,North Hardscrabble Creek,at CR 387,7.53,448.8,8.5,17.48,210,0.61,<4,45,210,120,230,30,<0.003,<0.05,0.19,,0.068,<0.17,22,23,
+FY14,7/23/2013,Routine Sample,7222b,North Hardscrabble Creek,blw conf with S. Fork North Hardscrabble Ck,7.18,348.2,6.8,15.76,190,0.66,<4,22,160,290,390,93,<0.003,<0.05,0.18,,0.066,<0.17,13,21,
+FY14,7/23/2013,Routine Sample,7224,South Hardscabble Creek,at 386L campsite,7.31,173.5,8.02,17.57,91,0.6,<4,4,94,580,820,12,<0.003,<0.05,0.28,,0.11,0.2,12,<10,
+FY14,9/18/2013,Routine Sample,7265,Cripple Creek,Abv Squaw Gulch - blw Cripple Creek WWTP,8.1,1561,7.2,14.8,130,0.68,10,0,270,8.3,50,670,0.029,13,<0.1,,0.63,0.27,160,33,
+FY14,9/17/2013,Routine Sample,8351a,Cat Creek,above Willow Creek at FR 271,7.72,237.4,7.84,10.02,100,0.18,<4,0,97,120,230,4,0.0061,<0.05,0.19,,0.15,<0.17,24,<0.1,
+FY14,7/23/2013,Routine Sample,8405,San Francisco Creek,near Del Norte,7.61,64.88,7.02,15.8,32,0.33,<4,0,27,160,600,7.7,0.0036,0.053,0.12,,0.16,<0.17,1.4,<10,
+FY14,7/30/2013,Routine Sample,8615A,La Garita Creek,at 38 Rd S. of the Town of La Garita,7.51,101.4,7.8,12.66,50,0.56,<4,0,69,300,10900,61,0.037,0.11,1.3,,0.65,<0.17,3,<10,
+FY14,7/29/2013,Routine Sample,8627,North Fork Carnero Creek,at 32U Rd.,7.69,357,5.93,16.97,160,2.3,<4,0,130,66,720,30,0.0047,<0.05,0.24,,0.34,0.18,25,<10,
+FY14,7/30/2013,Routine Sample,8635,Saguache Creek,near Saguache,8.32,111.6,7.81,19.41,53,2,<4,0,49,230,1300,4.3,0.011,<0.05,0.32,,0.21,<0.17,2.9,<10,
+FY14,5/1/2014,Routine Sample,27,Cache La Poudre River,near Greeley,7.9,486,9.59,8.24,120,0.87,<4,27,260,200,920,59,0.085,2.5,0.34,,0.91,1.1,200,14,
+FY14,5/1/2014,Routine Sample,28,Big Thompson River,near mouth,8.03,1197,9.95,8.64,230,1,<4,42,700,22,340,99,0.037,4.6,0.78,,0.6,5.4,680,18,
+FY14,5/1/2014,Routine Sample,29,St. Vrain Creek,near mouth,6.87,395.2,8.94,9.21,93,1.2,<4,35,200,240,1600,46,0.05,2.1,0.35,,0.28,0.71,120,23,
+FY14,5/1/2014,Routine Sample,5572,Boulder Creek,u/s Coal Creek near Gooding,7.99,180.3,9.72,9.26,53,0.88,<4,20,90,220,750,22,0.021,1.1,<0.2,,0.21,0.25,27,<10,
+FY14,5/1/2014,Routine Sample,5590,Coal Creek,at 38 Rd.,8.51,976.8,11.55,11.46,230,1.1,<4,130,320,73,490,30,0.027,10.4,0.98,,0.71,2.6,210,20,
+FY15,8/13/2014,Routine Sample,5253A,Cherry Creek,at Castle Oak Dr.,7.14,263.3,7.29,18.31,110,2.7,<4,11,96,140,620,32,0.018,<0.05,,0.226,0.25,0.18,10,<10,
+FY15,9/18/2014,Routine Sample,5253A,Cherry Creek,at Castle Oak Dr.,7.75,247.9,8.2,13.98,120,2.2,<5,17,110,99,260,40,0.013,<0.009,,0.256,0.21,<0.34,10,4.2,
+FY15,7/10/2014,Routine Sample,5258,West Cherry Creek,at Jones Rd.,7.58,156.3,8.73,16.65,71,0.45,<4,13,65,450,1100,74,0.012,<0.05,,0.251,0.16,0.25,5,<10,
+FY15,8/13/2014,Routine Sample,5258,West Cherry Creek,at Jones Rd.,7.11,206.9,5.24,14.66,81,0.38,<4,14,78,320,860,84,0.023,<0.05,,0.311,0.11,0.17,3.7,<10,
+FY15,9/18/2014,Routine Sample,5258,West Cherry Creek,at Jones Rd.,7.26,155,6.86,11.3,74,0.26,<5,16,72,250,620,48,0.041,<0.009,,0.266,0.089,<0.34,4.7,4,
+FY15,9/4/2014,Routine Sample,58,Taylor River,at Almont near USGS Gage,,,,,0,0.17,<4,<1,66,25,0,2.6,0.021,<0.05,,0.159,0.012,<0.17,7.2,<10,
+FY15,9/9/2014,Routine Sample,7120,Grape Creek,abv. DeWeese Res. @ Gage,8.28,307,8.64,15.13,150,0.63,<5,0,140,95,470,12,0.025,0.011,,0.235,0.029,<0.34,15,5.3,
+FY15,9/9/2014,Routine Sample,7120C,Grape Creek,at Hermit Rd,7.97,287.7,6.82,14.46,140,0.86,<5,0,140,150,910,47,0.034,0.041,,0.43,0.054,<0.34,7.9,4.3,
+FY15,9/9/2014,Routine Sample,7120E,Grape Creek,at Music Pass Campground,7.98,101.4,7.78,11.73,45,<0.2,<5,0,44,69,440,1.6,0.029,0.015,,0.239,0.027,<0.34,4.1,1.5,
+FY15,8/19/2014,Routine Sample,7298B1,Salt Creek ,below P.E. 001,8.54,570.7,7.25,26.07,110,1.7,<4,13,230,3.6,110,2.6,0.02,0.072,,0.298,0.021,2.9,170,<10,
+FY15,8/19/2014,Routine Sample,7298B2,Salt Creek ,at Box Culvert,8.05,557.6,5.44,26.2,110,1.6,<4,12,230,32,1500,140,0.047,0.27,,0.449,0.049,2.8,160,20,
+FY15,8/19/2014,Routine Sample,7298B3,Salt Creek ,near Rail Road,8.17,507.3,5.96,25.86,110,1.6,<4,12,210,12,3100,360,0.056,0.24,,0.444,0.063,2.3,140,49,
+FY15,8/13/2014,Routine Sample,10118,East River,above Gothic, 8.23, 219.4, 7.21, 15.73,100,0.33,<4,<1,130,37,130,9.9,0.017,<0.05,,0.092,0.0063,0.53,33,<10,
+FY15,7/31/2014,Routine Sample,10227,Curecanti Creek,above Hwy 92,7.93,62.4,6.77,18.57,38,0.29,<4,<1,32,130,180,12,0.017,<0.05,,0.213,0.061,<0.17,1.7,<10,
+FY15,9/15/2014,Routine Sample,10230,Cimarron River,along Hwy 50 East Cimarron - Picnic area fishing,8.71,507.9,7.89,19.1,130,0.85,<5,68,200,54,350,14,0.034,0.0096,,0.284,0.07,0.57,120,6.3,
+FY15,8/14/2014,Routine Sample,10231,Blue Creek,above Hwy 50, 8.09, 67.83, 6.92, 17.74,38,0.69,<4,<1,34,150,330,11,0.022,<0.05,,0.168,0.077,<0.17,2.1,<10,
+FY15,9/15/2014,Routine Sample,10231,Blue Creek,above Hwy 50,8.2,92.3,7.53,16.53,39,0.72,<5,1.9,37,140,350,6.6,0.037,<0.009,,0.125,0.066,<0.34,2.4,<1.5,
+FY15,8/14/2014,Routine Sample,10232,Pine Creek,blw Snelson Creek,7.93, 101.3, 7.56, 14.09,68,3.3,<4,1.8,59,160,470,6.4,0.021,<0.05,,0.134,0.11,<0.17,1.3,<10,
+FY15,9/15/2014,Routine Sample,10235,Willow Creek,west of Lake Fork,8.88,130.2,9.95,14.01,61,3.6,<5,1.3,52,83,180,2.4,0.04,0.012,,0.195,0.063,<0.34,2,2.3,
+FY15,7/31/2014,Routine Sample,10236,Firebox Creek,above FR 864,7.56,22.93,8.27,7.25,20,0.18,<4,<1,14,18,49,<2,0.013,<0.05,,0.132,0.04,<0.17,1.1,<10,
+FY15,7/31/2014,Routine Sample,10237B,Van Boxel Creek,above High Mesa Rd,7.75,45.7,7.89,10.11,36,0.46,<4,<1,31,27,64,<2,0.013,<0.05,,0.238,0.066,<0.17,1.5,<10,
+FY15,7/31/2014,Routine Sample,10239,Little Cimarron River,above FR 864,7.01,18.16,8.41,6.58,17,0.16,<4,<1,12,20,45,<2,0.012,<0.05,,0.151,0.043,<0.17,<1,<10,
+FY15,8/14/2014,Routine Sample,10240,Lake Fork Gunnison River,at Railroad Camp, 7.91, 125.3, 7.50, 15.16,41,0.61,<4,<1,73,12,130,7.9,0.017,<0.05,,0.091,0.024,<0.17,38,<10,
+FY15,7/10/2014,Routine Sample,10267,Mill Creek,below West Elk Wilderness Trailhead,7.27,43.43,7.8,12.01,23,0.2,<4,0,19,110,210,16,0.0065,<0.05,,0.115,0.075,<0.17,<1,<10,
+FY15,8/13/2014,Routine Sample,10267A,Mill Creek,at Mill-Castle Campground, 7.76, 61.85, 8.12, 11.01,43,0.32,<4,<1,35,200,460,39,0.034,<0.05,,0.12,0.016,<0.17,3.4,<10,
+FY15,8/13/2014,Routine Sample,10268B,Ohio Creek,blw 730 Rd, 7.49, 52.35, 7.59, 12.89,34,0.19,<4,<1,26,75,260,9.3,0.018,<0.05,,0.108,0.015,<0.17,1.4,<10,
+FY15,9/17/2014,Routine Sample,10282,Cebolla Creek,at USGS gage,8.05,132.2,8.23,10.02,42,0.41,<5,0.84,53,75,170,12,0.028,<0.009,,0.131,0.049,<0.34,21,2.5,
+FY15,8/12/2014,Routine Sample,10283,Cebolla Creek,at Cebolla Cr SWA, 7.65, 100.6, 8.74, 8.89,43,0.39,<4,<1,57,63,250,20,0.024,0.072,,0.188,0.061,<0.17,26,<10,
+FY15,9/24/2014,Routine Sample,10320,Cochetopa Creek,near mouth,7.43,205.4,8.18,11.38,97,3.3,<5,1.9,85,270,520,24,0.042,<0.009,,0.308,0.14,<0.34,5.4,35,
+FY15,8/12/2014,Routine Sample,10322,Cochetopa Creek,at Sillsville, 8.34, 145.41, 7.30, 19.31,80,4.1,<4,1.1,67,240,920,12,0.024,<0.05,,0.192,0.15,<0.17,4.7,<10,
+FY15,8/12/2014,Routine Sample,10324,Cochetopa Creek,0.7 mi South of KK-14 Rd, 8-80, 107.7, 8.04, 19.50,57,1.7,<4,<1,46,160,760,7.2,0.031,<0.05,,0.134,0.11,<0.17,3.4,<10,
+FY15,9/3/2014,Routine Sample,10325,Cochetopa Creek,above Dome Lakes,8.43,83.16,6.84,16.57,39,0.85,<4,<1,37,390,1000,13,0.019,<0.05,,0.187,0.13,<0.17,2.8,<10,
+FY15,8/12/2014,Routine Sample,10329,Stewart Creek,at La Garita W.A. (794 Rd), 7.82,63.6, 7.78,11.12,34,0.82,<4,2,33,270,590,30,0.021,0.11,,0.223,0.08,<0.17,8.9,<10,
+FY15,9/24/2014,Routine Sample,10350,Razor Creek,at 45 Rd. Bridge,8,701.6,8.56,12.8,290,7.4,<5,6,350,140,830,240,0.045,<0.009,,0.437,0.23,0.62,95,72,
+FY15,8/21/2014,Routine Sample,10400,North Fork Gunnison,at mouth,8.2,1313,9.43,16.94,0,1.1,<4,10,660,78,0,49,0.038,<0.05,,0.265,0.027,3,550,15,
+FY15,7/30/2014,Routine Sample,10415,Leroux Creek,below Dever Cr.,8.28,104.5,8.25,12.96,63,0.5,<4,<1,69,180,1300,11,0.02,0.068,,0.396,0.066,0.18,8.9,23,
+FY15,7/29/2014,Routine Sample,10471,Coal Creek,above Anthracite Creek,8.25,84.68,7.93,16.93,50,0.21,<4,<1,42,23,86,2.9,0.017,<0.05,,0.154,0.013,<0.17,5.1,<10,
+FY15,7/29/2014,Routine Sample,10496,Clear Fork,above FR 844,8.2,133,7.73,14.61,89,0.34,<4,<1,83,29,47,12,0.021,<0.05,,0.176,0.0091,<0.17,3.6,<10,
+FY15,7/30/2014,Routine Sample,10586,Milk Creek,above Surface Creek Road,8.26,76.4,7.67,12.11,53,0.4,<4,<1,54,200,980,9,0.03,0.059,,0.369,0.086,<0.17,1.9,32,
+FY15,7/30/2014,Routine Sample,10589,Oak Creek,above Oak Creek Rd crossing,8.34,1165,6.85,22.69,180,1.8,<4,1.8,490,65,1200,32,0.013,0.15,,0.46,0.2,3,54,27,
+FY15,9/16/2014,Routine Sample,10672,Deer Creek,at Cty Rd 8A,8.17,189.4,8.79,10.12,89,0.86,<5,22,82,30,1000,1.6,0.038,0.057,,0.28,0.19,<0.34,100,2.9,
+FY15,8/5/2014,Routine Sample,10767B,Roaring Forks Creek,at mouth,8.61,230.9,6.79,19.22,140,0.26,<4,0.44,130,15,450,2.2,0.019,<0.05,,0.149,0.019,<0.17,2.9,<10,
+FY15,8/5/2014,Routine Sample,10769,Fish Creek,at Fish Creek SWA, 8.10, 148.2, 7.51, 14.29,80,1.2,<4,1.8,82,86,270,12,0.016,<0.05,,0.123,0.012,0.42,11,<10,
+FY15,8/5/2014,Routine Sample,10770A,West Dolores River,blw 686 Rd, 8.48, 266.9, 7.40, 17.26,110,1.3,<4,16,130,51,530,8.7,0.018,<0.05,,0.233,0.019,0.25,28,<10,
+FY15,7/8/2014,Routine Sample,10780C,Silver Creek,above Blair Tunnel Discharge,8.16,192.1,8.69,7.93,89,0.61,<4,<1,87,8.7,19,9.2,0.011,<0.05,,0.126,<0.003,<0.17,9.8,110,
+FY15,7/29/2014,Routine Sample,10844,Dry Creek,above GG25 Rd.,6.86,3784,6.9,25.21,180,1,<4,84,1100,160,2000,430,0.047,0.21,,0.479,0.043,0.72,1800,22,
+FY15,7/30/2014,Routine Sample,10916,Mesa Creek,at mouth abv Hwy 141,8.03,797.9,8.53,23.09,330,5.2,<4,23,300,26,59,21,<0.003,<0.05,,0.145,0.01,0.85,89,<10,
+FY15,7/24/2014,Routine Sample,12869A,North Fork Elk River,above 44 Rd.,7.71,39.68,8.11,11.84,19,<0.1,<4,,16,31,57,4,0.014,0.069,,0.18,<0.003,<0.17,2.2,<10,
+FY15,7/23/2014,Routine Sample,12869B,Gilpin Creek,above Mica Creek,7.97,24.29,7.68,12.8,12,<0.1,<4,,9.1,5.9,15,<2,0.019,<0.05,,0.116,0.01,<0.17,1.7,<10,
+FY15,7/24/2014,Routine Sample,12869C,South Fork Elk River,near confluence with mainstem,7.73,42.38,7.71,15.37,20,<0.1,<4,,18,69,110,2.6,0.013,<0.05,,0.187,<0.003,<0.17,1.6,<10,
+FY15,7/24/2014,Routine Sample,12869D,Elk River,blw Middle Fork Elk River,7.66,42.79,8.34,11.37,19,<0.1,<4,,17,18,33,<2,0.018,<0.05,,0.14,0.0031,<0.17,2.9,<10,
+FY15,8/6/2014,Routine Sample,138A,Florida River,abv Lemon Reservoir at USGS gage, 8.24, 93.09, 7.56, 14.33,52,<0.1,<4,0.26,59,17,73,<2,<0.003,<0.05,,0.156,<0.003,<0.17,6.8,<10,
+FY15,7/10/2014,Routine Sample,5253,Cherry Creek,behind Stroh Soccer Fields,7.43,564.1,12.99,19.09,200,6.8,<4,73,230,77,580,330,0.011,<0.05,,0.209,0.51,0.33,41,<10,
+FY15,8/13/2014,Routine Sample,5253,Cherry Creek,behind Stroh Soccer Fields,7.07,673.3,3.34,15.01,200,6.4,<4,73,230,250,460,390,0.048,0.089,,0.403,0.5,0.32,45,10,
+FY15,9/18/2014,Routine Sample,5253,Cherry Creek,behind Stroh Soccer Fields,7.31,548.4,5.44,14.29,190,5.4,<5,68,220,140,400,290,0.033,0.056,,0.329,0.46,<0.34,43,9.4,
+FY15,7/10/2014,Routine Sample,5253A,Cherry Creek,at Castle Oak Dr.,8.3,259.9,8.87,22.01,110,2.9,<4,11,86,70,250,33,0.0063,<0.05,,0.207,0.27,<0.17,12,<10,
+FY15,8/19/2014,Routine Sample,7298B5,Salt Creek ,at South Mills Flume,8.1,455,5.92,27.01,100,1.5,<4,10,170,9.1,2700,5,0.046,0.13,,0.314,0.053,1.5,99,<10,
+FY15,8/19/2014,Routine Sample,7298B6,Salt Creek ,u/s from New Tube Mill,8,1018,5.98,22.2,230,1.1,<4,38,520,33,950,85,0.036,<0.05,,0.235,0.048,7,390,18,
+FY15,8/19/2014,Routine Sample,7298B7,Salt Creek ,abv Burnt Mill Rd,8.28,288,6.78,22.16,99,0.89,<4,<1,150,37,4500,2.4,0.026,0.12,,0.256,0.17,0.57,17,<10,
+FY15,8/19/2014,Routine Sample,7298B8,Salt Creek ,abv Minnequa Canal,8.34,219.6,7.11,9.12,91,1.2,<4,5.7,130,85,2100,3,0.025,<0.05,,0.227,0.087,0.45,51,<10,
+FY15,8/19/2014,Routine Sample,8105A,Willow Creek,above confluence with Rio Grande R.,8.22,122.8,7.89,16.68,22,1,<4,<1,42,24,93,190,0.023,0.11,,0.22,0.034,<0.17,34,430,
+FY15,8/19/2014,Routine Sample,8105B,Willow Creek,below Creede at CR 504,7.86,124.5,7.51,14.93,24,1.2,<4,<1,41,26,100,290,0.025,0.14,,0.282,0.035,<0.17,33,1300,
+FY15,8/26/2014,Routine Sample,9113,San Juan River,above Taylor Canyon,8.32,250.5,7.7,17.22,87,1.6,<4,5.5,95,67,370,9.4,0.015,<0.05,,0.155,0.034,0.21,61,<10,
+FY15,8/28/2014,Routine Sample,9121,Mill Creek,below Pagosa Springs,7.71,226.2,8.18,11.82,140,0.68,<4,1.8,160,130,1800,27,0.032,<0.05,,0.208,0.061,0.43,25,<10,
+FY15,8/25/2014,Routine Sample,9160,Turkey Creek,at trailhead nr FY 647,8.66,77.39,7.38,19.44,40,0.37,<4,<1,31,20,60,<2,0.033,<0.05,,0.101,0.018,<0.17,4,<10,
+FY15,8/26/2014,Routine Sample,9165,Sand Creek,at mouth abv East Fork San Juan River,7.97,67.99,7.68,14.17,42,0.13,<4,<1,31,13,23,<2,<0.003,<0.05,,0.111,0.017,<0.17,4,<10,
+FY15,8/26/2014,Routine Sample,9194,Quartz Creek,at CR 684 crossing,7.83,79.3,7.82,10.91,50,<0.1,<4,<1,54,44,100,4,0.015,<0.05,,0.121,0.012,<0.17,7.5,<10,
+FY15,8/25/2014,Routine Sample,9195,West Fork San Juan River,above CR 648 bridge,7.01,45.21,8.12,11.75,26,0.34,<4,<1,22,18,110,5.4,0.03,0.2,,0.293,0.044,<0.17,4,<10,
+FY15,8/27/2014,Routine Sample,9240,First Fork Piedra River,at mouth,8.28,454.5,7.75,15.27,130,0.22,<4,<1,310,5,94,<2,0.026,<0.05,,0.112,0.0042,<0.17,170,<10,
+FY15,8/7/2014,Routine Sample,9245,Stollsteimer Creek,at Hwy 151, 8.05, 701.5, 6.42, 17.77,210,1.5,<4,34,370,17,8300,20,0.033,0.65,,0.897,0.23,1.1,170,<10,
+FY15,8/7/2014,Routine Sample,9274,Williams Creek,blw 631 Rd,8.62,61.71,6.58,21.09,33,0.33,<4,0.36,28,130,590,4.1,0.021,<0.05,,0.17,0.049,<0.17,1.9,<10,
+FY15,8/27/2014,Routine Sample,9285,Weminuche Creek,above CR 631,7.63,53.19,8.52,9.55,37,0.11,<4,<1,32,94,760,2.7,0.025,<0.05,,0.209,0.037,<0.17,1.6,<10,
+FY15,8/27/2014,Routine Sample,9294,Middle Fork Piedra River,above Hunter Campground,7.57,38.74,8.18,10.83,24,0.22,<4,<1,19,33,210,<2,0.028,0.069,,0.268,0.039,<0.17,3.2,<10,
+FY15,8/6/2014,Routine Sample,9372,Vallecito Creek,abv Vallecito Reservoir at Campground, 7.69, 49.94, 7.55, 12.95,22,0.18,<4,<1,29,15,77,17,0.015,0.092,,0.195,0.0097,<0.17,8.2,<10,
+FY15,8/12/2014,Routine Sample,9490,Animas River,above Maggie Gulch,7.01,238.4,8.43,7.87,22,<0.1,<4,1.1,99,<3,31,600,<0.003,0.1,,0.182,0.0061,<0.17,83,310,
+FY15,8/6/2014,Routine Sample,9717,Mancos River,abv 37.5 Rd, 7.82, 1263, 7.85, 20.20,210,0.7,4.3,9.2,650,73,380,110,0.037,<0.05,,0.263,0.018,1.1,590,15,
+FY15,8/7/2014,Routine Sample,9853,Navajo River,at 382 Rd, 7.77, 128.2, 6.82, 17.13,38,0.13,<4,0.52,59,43,210,11,0.019,<0.05,,0.086,0.058,<0.17,31,<10,
+FY15,8/26/2014,Routine Sample,9860,Rito Blanco,at Hwy 84,7.62,292.6,6.48,13.38,170,0.68,<4,5.3,190,53,1100,41,0.033,<0.05,,0.247,0.049,0.26,34,<10,
+FY15,8/7/2014,Routine Sample,9862,Rio Blanco River,at 656 Rd (Group Campground), 8.37, 134.6, 6.55, 21.33,71,0.32,<4,0.38,57,85,700,2.9,0.015,<0.05,,0.129,0.071,<0.17,4.9,<10,
+FY16,7/14/2015,Routine Sample,7501,Timpas Creek,near Rocky Ford,8.32,1304.2,5.71,24.72,180,2.5,5.3,5,480,1700,9900,210,0.067,1.1,,1.12,0.37,7.9,84,37,
+FY16,7/14/2015,Routine Sample,7510,Six Mile Creek,at Hwy 50,8.19,15.37,6.05,22.82,180,1.5,<3.9,12,700,190,3400,47,0.093,2.4,,2.317,0.16,9.9,620,8.6,
+FY16,7/14/2015,Routine Sample,WCOP99-0563,South Rush Creek,,7.76,,4.92,21.33,290,2.7,<3.9,51,350,120,510,34,0.035,<0.026,,0.647,0.043,0.48,150,40,
+FY16,7/15/2015,Routine Sample,7284,Rock Creek,at Cty Rd. 200,8.16,1732,6.86,27.99,140,0.6,<3.9,12,630,41,34,25,0.03,<0.026,,0.098,0.031,3.1,810,2.3,
+FY16,7/15/2015,Routine Sample,7285,Boggs Creek,at Highway 96,8.16,4475,11.5,21.21,330,1.8,<3.9,49,2600,130,160,43,0.035,0.15,,1.032,0.026,13,3300,48,
+FY16,7/15/2015,Routine Sample,7512,Chico Creek,at Rd. 3,7.5,1352,5.4,19.9,260,1.2,<3.9,17,290,67,220,220,0.029,<0.026,,0.187,0.02,0.5,530,<2.3,
+FY16,7/16/2015,Routine Sample,7385,Little Fountain Creek,above Keaton Reservoir,8.19,70,7.92,12.66,31,0.19,<3.9,1,38,210,1100,6,0.031,0.021,,0.096,0.017,0.18,8.3,2.4,
+FY16,7/16/2015,Routine Sample,EPA01-249,Newlin Creek,,7.75,185,7.75,12.03,110,0.19,<3.9,1.7,110,17,23,2.9,0.029,<0.026,,0.13,0.034,0.23,18,<2.3,
+FY16,7/28/2015,Routine Sample,5625,Clear Creek,below Idaho Springs near Whitewater Rd,8.21,171.6,8.21,10.516,29,0.18,8.5,0,51,93,130,190,0.024,0.13,,0.14,0.0078,<0.063,33,150,
+FY16,7/28/2015,Routine Sample,5627,Clear Creek,at Skateboard Park,7.6,173.7,8.45,11.389,29,0.28,9.3,0,53,250,330,220,0.016,0.12,,0.146,0.012,<0.063,33,170,
+FY16,7/28/2015,Routine Sample,5628,Clear Creek,100 yds below Argo Discharge,7.6,197.9,8.34,12.362,28,0.18,6.4,0,67,110,300,110,0.019,0.12,,0.14,0.0087,<0.063,46,120,
+FY16,7/28/2015,Routine Sample,5630,Clear Creek,at Colorado Blvd Bridge,7.66,148.3,8.02,13.179,29,0.14,<3.9,0,49,72,230,75,0.029,0.11,,0.123,0.0092,<0.063,24,89,
+FY16,7/28/2015,Routine Sample,CCWF-CC02,Clear Creek,at Courtney-Riley-Cooper Park,7.63,155.4,8.12,13.363,30,0.16,7.5,0,48,79,210,120,0.025,0.12,,0.136,0.0075,<0.063,25,130,
+FY16,8/6/2015,Routine Sample,7182,Arkansas River,below Leadville,8.01,199.1,8.26,13.444,61,0.42,<3.9,1.9,78,210,490,44,0.024,0.062,,0.134,0.02,0.068,32,30,
+FY16,8/17/2015,Routine Sample,Coal02,Coal Creek,u/s Crested Butte,7.92,130.7,7.71,11.67,49,1.6,<3.9,2.2,57,41,83,14,0.015,<0.026,,0.059,0.0073,<0.063,23,60,
+FY16,8/17/2015,Routine Sample,Coal05,Coal Creek,10 m downstream of Wildcat Trail,7.81,120.8,7.68,11.53,31,2.4,<3.9,2,70,64,110,35,0.013,0.039,,0.059,0.0064,0.067,45,84,
+FY16,8/17/2015,Routine Sample,Coal10,Coal Creek,100 m upstream of Keystone Mine outfall,7.91,,7.48,12.84,34,3.1,<3.9,1.8,41,100,140,40,0.013,<0.026,,0.048,0.0076,<0.063,15,81,
+FY16,8/19/2015,Routine Sample,AR0018,Buffalo Creek,at Highway 385 North of Granada,7.72,3166,7.81,20.246,200,1.7,<3.9,0,1200,12,1800,39,0.1,2.1,,1.82,0.15,44,1600,35,
+FY16,8/20/2015,Routine Sample,12345,Saints John Creek,at Montezuma,7.62,200,8.23,10.58,38,0.12,<3.9,0.91,120,75,210,1400,<0.0077,0.057,,0.072,0.0044,<0.063,100,640,
+FY16,8/20/2015,Routine Sample,NPS-SJ2,Saints John Creek,up gradient,7.77,56,9.21,5.88,30,<0.079,<3.9,<0.26,39,7.7,14,8.6,0.009,0.099,,0.091,0.0041,<0.063,13,7.7,
+FY16,8/20/2015,Routine Sample,NPS-SJ3,Unnamed Tributary,above tailings,7.43,355,8.93,4.05,7.8,<0.079,<3.9,1.9,290,<2,4.7,3,0.0085,0.068,,0.05,0.0054,<0.063,310,74,
+FY16,8/20/2015,Routine Sample,NPS-SJ6,Unnamed Tributary,below tailings,7.49,303,8.29,9.18,12,<0.079,<3.9,1.6,190,2.3,13,770,0.013,0.13,,0.118,0.0066,0.12,210,1900,
+FY16,8/20/2015,Routine Sample,NPS-SJ7,Saints John Creek,down gradient,7.78,64,8.6,8.64,30,<0.079,<3.9,0.34,41,7.9,12,6.8,0.01,0.074,,0.082,0.0035,<0.063,16,14,
+FY16,8/20/2015,Routine Sample,NPS-SJA,Unnamed Mine Discharge,at adit discharge,7.4,611,7.49,3,110,0.39,<3.9,4,530,1700,2000,12000,<0.0077,<0.026,,<0.046,0.0053,<0.063,530,5700,
+FY16,8/20/2015,Routine Sample,NPS-SJA2,Unnamed Mine Discharge,down gradient of adit discharge,7.45,536,8.78,7.12,77,0.34,<3.9,3.3,410,940,2700,8000,0.0091,<0.026,,<0.046,0.007,0.068,410,3700,
+FY16,8/20/2015,Routine Sample,NPS-SJA3,Unnamed Tributary,just above Cty Rd 275,7.17,664,9.05,5.97,110,0.11,<3.9,3.4,540,850,1700,13000,<0.0077,<0.026,,<0.046,0.0051,<0.063,530,5300,
+FY16,8/24/2015,Routine Sample,8715,La Manga Creek,above Elk Creek,,,,,43,0.5,<3.9,0.87,33,230,290,4,0.019,<0.026,,0.081,0.07,<0.063,1.2,2.9,
+FY16,8/25/2015,Routine Sample,8348,Alamosa River,at Gomez Bridge,7.55,203.1,,14.19,13,0.12,<3.9,0.81,110,83,650,160,0.022,<0.026,,0.049,0.017,0.15,110,16,
+FY16,8/25/2015,Routine Sample,8372,Placer Creek,above Bronco Dan Gulch,8.44,,7.41,16.73,92,0.18,<3.9,0.76,88,62,360,28,0.016,<0.026,,0.067,0.031,0.065,5.9,4.3,
+FY16,8/25/2015,Routine Sample,8373,Wagon Creek,at CR 25,8.42,,7.62,18.37,200,0.46,<3.9,1.8,220,37,1300,55,0.016,<0.026,,0.096,0.082,0.18,32,9,
+FY16,8/25/2015,Routine Sample,8374,West Indian Creek,at lower road crossing,8.26,,7.01,21.61,190,0.57,<3.9,1.7,190,110,630,43,0.011,<0.026,,0.127,0.064,0.082,3.3,7.7,
+FY16,8/25/2015,Routine Sample,8375,Sangre de Cristo Creek,near Fort Garland,8.16,,6.84,14.7,230,0.65,<3.9,6,210,35,790,370,0.012,<0.026,,0.084,0.068,0.13,13,9.5,
+FY16,8/25/2015,Routine Sample,8395,Rock Creek,at DWR flume near Monte Vista,,,,,36,0.34,<3.9,0.49,30,180,690,11,0.03,<0.026,,0.108,0.13,<0.063,2.1,6.4,
+FY16,8/26/2015,Routine Sample,8116,West Alder Creek,near South Fork,5.82,60.62,,10.86,36,0.38,<3.9,0.87,36,160,1100,23,0.023,0.32,,0.364,0.11,<0.063,3,6.9,
+FY16,8/26/2015,Routine Sample,8147,Cross Creek,above confluence with Beaver Creek,5.36,81.1,,9.55,58,0.52,<3.9,0.46,53,29,330,4,0.016,0.098,,0.119,0.087,<0.063,1.6,5.4,
+FY16,8/26/2015,Routine Sample,8305,Rio Grande River,at Alamosa,7.72,,6.39,18.27,67,1.1,<3.9,1.6,50,160,610,57,0.02,<0.026,,0.115,0.11,<0.063,7.4,4.4,
+FY16,8/26/2015,Routine Sample,8625A,Carnero Creek,at Hellgate,5.31,112.6,,13.05,61,0.92,<3.9,1.4,61,220,950,34,0.02,<0.026,,0.187,0.19,0.13,5.8,4.4,
+FY16,8/26/2015,Routine Sample,CO03RS,Hope Creek,,5.86,35.21,,8.47,23,0.18,<3.9,0.4,21,26,99,5.8,0.021,0.41,,0.399,0.037,<0.063,1.8,3.6,
+FY16,8/27/2015,Routine Sample,8627,North Fork Carnero Creek,at 32U Rd.,7.98,206.8,,13.2,110,1.9,<3.9,2.9,100,130,660,70,0.016,0.15,,0.495,0.43,0.19,6.7,6.7,
+FY16,8/27/2015,Routine Sample,8629,South Fork Carnero Creek,at FR 675 above campground,8.38,93.5,,9.48,52,0.4,<3.9,0.91,54,330,1000,38,0.022,0.059,,0.201,0.12,0.12,6.9,3.4,
+FY16,9/1/2015,Routine Sample,8531A,Bunch Creek,50 m above confluence with mainstem,,,,,20,0.12,<3.9,<0.26,21,21,30,<0.82,0.023,0.051,,0.137,0.0035,<0.063,4.1,<2.3,
+FY16,9/1/2015,Routine Sample,8531B,Jones Creek,60 m above confluence with mainstem,,,,,31,0.11,<3.9,0.38,28,<2,22,<0.82,0.017,0.1,,0.146,0.0047,0.12,1.8,<2.3,
+FY16,9/1/2015,Routine Sample,8531C,Little Sand Creek,0.5 mile above confluence with mainstem,,,,,29,<0.079,<3.9,<0.26,29,<2,13,<0.82,0.016,0.086,,0.111,0.0037,0.069,4.4,<2.3,
+FY16,9/1/2015,Routine Sample,8531D,McKenney Creek,"90 m above confluence with mainstem, above trail c",,,,,29,<0.079,<3.9,0.46,30,4.2,60,<0.82,0.016,0.16,,0.18,0.013,0.084,4.9,<2.3,
+FY16,9/1/2015,Routine Sample,8531E,Smith Creek,50 m above confluence with mainstem,,,,,29,<0.079,<3.9,0.4,32,<2,20,<0.82,0.014,0.25,,0.249,0.0045,0.11,5.3,<2.3,
+FY16,9/9/2015,Routine Sample,7503,St. Charles River,at Business Route 50,7.81,2159,16.51,8.48,220,0.99,<3.9,27,100,94,1500,110,0.018,1.2,,1.15,0.028,29,1200,41,
+FY16,9/9/2015,Routine Sample,EPA01-240,Wahatoya Creek,,7.66,141.5,8.35,9.8,53,0.35,<3.9,0.41,59,3.7,12,<0.82,<0.008,0.24,,0.234,0.006,0.38,16,3,
+FY16,9/14/2015,Routine Sample,7183,Halfmoon Creek,near Leadville,,62.7,,9.5,51,0.088,<3.9,<0.26,49,56,60,4.2,0.01,0.14,,0.142,0.0032,<0.063,7.7,<2.3,
+FY16,9/14/2015,Routine Sample,7187G,Lake Fork,below Sugarloaf Dam,,14.15,,8.05,12,0.19,<3.9,<0.26,9.6,160,230,6.3,<0.008,<0.026,,0.124,0.0097,<0.063,2.7,<2.3,
+FY16,9/14/2015,Routine Sample,EPA01-260,Rock Creek,,,25.37,,7.7,21,0.1,<3.9,<0.26,17,92,120,2.7,0.016,0.069,,0.099,0.0044,<0.063,3.1,2.6,
+FY16,9/14/2015,Routine Sample,EPA01-261,Lake Fork,,5.94,22.38,,5.53,14,0.085,<3.9,<0.26,15,22,28,6.5,0.011,0.12,,0.139,0.0042,<0.063,7.2,4.1,
+FY16,9/15/2015,Routine Sample,7186,Arkansas River,above Iowa Gulch,,135.7,,9,55,0.29,<3.9,2.2,88,170,600,64,0.014,0.098,,0.156,0.034,<0.063,42,61,
+FY16,9/15/2015,Routine Sample,7188,Iowa Gulch,blw Black Cloud Mine Treatment Plant,,145.7,,5.4,110,0.24,<3.9,0.36,120,14,23,8,<0.008,0.21,,0.193,<0.003,0.14,26,140,
+FY16,9/15/2015,Routine Sample,8347,Alamosa River,near State Hwy 15 and CR 13,7.61,387.2,6.67,10.201,61,0.31,<3.9,0,160,53,170,81,0.011,0.036,,0.106,0.018,0.25,130,9.5,
+FY16,9/15/2015,Routine Sample,CO153M,Fourmile Creek,,,58.57,,9.2,39,0.16,<3.9,0.38,35,240,390,22,0.014,<0.026,,0.198,0.064,<0.063,5.8,<2.3,
+FY16,9/15/2015,Routine Sample,EPA01-253,North Cottonwood Creek,,8.97,47.3,,7.2,33,<0.079,<3.9,0.32,34,15,19,<0.82,0.0089,0.16,,0.17,<0.003,<0.063,4.9,5.1,
+FY16,9/16/2015,Routine Sample,7164,Browns Creek,at FR 255,8.6,44.95,,6.38,15,<0.079,<3.9,0.33,28,27,46,1.1,0.0097,0.19,,0.172,0.0045,0.063,14,<2.3,
+FY16,9/16/2015,Routine Sample,7165,Chalk Creek,at mouth abv mainstem Arkansas R,,,,,62,0.15,<3.9,1.3,71,210,140,27,0.016,0.19,,0.213,0.024,0.069,27,40,
+FY16,9/16/2015,Routine Sample,8300,Rio Grande River,"at Costilla County Rd G, old state bridge",8.42,273.3,7.67,14.37,110,2.9,<3.9,0,86,59,470,20,0.013,<0.026,,0.186,0.11,0.068,21,<2.3,
+FY16,9/16/2015,Routine Sample,8650,Kerber Creek,at Hwy 285 in Villa Grove,,210.3,,14.97,71,0.43,<3.9,1.2,110,39,68,7.3,0.011,<0.026,,0.087,0.013,0.068,62,41,
+FY16,9/16/2015,Routine Sample,NPS-KC06,Kerber Creek,d/s Of Ashley Campground @ Fence Line Below Homest,,133.8,,14.02,50,0.36,6.8,0.61,73,140,210,91,0.012,<0.026,,0.084,0.019,<0.063,36,190,
+FY16,9/16/2015,Routine Sample,NPS-KC17.5,Kerber Creek,Downstream Of Rawley Gl,,161.8,,15.62,40,0.43,120,0.56,81,110,250,930,0.013,0.032,,0.089,0.023,<0.063,56,1400,
+FY16,9/16/2015,Routine Sample,NPS-KC18,Kerber Creek,Upstream Of Rawley Gl,,148,,15.64,49,0.54,28,0.53,79,90,330,460,0.011,<0.026,,0.06,0.024,<0.063,41,280,
+FY16,9/16/2015,Routine Sample,NPS-KC22,Kerber Creek,d/s Of Mosquito Creek,,68.4,,12.95,48,0.22,<3.9,0.31,42,92,220,15,0.012,<0.026,,0.068,0.036,<0.063,2.3,<2.3,
+FY16,9/16/2015,Routine Sample,NPS-KC-HN,Kerber Creek,on HN Property,,199.6,,15.63,64,0.48,5,1.1,110,110,170,43,0.0088,<0.026,,0.1,0.014,<0.063,59,49,
+FY16,9/16/2015,Routine Sample,NPS-TU8650,Kerber Creek,at Hwy 285 in Villa Grove,,210.3,,14.97,72,0.43,<3.9,1.2,120,44,69,7.4,0.0094,<0.026,,0.092,0.013,<0.063,63,41,
+FY16,9/22/2015,Routine Sample,7997a,East Carrizo Creek,at Carrizo Picnic Area,7.85,625.8,6.1,13.557,270,1.3,<3.9,13,260,15,110,41,0.02,0.019,,0.191,0.1,0.22,54,11,
+FY16,9/23/2015,Routine Sample,7120D,Grape Creek,at CR 119,8.57,219.4,8.16,15.32,110,0.47,<3.9,1.3,120,260,560,15,0.018,<0.015,,0.155,0.031,0.085,8.7,5.6,
+FY16,9/23/2015,Routine Sample,7130,Hayden Creek,at Coaldale Campground,8.56,285.2,7.87,10.39,130,0.16,<3.9,0.6,160,<2,57,1.1,0.016,0.045,,0.067,0.009,0.25,24,5.4,
+FY16,9/23/2015,Routine Sample,7550,Middle Fork Purgatoire River,at Stonewall,8.62,313.1,8.31,9.441,110,0.17,<3.9,1.4,150,28,660,9,0.02,0.11,,0.178,0.01,0.23,43,7.2,
+FY16,9/23/2015,Routine Sample,7562,Trinchera Creek,at Trinchera,8.32,1187.1,8.25,15.897,310,1.6,<3.9,11,530,99,1500,31,0.021,<0.015,,0.163,0.053,2.3,370,16,
+FY16,9/23/2015,Routine Sample,7580,Purgatoire River,in Trinidad at Cedar St,8.7,405.18,8.27,15.037,170,0.54,<3.9,12,140,24,220,5.7,0.025,0.11,,0.201,0.0078,0.29,32,6.4,
+FY16,9/28/2015,Routine Sample,8364,Trinchera Creek,below Mountain Home Reservoir,,224.8,6.96,14.83,110,0.43,<5.1,0.72,99,49,530,20,0.027,0.027,,0.184,0.038,0.11,11,3.5,
+FY16,9/28/2015,Routine Sample,10127,Oh-Be-Joyful Creek,above Slate River,6.59,131.6,8.23,6.708,37,0.2,<5.1,<0.27,41,19,29,28,0.094,0.019,,0.08,<0.003,0.12,13,160,
+FY16,9/28/2015,Routine Sample,10127B,Redwell Basin,at mouth,4.35,149.7,8.64,4.006,<5,0.077,60,0.28,24,15,19,610,0.018,0.15,,0.121,0.0036,0.72,42,3100,
+FY16,9/28/2015,Routine Sample,10127B2,Redwell Basin,u/s Daisy Mine d/s Red Well Spring,3.87,149.6,7.93,5.696,<5,<0.067,13,<0.27,26,290,420,300,0.021,0.14,,0.112,0.0032,0.37,39,890,
+FY16,9/28/2015,Routine Sample,10127B4,Redwell Basin,d/s Daisy Mine and Springs,3.51,192,8.21,4.654,<5,0.11,63,0.33,25,490,630,840,0.019,0.15,,0.125,0.0037,0.6,52,3600,
+FY17,7/25/2016,Routine Sample,12115,Sweetwater Creek,above Sweetwater Lake,8.16,281.9,8.15,8.09,170,0.14,<1.9,4.4,690,54,91,8.6,0.023,0.3,,0.244,0.0091,0.46,540,15,
+FY17,7/25/2016,Routine Sample,EPA01-168,Fawn Creek,< USU Star site >,8.57,175,8.28,9.06,96,0.17,<1.9,0.26,88,4.3,4.3,0.85,0.021,<0.016,,<0.067,0.021,<0.21,0.94,2.6,
+FY17,7/26/2016,Routine Sample,11601,Piceance Creek,at Cty Rd 5,8.3,4721.7,7.96,15.93,740,4.1,<1.9,25,200,240,110,110,0.017,<0.016,,0.443,0.14,0.57,500,8.7,
+FY17,7/26/2016,Routine Sample,11625,Black Sulphur Creek,at 29 Rd.,8.46,3067.4,10.02,16.2,430,1.5,<1.9,12,650,56,160,45,0.022,<0.016,,0.238,0.023,0.97,370,7.3,
+FY17,7/26/2016,Routine Sample,11767,East Miller Creek,at end of Cty Rd 57,7.87,2650.4,8.59,9.3,110,0.56,<1.9,0.37,150,5,35,1.8,0.022,0.064,,0.097,0.046,<0.21,33,6.4,
+FY17,7/26/2016,Routine Sample,43,White River,at Meeker,8.94,792,8.18,18.25,120,0.55,<1.9,3.3,240,18,81,7.6,0.017,0.069,,0.087,0.018,0.32,84,4.8,
+FY17,7/27/2016,Routine Sample,11540,North Fork White River,above North Fork Campground,8.4,336.4,9.07,10.7,81,0.51,<1.9,0.6,140,36,78,4.1,0.023,<0.016,,0.089,0.025,<0.21,53,4.5,
+FY17,7/27/2016,Routine Sample,11535,Lost Creek,abv Buford @ 8 Rd.,8.26,552.1,8.61,11.8,170,0.72,<1.9,1,260,89,180,34,0.024,<0.016,,0.109,0.019,1,68,4.8,
+FY17,7/27/2016,Routine Sample,USFS Ripple,Ripple Creek,Blanco Ranger District,8.36,235.5,8.26,12.46,76,0.31,<1.9,0.24,110,32,120,5.1,0.014,<0.016,,<0.067,0.031,<0.21,29,2.3,
+FY17,7/27/2016,Routine Sample,11510,White River,at CR54,9.1,381.3,8.83,18.3,110,0.51,<1.9,0.58,180,18,510,2.8,0.019,<0.016,,0.08,0.023,<0.21,55,3.7,
+FY17,8/23/2016,Routine Sample,12759,South Fork Fryingpan River,above transbasin diversion,7.9,84.4,8.65,5.63,29,<0.083,<1.9,0.2,31,20,33,0.87,0.029,0.13,,0.119,<0.0084,<0.21,8.6,3.3,
+FY17,8/22/2016,Routine Sample,12785A,Lost Man Creek,above reservoir,,49.7,8.07,8.45,23,<0.083,4.4,<0.18,28,17,31,1.8,0.028,0.052,,0.081,<0.0084,<0.21,4.5,8.4,
+FY17,8/23/2016,Routine Sample,EPA01-259,Deeds Creek,< USU Star site >,8.14,119.9,8.47,8.91,60,0.13,2.3,0.24,67,59,120,2.6,0.014,<0.016,,<0.067,0.012,<0.21,1.1,3.2,
+FY17,8/23/2016,Routine Sample,USFS Avalanche,Avalanche Creek,Sopris Ranger District,8.25,418.1,8.2,10.57,110,0.13,<1.9,0.6,980,13,22,1.2,0.015,0.095,,0.092,<0.0084,<0.21,100,8.5,
+FY17,8/22/2016,Routine Sample,12783,Roaring Fork River,below Aspen,8.61,442.2,8.3,13.47,110,0.23,<1.9,3.9,260,10,46,3.2,0.023,0.3,,0.283,0.043,0.35,120,12,
+FY17,8/22/2016,Routine Sample,12714B,Fourmile Creek,above Atkinson Ditch,8.25,606,7.99,12.05,290,0.64,<1.9,4.6,69,36,48,17,0.013,0.13,,0.262,0.064,0.47,60,8.8,
+FY17,8/24/2016,Routine Sample,11175,Middle Rifle Creek,above West Rifle Creek,8.35,761.7,8.51,11.48,250,0.41,<1.9,3.2,520,140,420,42,0.019,0.13,,0.211,0.021,1.2,160,11,
+FY17,8/24/2016,Routine Sample,11187,East Divide Creek,at 313 Rd near gage,8.52,503.9,7.99,20.86,220,0.8,<1.9,11,200,27,110,14,0.016,<0.016,,0.209,0.015,1.2,33,6.5,
+FY17,8/24/2016,Routine Sample,11149b,Mamm Creek,at Antara Resources Near Garfield County Airport,8.27,2208.9,6.53,20.99,550,5.6,4.1,46,790,400,14000,37,0.017,7.9,,7.02,0.22,30,600,14,
+FY17,9/19/2016,Routine Sample,12370A,Soda Creek,at Cove Blvd.,8.06,140.3,8.19,8.82,75,0.28,<3.7,0.47,79,160,270,13,0.021,<0.016,,0.142,0.025,0.19,5.4,3.3,
+FY17,9/19/2016,Routine Sample,12322,Straight Creek,above Town of Dillon,7.88,172.6,8.22,9.3,44,<0.089,<3.7,26,64,56,130,7.9,0.027,0.063,,0.082,<0.0084,<0.052,4.6,6,
+FY17,9/19/2016,Routine Sample,12303,Blue River,at Blue River Campground,8.02,238.4,8.77,10.36,51,0.15,<3.7,8.8,110,35,98,20,0.03,0.23,,0.328,<0.0084,0.11,33,29,
+FY17,9/20/2016,Routine Sample,USFS Meadow,Meadow Creek,Dillon Ranger District,7.55,78.1,9.5,5.07,35,<0.089,<3.7,0.26,31,11,29,0.64,0.025,0.033,,<0.067,<0.0084,<0.052,1.8,13,
+FY17,9/20/2016,Routine Sample,12336,Tenmile Creek,above Wheeler Junction nr Copper Mnt,7.76,1241.1,8.91,7.03,35,0.12,<3.7,6.8,570,14,34,27,0.032,0.17,,0.247,<0.0084,0.15,450,40,
+FY17,9/19/2016,Routine Sample,12372C,Cataract Creek,at outlet of Cataract Creek,8.65,51.7,8.94,13.5,27,0.18,<3.7,0.24,29,190,250,6.9,<0.011,<0.016,,0.116,<0.0084,0.073,3,4.5,
+FY17,9/20/2016,Routine Sample,12517,Red Sandstone Creek,above Red Sandstone Rd. trailhead,8.46,285.5,9.32,8.3,120,0.13,<3.7,0.55,120,9.1,23,2.6,0.024,0.027,,<0.067,<0.0084,0.1,5.1,4.4,
+FY17,9/20/2016,Routine Sample,12515,Red Sandstone Creek,at mouth at Vail,8.7,380.5,9.67,9.23,140,0.15,<3.7,1.2,180,7.4,23,2.7,0.024,0.042,,0.082,<0.0084,0.13,32,8.9,
+FY17,9/21/2016,Routine Sample,USFS Gore 1,Gore Creek,Holy Cross Ranger District,7.97,97.6,8.97,7.1,44,<0.089,<3.7,0.26,44,6.2,12,0.38,0.023,0.12,,0.137,<0.0084,<0.052,4.1,2.5,
+FY17,9/20/2016,Routine Sample,12556P,Black Gore Creek,u/s from Polk Creek,8.37,652.9,9.32,5.8,120,0.13,<3.7,100,210,8.2,230,6.1,0.022,0.089,,0.107,0.013,0.086,2.8,10,
+FY17,9/21/2016,Routine Sample,12556G,Black Gore Creek,u/s from Timber Creek,7.89,318,8.62,6.2,92,0.098,<3.7,35,100,42,53,19,0.03,<0.016,,<0.067,<0.0084,0.061,2,4.3,
+FY17,10/13/2016,Routine Sample,12502H,Eagle River,blw Lake Cr in Edwards,7.99,364.9,9.57,6.43,120,0.14,<3.7,13,230,72,110,17,<0.024,0.24,,0.277,0.024,0.16,84,24,
+FY17,10/13/2016,Routine Sample,12502A,Eagle River,at Eagle Springs Golf Course,8.81,909.4,11.18,9.95,120,0.17,<3.7,190,270,45,94,8,<0.024,0.22,,0.297,0.069,0.22,110,15,
+FY17,9/13/2016,Routine Sample,12304D,Blue River,below Dillon Reservoir at Gage,7.65,228.4,7.18,6.101,45,0.15,2.4,6.6,96,<0.81,8.7,1.5,0.038,0.32,,0.323,0.01,0.12,63,23,
+FY17,10/3/2016,Routine Sample,81,Animas River,above Durango (Bakers Bridge),7.75,251.2,10.14,4.952,38,0.13,<3.7,1.2,120,14,770,370,0.018,0.086,,0.118,0.0071,0.14,89,43,
+FY17,10/3/2016,Routine Sample,82,Animas River,near Silverton,7.46,395.4,9.08,4.909,20,0.12,<3.7,2.1,180,1300,2500,1100,0.031,0.11,,0.121,0.014,0.23,190,330,
+FY17,8/10/2016,Routine Sample,8301,Rio Grande River,below Hwy 142 bridge,8.24,212,7.42,21.756,100,2.7,<1.9,3.4,74,76,620,36,0.015,<0.016,,0.245,0.13,<0.21,15,3.1,
+FY17,8/10/2016,Routine Sample,8303,Rio Grande River,near Alamosa/Conejos County Line,7.79,205.1,6.65,19.191,100,1.6,<1.9,4.2,76,120,760,48,0.014,<0.016,,0.204,0.1,<0.21,13,4.5,
+FY17,10/3/2016,Routine Sample,9423A,Animas River,at Durango - 9th St. Bridge,7.82,418.4,9.19,12.107,98,0.24,<3.7,14,190,11,210,68,<0.024,0.095,,0.119,0.0071,0.19,110,10,
+FY17,8/15/2016,Routine Sample,11702,White River,at Rangely,8.47,637.2,9.14,23.233,180,1.4,<1.9,14,320,5.7,260,9.8,0.013,0.062,,0.28,0.022,0.64,180,5.3,
+FY17,8/15/2016,Routine Sample,11726,East Douglas Creek,above Cathedral Creek,8.15,787.6,7.44,17.713,300,1.7,<1.9,1.7,380,3,4100,33,0.011,<0.016,,0.281,0.12,0.31,69,8.3,
+FY17,9/7/2016,Routine Sample,NPS-SJ2,Saints John Creek,up gradient,7.71,92.4,8.85,4.435,36,<0.083,<1.9,0.25,39,9.7,21,2,0.016,0.12,,0.114,0.0082,<0.21,15,<0.98,
+FY17,9/7/2016,Routine Sample,NPS-SJ3,Unnamed Tributary,above tailings,7.43,647.2,9.21,5.844,12,<0.083,<1.9,<1.8,310,<0.81,9.2,6.7,0.021,<0.016,,<0.067,0.0084,<0.21,430,71,
+FY17,9/7/2016,Routine Sample,NPS-SJ6,Unnamed Tributary,below tailings,7.2,470.5,7.74,9.308,13,<0.083,<1.9,<1.8,250,3,100,890,0.026,0.13,,0.1,0.0091,<0.21,260,2100,
+FY17,9/7/2016,Routine Sample,NPS-SJ7,Saints John Creek,down gradient,8.13,95.7,7.99,8.732,36,<0.083,<1.9,0.28,51,8,62,1.8,0.024,0.083,,0.097,<0.0084,<0.21,17,1.1,
+FY17,9/7/2016,Routine Sample,NPS-SJA,Unnamed Mine Discharge,at adit discharge,6.78,984.3,6.77,2.959,120,0.23,2.3,<1.8,480,1600,1900,14000,0.02,0.019,,<0.067,0.0087,<0.21,560,5300,
+FY17,9/7/2016,Routine Sample,NPS-SJA2,Unnamed Mine Discharge,down gradient of adit discharge,7.69,770.2,8.02,7.917,83,0.086,<1.9,<1.8,370,44,1500,7300,0.033,0.024,,<0.067,0.0089,<0.21,450,2700,
+FY17,9/7/2016,Routine Sample,NPS-SJA3,Unnamed Tributary,just above Cty Rd 275,7.72,971.3,8.44,6.254,120,<0.083,<1.9,<1.8,600,550,1700,14000,0.02,0.025,,<0.067,0.0088,<0.21,600,4100,
+FY17,7/26/2016,Routine Sample,11153,Rapid Creek,abv conf. with Cottonwood Creek,8.42,596.5,7.67,22.307,270,4.3,<1.9,3.3,240,28,72,25,0.022,<0.016,,0.146,0.021,1.2,64,3.7,
+FY17,7/27/2016,Routine Sample,12195,Fraser River,below Vasquez Creek,8.41,59.7,8.29,13.084,22,0.084,<1.9,3.2,24,97,250,3.6,0.03,0.053,,0.117,0.026,<0.21,2.3,<0.98,
+FY17,9/12/2016,Routine Sample,5988A5,Mosquito Creek,d/s N. London Mine,8.41,99.5,8.24,7.843,45,0.13,2.1,<0.18,49,55,74,5.8,0.025,0.11,,0.133,<0.0084,0.23,9.7,1.6,
+FY17,9/12/2016,Routine Sample,5988A3,Mosquito Creek,blw South Mosquito Creek,8.46,245,7.89,9.81,89,0.17,2,0.22,120,89,240,56,0.025,0.072,,0.096,<0.0084,<0.052,52,58,
+FY17,9/12/2016,Routine Sample,5988B1,South Mosquito Creek,d/s London Tailings,8.39,343.9,8.08,8.302,110,0.21,5.7,0.49,180,32,420,88,0.023,0.11,,0.095,<0.0084,<0.052,90,260,
+FY17,9/22/2016,Routine Sample,143,Beaver Creek,at Avon,8.47,251.2,8.48,11.989,87,0.15,<3.7,4.4,160,18,50,2,0.029,<0.016,,0.085,<0.0084,0.11,43,3.1,
+FY17,9/23/2016,Routine Sample,12555,Gore Creek,abv Vail,8.17,170.5,8.86,7.648,76,<0.089,<3.7,12,97,19,25,3.1,0.027,0.067,,0.097,<0.0084,<0.052,3.4,2.4,
+FY17,9/22/2016,Routine Sample,12502D,Lake Creek,at Hwy 6 near Edwards,8.41,381.6,8.55,12.42,120,0.1,<3.7,5,250,5.2,48,1.6,0.034,0.03,,0.078,<0.0084,0.13,100,5.4,
+FY17,8/11/2016,Routine Sample,45,Colorado River,near Hot Sulfur Springs,8.55,99.5,8.36,19.208,53,0.41,<1.9,2.6,42,230,440,11,0.017,<0.016,,0.171,0.047,<0.21,3.8,2.5,
+FY17,8/17/2016,Routine Sample,74,Gore Creek,at mouth,8.5,329.2,9.01,10.222,130,<0.083,<1.9,15,180,3.2,25,1,<0.011,0.53,,0.557,0.028,<0.21,43,5.2,
+FY17,8/11/2016,Routine Sample,12161,Fraser River,at Hwy 40 nr Granby,7.98,115.3,7.66,17.406,60,0.32,1.9,4,49,260,470,16,0.018,<0.016,,0.17,0.043,<0.21,3.4,3,
+FY18,7/10/2017,Routine Sample,12988,Laramie River,below Chambers Lake,7.60,65.90,7.92,11.82,35,0.15,<4,0.51,30,160,2700,14,0.011,<0.018,,0.075,0.008,<0.099,1.5,2.4,
+FY18,7/10/2017,Routine Sample,12986,Laramie River,u/s Stub Creek,7.46,63.20,7.95,14.30,29,0.23,<4,0.51,27,230,390,22,0.036,0.019,,0.12,0.01,0.099,3.3,2,
+FY18,7/10/2017,Routine Sample,12986A,Stub Creek,u/s Laramie River,7.26,27.90,7.99,12.60,14,0.14,<4,0.18,11,340,630,7.5,0.012,<0.018,,0.126,0.015,<0.099,0.75,16,
+FY18,7/11/2017,Routine Sample,5390,Little Beaver Creek,below 63E Rd.,7.50,30.30,8.54,9.66,15,0.11,<4,0.35,12,120,230,4.2,0.012,0.018,,0.092,0.012,0.099,1.5,<2.0,
+FY18,7/11/2017,Routine Sample,5384,South Fork Cache La Poudre River,at 63E Rd (Pingree Park Rd.),7.21,22.10,8.16,11.20,13,<0.11,<4,0.28,8.5,87,200,3.1,0.018,0.036,,0.125,0.01,<0.099,1.2,2.3,
+FY18,7/11/2017,Routine Sample,5385,Bennet Creek,above Pingree Park Rd.,7.42,127.50,7.55,14.52,65,0.18,<4,1.3,54,200,680,13,0.0089,<0.018,,0.111,0.022,0.1,5.9,4.2,
+FY18,7/11/2017,Routine Sample,5318,Cache La Poudre River,above 63E Rd,7.53,34.40,7.75,15.06,15,0.16,<4,,15,74,150,3.2,<0.0038,0.069,,0.137,0.0077,<0.099,2.5,30,
+FY18,7/11/2017,Routine Sample,5385A,Elkhorn Creek,abv Hwy 15,7.92,136.80,7.19,19.27,51,0.44,<4,11,56,490,690,9.1,0.012,<0.018,,0.168,0.026,0.2,3.5,3.4,
+FY18,7/12/2017,Routine Sample,5362,North Fork Cache La Poudre River,above Sheep Cr on Cherokee Park SWA,7.44,36.30,7.83,14.00,19,0.15,<4,0.36,14,260,380,5.5,0.015,<0.018,,0.122,0.013,0.12,1.4,30,
+FY18,7/12/2017,Routine Sample,5381,Lone Pine Creek,at Cherokee Park SWA,7.82,105.60,7.94,17.23,42,0.41,<4,5.6,37,320,480,11,0.016,<0.018,,0.224,0.022,0.21,2.7,25,
+FY18,7/12/2017,Routine Sample,5382,Stonewall Creek,at Hwy 287,7.93,477.20,8.02,16.87,230,0.72,<4,20,220,25,54,11,<0.0038,0.16,,0.275,0.011,0.59,26,7.3,
+FY18,8/17/2017,Routine Sample,5590,Coal Creek,at 38 Rd.,7.90,2024.00,7.21,17.60,220,1.2,<4,,260,30,990,23,0.0042,4.7,,4.94,0.43,3.1,170,16,
+FY18,8/17/2017,Routine Sample,5594,Coal Creek,at S. 120th St.,8.17,1510.00,8.07,18.23,210,0.58,<4,,220,79,340,24,0.0071,1.6,,1.9,0.11,1,68,30,
+FY18,8/21/2017,Routine Sample,5548,South St. Vrain Creek,u/s Brainard Lake,7.06,18.4,7.13,13.1,7.1,<0.11,<4,0.15,7.2,65,160,1.7,<0.0038,0.021,,0.098,0.0094,<0.099,3.1,3.9,
+FY18,8/25/2017,Routine Sample,5588,South Boulder Creek,at South Boulder Road,8.56,64,9.31,14.15,22,0.17,<4,3.2,26,82,180,7.6,<0.0038,<0.018,,0.126,0.01,0.19,6.2,2,
+FY18,8/21/2017,Routine Sample,5561A45,James Creek,d/s LittIe James Cr.,7.94,34.3,7.78,13.55,13,<0.11,<4,0.32,15,66,140,11,<0.0038,0.035,,0.099,0.0079,0.1,5.2,5.6,
+FY18,8/24/2017,Routine Sample,5581b,Middle Boulder Creek,0.5 mi below spillway,7.66,44.4,7.47,13.04,18,<0.11,<4,1.8,18,58,130,6.9,<0.0038,0.039,,0.129,0.0072,0.13,2.8,2.6,
+FY18,8/22/2017,Routine Sample,CO1RS,Middle St. Vrain Creek,above South St. Vrain,8.06,41.6,7.64,15.98,14,<0.11,<4,0.8,18,33,100,2.6,<0.0038,0.074,,0.118,0.0052,<0.099,5.1,2.4,
+FY18,8/24/2017,Routine Sample,5685,Hoop Creek ,at mouth,7.86,118,7.84,7.94,18,<0.11,<4,24,24,15,28,1.4,<0.0038,<0.018,,0.052,0.0061,0.17,2.7,3.3,
+FY18,8/25/2017,Routine Sample,133a,North Fork Clear Creek,above Missouri Creek,7.83,97.6,8.54,7.22,36,<0.11,<4,7.6,37,58,590,9.4,<0.0038,<0.018,,0.078,0.02,<0.099,7.6,3.7,
+FY18,8/22/2017,Routine Sample,5424,Big Thompson River,at downtown Estes Park,8.84,29.1,8.45,12.49,13,<0.11,<4,1.3,11,110,250,4.8,<0.0038,0.12,,0.178,0.0085,0.15,1.8,2.3,
+FY18,8/22/2017,Routine Sample,5456A,Little Thompson River,at Cty Rd 17,8.03,1555,8.25,17.68,240,0.71,17,16,760,15,160,65,<0.0038,<0.018,,0.204,0.021,1.1,650,16,
+FY18,8/25/2017,Routine Sample,5661,North Fork Clear Creek,off Highway 119,7.9,343.5,8.53,8.99,31,0.39,29,37,120,350,1300,460,<0.0038,0.12,,0.167,0.027,0.29,62,500,
+FY18,9/11/2017,Routine Sample,5936,South Platte River,at Lone Rock Campground,8.07,610.30,8.53,12.60,100,0.54,<4,36,140,3.7,75,180,0.054,0.17,,0.336,0.063,<0.099,39,5.4,
+FY18,9/12/2017,Routine Sample,5789,Kenosha Creek,east of FR 126C,7.45,40.80,,15.46,20,0.21,<4,0.42,16,680,1800,24,0.013,<0.018,,0.173,0.071,<0.099,1.8,<2,
+FY18,9/12/2017,Routine Sample,5875,South Fork Lost Creek,above North Fork,7.42,46.60,,9.11,21,<0.11,<4,0.65,17,310,660,11,0.0096,<0.018,,0.158,0.019,<0.099,2.6,2.9,
+FY18,9/11/2017,Routine Sample,5952,South Platte River,below Spinney Mountain Reservoir @ Gage,8.46,433.70,7.51,16.10,99,0.68,<4,40,150,6.7,97,6.7,<0.0038,<0.018,,0.169,0.021,<0.099,52,4.9,
+FY18,9/12/2017,Routine Sample,5986,Michigan Creek,at Teter SWA,7.79,118.70,,11.07,53,0.32,<4,0.34,57,530,900,20,0.0066,<0.018,,0.107,0.027,<0.099,10,3.7,
+FY18,9/11/2017,Routine Sample,5951A,South Platte River,d/s Elevenmile Reservoir @ Spillway @ Gage,8.53,528.00,7.65,17.48,130,0.78,<4,52,190,2.2,27,5.2,0.0083,0.052,,0.274,0.032,<0.099,60,5.8,
+FY18,9/12/2017,Routine Sample,5985B,Tarryall Creek,at Tarryall SWA,8.14,141.50,8.25,10.63,65,0.24,<4,0.61,70,190,410,8.1,0.0047,<0.018,,0.135,0.015,<0.099,10,4.6,
+FY18,9/11/2017,Routine Sample,EPA01-250,Goose Creek,<USU Star>,8.68,60.80,8.37,10.24,20,0.17,<4,0.78,21,120,350,12,0.0097,0.047,,0.112,0.014,0.19,4.7,4.6,
+FY18,9/12/2017,Routine Sample,EPA01-252,Rock Creek,<USU Star>,7.25,37.20,8.18,9.50,18,<0.11,<4,0.48,13,100,210,5.6,0.013,0.041,,0.117,0.012,<0.099,2.7,<2,
+FY18,7/24/2017,Routine Sample,5978,Fourmile Creek,at YMCA,8.2,150.5,7.15,22.059,52,0.22,<4,2.5,58,98,200,2.5,0.015,0.25,,0.354,0.059,0.13,12,8.1,
+FY18,7/24/2017,Routine Sample,5971A1,Horse Creek,at mouth,8.22,322.9,7.24,20.66,110,1.2,<4,26,120,81,770,61,0.016,0.057,,0.298,0.044,0.1,12,4.5,
+FY18,7/24/2017,Routine Sample,5971a2,Trout Creek,u/s of confluence with West Cr.,8.33,357.9,7.33,21.708,130,2.1,<4,29,130,83,890,80,0.023,0.043,,0.342,0.059,0.16,13,3.2,
+FY18,7/24/2017,Routine Sample,5971B1,West Creek,at mouth,8.36,204.5,6.98,22.53,89,0.27,<4,6.5,87,110,540,6.7,0.013,0.051,,0.199,0.025,<0.099,7.5,2.8,
+FY18,7/25/2017,Routine Sample,5971a3,Trout Creek,below Manitou Reservoir Dam,9.15,349.9,7.5,18.845,110,0.6,<4,40,120,88,570,13,0.036,0.67,,1.27,0.15,0.12,11,5,
+FY18,7/26/2017,Routine Sample,8405,San Francisco Creek,near Del Norte,7.89,59.4,7.86,11.614,30,0.21,<4,,24,77,350,5.3,0.017,0.24,,0.31,0.1,<0.099,1.6,<2,
+FY18,7/27/2017,Routine Sample,8615A,La Garita Creek,at 38 Rd South of the Town of La Garita,7.84,74.5,7.15,14.384,43,0.39,<4,,43,700,5100,28,0.028,0.23,,0.487,0.29,0.15,2,15,
+FY18,7/27/2017,Routine Sample,NPS-KC-HN,Kerber Creek,at HN Pasture,,249.7,6.69,22.312,83,0.86,5.9,,110,190,340,92,0.0072,0.025,,0.277,0.031,0.12,45,66,
+FY18,7/26/2017,Routine Sample,8351A,Cat Creek,above Willow Creek at FR 271,8.05,187.7,7.53,13.677,97,0.37,<4,,83,210,590,10,0.006,0.067,,0.221,0.14,0.14,8.9,3.7,
+FY18,8/8/2017,Routine Sample,BC01,Boxelder Creek,upstream of discharge effluent,7.86,2046.9,8.07,16.164,230,0.88,<4,,1200,<1.7,290,15,<0.0038,5.4,,5.39,0.04,7.4,980,21,
+FY18,8/8/2017,Routine Sample,5419C,Big Thompson River,at Glade Road Park,7.85,81.7,8.65,15.908,26,0.18,<4,,36,97,430,5.9,0.013,0.19,,0.288,0.031,0.1,9.1,2.4,
+FY18,8/14/2017,Routine Sample,8105A,Willow Creek,abv confluence with Rio Grande River,8.41,100.8,8.13,15.063,23,0.86,<4,0.53,38,34,130,81,0.042,0.12,,0.229,0.047,0.18,22,61,
+FY18,8/14/2017,Routine Sample,8105B,Willow Creek,mainstem below East and West Fork Willow,8.17,100.5,7.94,12.728,24,0.82,<4,0.83,36,35,160,170,0.0071,0.14,,0.22,0.045,<0.099,22,570,
+FY18,8/14/2017,Routine Sample,8105E,Willow Creek,below Creede at CR 504,7.91,109.2,7.91,12.261,24,0.72,<4,0.33,39,39,190,240,0.007,0.14,,0.196,0.044,<0.099,26,710,
+FY18,8/21/2017,Routine Sample,23,South Platte River,at Henderson,7.92,835.2,7.17,20.663,140,0.95,4.2,9.6,240,44,150,49,0.13,3.3,,3.85,0.72,1.2,12,21,
+FY18,8/21/2017,Routine Sample,22,South Platte River,near Kersey,8.25,1228.1,10.44,22.724,220,1.2,<4,6.8,510,5.9,340,14,<0.0038,4.5,,4.55,0.25,2.4,33,13,
+FY18,8/21/2017,Routine Sample,27,Cache La Poudre River,near Greeley,8.13,1150.4,10.13,21.876,220,1.2,<4,4.3,530,<1.7,1100,27,0.015,4.4,,4.6,0.32,2.8,34,14,
+FY18,8/21/2017,Routine Sample,29,St. Vrain Creek,near mouth,8.31,1219.8,8.55,23.857,220,1.5,<4,4.8,520,3.7,780,28,0.0056,2.1,,2.43,0.24,2,37,11,
+FY18,9/11/2017,Routine Sample,5870A,West Creek,abv Trail Creek near Cty Rd 78 and Pine Lake Drive,8.21,179.3,8.61,15.319,81,0.29,<4,2,78,610,1400,120,0.0081,0.039,,0.168,0.059,<0.099,6.7,3.6,
+FY18,10/3/2017,Routine Sample,82,Animas River,near Silverton,6.94,481,8.45,8.585,12,<0.11,<4,1,220,1100,2600,1300,0.023,0.07,,0.091,0.024,0.23,200,430,
+FY18,10/3/2017,Routine Sample,9423A,Animas River,at Durango - 9th St. Bridge,7.63,562.5,8.89,9.795,130,0.34,<4,21,260,7.8,640,61,0.0044,0.069,,0.096,0.027,0.27,130,12,
+FY18,10/3/2017,Routine Sample,81,Animas River,above Durango (Bakers Bridge),7.86,336.4,9.78,7.272,44,0.21,<4,1.9,150,11,630,370,0.011,0.066,,0.086,0.011,0.15,120,34,
+FY18,10/24/2017,Routine Sample,28,Big Thompson River,near mouth,8.31,1520.2,13.93,11.962,250,0.76,<6.2,38,670,7.1,190,41,0.079,4.4,,4.36,0.38,3.8,560,20,
+FY19,9/18/2018,Routine Sample,5208,Crow Creek,at Nagakawa SWA,8.34,1621,7.3,24.00,210,1.51,<4.3,160,498,137,1200,21.5,0.2,8.11,,8.13,6.6,2.4,400,36.6,
+FY19,10/3/2018,Routine Sample,5210,Sand Creek,at mouth,8.40,1788,11.4,17.10,220,1.24,<2.2,210,462,39.7,68.7,54.2,0.1,3.16,,3.36,0.5,7.29,410,24.5,
+FY19,9/19/2018,Routine Sample,5418,Big Thompson River,at Hwy 257,8.00,1629,10.6,18.40,290,1.07,<4.3,33,824,118,523,265,0.0065,0.363,,0.711,0.28,2.53,680,33.1,
+FY19,9/20/2018,Routine Sample,5570,Boulder Creek,at mouth upstream of St. Vrain Creek,8.50,999,11.7,19.40,240,1.98,<2.2,70,310,30.2,123,8.6,<0.0057,1.78,,1.99,0.61,1.48,190,14.7,
+FY19,9/20/2018,Routine Sample,5572,Boulder Creek,u/s Coal Creek nr Gooding (115th and 38 rd.),8.80,567,13.6,21.20,150,1.48,<4.3,45,186,50.5,246,8.7,0.02,1.97,,2.13,1.5,0.525,71,16.1,
+FY19,7/31/2018,Routine Sample,5962,Sheep Creek,above Cty Rd 5,8.31,363.4,7.48,14.35,150,0.467,<4.3,,179,332,569,38.3,<0.0057,<0.025,,0.198,0.021,<0.18,41,7.7,
+FY19,7/24/2018,Routine Sample,5984,Snyder Creek,above 77 Rd.,7.92,497.2,4.69,17.00,280,0.816,<4.3,,168,310,5590,51.7,0.088,0.0775,,0.799,0.17,<0.9,41,8.2,
+FY19,10/11/2018,Routine Sample,7104,Arkansas River,abv Parkdale @ Hwy 50,8.16,286.6,9.35,7.56,100,0.437,<2.2,7.11,124,28.1,1980,11.6,<0.0076,0.1,,0.199,0.1,<0.17,36,6.3,
+FY19,7/30/2018,Routine Sample,7105,Arkansas River,abv Hamilton Creek at CR 45 Bridge,8.58,212.5,8.31,18.47,76,0.388,<4.3,4.7,88.4,22.2,591,7.8,<0.0057,0.145,,0.217,0.031,<0.18,25,5.9,
+FY19,8/15/2018,Routine Sample,8343,Wightman Fork,above confluence with Alamosa River,7.30,1194.3,8.33,8.99,14,0.099,7,2.2,614,5.1,313,552,<0.0057,0.0868,,0.0703,0.0068,<0.18,680,111,
+FY19,8/14/2018,Routine Sample,10716,Dolores River,below Rico,8.28,523,8.27,10.45,160,0.393,<4.3,1.7,264,14.2,44.5,10.9,<0.0057,<0.025,,0.0382,0.0053,0.301,130,16.1,
+FY19,8/14/2018,Routine Sample,10718,Dolores River,below Horse Creek,7.55,360.9,8.25,9.56,110,0.282,<4.3,0.88,193,24.4,128,124,<0.0057,<0.025,,0.0437,0.0058,0.467,80,9.2,
+FY19,8/15/2018,Routine Sample,11387,Fortification Creek,at 18 Rd.,,763,10.3,21.10,280,2.47,<4.3,16,130,146,457,37.4,<0.0057,<0.025,,0.503,0.04,2.3,94,6.3,
+FY19,8/13/2018,Routine Sample,11464,Willow Creek,at Rd 70,,120.2,11.2,23.90,63,1.57,<4.3,0.63,54.4,722,659,25.5,<0.0057,<0.025,,0.313,0.1,<0.18,2.2,11.6,
+FY19,8/14/2018,Routine Sample,11480,Talamantes Creek,at Road 94,,356.4,8.7,12.70,180,2.81,<4.3,3.7,185,126,225,47,0.023,0.0899,,0.299,0.12,0.246,8.5,12.5,
+FY19,8/14/2018,Routine Sample,11485,Vermillion Creek,at Hwy 318,,877,13.8,18.60,120,0.913,<4.3,140,211,10.9,98.8,1.1,<0.0057,<0.025,,0.0784,0.0063,0.928,110,17.4,
+FY19,9/12/2018,Routine Sample,12095,Colorado River,at Pumphouse Campground,8.40,235.9,8.9,13.70,66,0.427,<4.3,7.2,106,114,285,22.7,0.025,0.069,,0.174,0.019,0.198,41,13.6,
+FY19,9/12/2018,Routine Sample,12103,Colorado River,at State Bridge @ Hwy 131,8.30,235.2,8.4,15.20,69,0.473,<4.3,6.9,105,129,256,29.2,0.028,0.0358,,0.155,0.021,<0.18,41,11.9,
+FY19,9/11/2018,Routine Sample,12128,Beaver Creek,above Spring Creek,7.70,567.1,6.8,12.70,70,0.353,<4.3,0.48,66.9,127,122,5.3,0.021,<0.025,,0.0686,0.026,<0.18,6.3,29.8,
+FY19,9/10/2018,Routine Sample,12168,Ranch Creek,near Tabernash,7.80,128.2,8.6,10.90,65,0.573,<4.3,1.5,58.8,1140,1290,52.6,0.024,<0.025,,0.166,0.061,<0.18,1.5,11,
+FY19,9/11/2018,Routine Sample,12179,Hurd Creek,at end of FR 848,7.40,537.6,8.3,5.50,20,0.088,<4.3,0.43,15.6,401,228,26.9,0.023,<0.025,,0.0428,0.0068,<0.18,1.5,7.1,
+FY19,9/11/2018,Routine Sample,12181,Meadow Creek,at Arapaho National Rec Area boundary,7.80,45.6,8,8.10,24,0.055,<4.3,0.26,22.1,70,90.7,2.8,0.025,<0.025,,0.07,0.0048,<0.18,1.5,5.9,
+FY19,9/11/2018,Routine Sample,12182,Roaring Fork Arapaho Creek,at Indians Peaks WA near Granby,7.70,562.1,7.8,11.00,20,0.053,<4.3,0.29,17.8,17.5,13.2,1.8,0.047,0.025,,0.0596,<0.0047,<0.18,2.4,7.4,
+FY19,9/10/2018,Routine Sample,12196,Vasquez Creek,at gage at Hwy 40,7.90,555,8.5,10.50,26,0.086,<4.3,0.44,24.1,136,125,5.6,0.027,<0.025,,0.0634,0.0078,<0.18,4,7.2,
+FY19,8/15/2018,Routine Sample,12803,Yampa River,at Highway 13,,,,,110,0.947,<4.3,8.7,120,124,338,27.1,<0.0057,<0.025,,0.374,0.051,0.281,49,9.7,
+FY19,8/15/2018,Routine Sample,12804,Yampa River,at Hwy 394 S. of Craig,,295.6,9.11,22.00,100,1.05,<4.3,7.8,102,217,438,42.8,<0.0057,<0.025,,0.318,0.037,0.212,44,25.6,
+FY19,8/15/2018,Routine Sample,12823,Morapos Creek,near Hamilton,,1708,8.62,17.70,380,1.37,<4.3,13,774,154,560,188,<0.0057,0.041,,0.474,0.044,0.926,630,18.4,
+FY19,8/13/2018,Routine Sample,12832,Little Bear Creek,at 27 Rd N of Craig,,107.7,8.24,24.60,57,1.01,<4.3,0.37,47,251,341,13.2,<0.0057,<0.025,,0.224,0.037,<0.18,0.9,6.3,
+FY19,9/18/2018,Routine Sample,12854,Fish Creek,at 27 Rd.,8.41,747.4,7.73,18.21,280,1.3,<4.3,,359,49.9,402,20.2,<0.0057,<0.025,,0.257,0.04,0.528,150,6.5,
+FY19,9/17/2018,Routine Sample,12855,Middle Creek,at 33 Rd.,8.03,3268.4,9.38,17.07,340,1.02,<22,,1210,29.8,236,168,<0.0057,<0.025,,0.272,0.031,0.321,1800,42.7,
+FY19,9/18/2018,Routine Sample,12856,Foidel Creek,at Rd. 33,8.29,3678.8,8.74,11.05,360,1.48,<43,,1200,46.3,219,110,<0.0057,<0.025,,0.3,0.045,0.39,2000,<26,
+FY19,7/10/2018,Routine Sample,12922,Roaring Fork River,at Manville SWA,8.60,574.2,7.2,13.90,130,0.474,<4.3,1,125,243,423,63.5,<0.0057,<0.025,,0.251,0.022,<0.18,12,7.7,
+FY19,7/10/2018,Routine Sample,12932,Government Creek,at Rd. 6E,8.40,570.7,7,15.80,77,0.749,<4.3,0.58,87,151,546,20.1,<0.0057,<0.025,,0.107,0.058,<0.18,14,5.7,
+FY19,7/11/2018,Routine Sample,12949,North Fork Michigan River,above FR 41B,7.30,548.1,8.8,7.00,72,0.532,<4.3,0.34,108,19.7,32.4,2.4,<0.0057,<0.025,,0.0412,0.0065,<0.18,48,6,
+FY19,7/11/2018,Routine Sample,12962,Illinois River,above FR 765,7.70,123.6,7.9,12.90,35,0.622,<4.3,,51.1,122,147,10.9,<0.0057,<0.025,,0.0775,0.006,<0.18,24,4.9,
+FY19,7/9/2018,Routine Sample,12955,Wilset Creek,abv Grizzly Creek and Hwy 14,8.70,569,8.2,17.20,260,0.901,<4.3,0.22,243,154,493,152,<0.0057,<0.025,,0.0775,0.006,<0.18,24,4.9,
+FY19,9/12/2018,Routine Sample,12172A,Willow Creek,at Sawmill Gulch Campground,8.00,116.2,8.3,6.50,50,0.121,<4.3,0.83,44.5,115,159,5.4,0.022,<0.025,,0.0573,0.012,<0.18,8.7,7.1,
+FY19,9/10/2018,Routine Sample,12184A,East St. Louis Creek,above diversion,7.70,46.5,9.5,4.60,22,0.037,<4.3,0.31,18.4,8.1,9.1,1.2,0.023,<0.025,,0.0528,0.0068,<0.18,2.4,5.6,
+FY19,9/12/2018,Routine Sample,12300A,Blue River,at mouth 3 mi. below Trough Rd.,8.50,239.7,9.6,14.30,96,0.267,<4.3,9.4,110,72.2,181,23.5,0.028,0.121,,0.169,0.011,<0.18,43,12.5,
+FY19,9/18/2018,Routine Sample,12856C,Foidel Creek,above Twenty Mile Coal Mine,8.20,3766.6,9.33,15.00,230,0.086,<22,,2620,<1.95,40.5,13.5,<0.0057,<0.025,,0.219,0.02,<0.18,2700,59,
+FY19,7/11/2018,Routine Sample,12931A,Parkview Creek,above Hwy 125,7.70,96.1,7.8,14.10,32,0.121,<4.3,0.23,36.8,79.3,97.5,5.6,<0.0057,<0.025,,0.0613,0.0073,<0.18,14,5.1,
+FY19,7/9/2018,Routine Sample,12952B,East Fork Arapaho Creek,at FR 700,8.80,94.4,7.6,11.50,43,0.362,<4.3,0.34,38.9,152,230,14,<0.0057,<0.025,,0.0483,0.1,<0.18,4.1,3.8,
+FY19,7/10/2018,Routine Sample,12970A,Lake Creek,above Red Hill Ranch diversion,8.60,566.4,7.2,17.60,20,0.263,<4.3,0.42,19.5,114,545,11.4,<0.0057,<0.025,,0.119,0.046,<0.18,1.9,<2.6,
+FY19,10/3/2018,Routine Sample,5212a,Sand Creek,blw Aurora Sand Creek WWTP,8.00,2350,10.6,18.90,220,0.577,<2.2,218,683,20.7,155,94.2,0.021,2.4,,2.58,0.07,13.7,800,31.9,
+FY19,7/26/2018,Routine Sample,5673G,Turkey Gulch,above Turkey Gulch Rd.,3.15,1683.9,8.54,9.05,<5,0.996,1360,,542,16800,17100,12900,<0.0057,<0.025,,<0.027,0.012,5.66,820,3950,
+FY19,7/26/2018,Routine Sample,5678C,Soda Creek,at Pine Slope Road,7.52,123.7,7.59,15.10,39,0.171,<4.3,,42.3,102,429,9,<0.0057,0.0381,,0.0773,0.016,<0.18,12,5.9,
+FY19,7/9/2018,Routine Sample,NPlatte,North Platte River,near Walden at SWA,8.40,306.1,10.1,21.50,150,0.646,<4.3,1.3,134,206,382,19,<0.0057,<0.025,,0.343,0.04,<0.18,14,8.3,
+FY20,7/8/2019,Routine Sample,10326,Pauline Creek,above Cochetopa,7.6,55,7.9,11.1,22,0.396,<5.5,0.57,22.5,264,611,19,<0.061,0.0383,,0.193,0.071,<0.7,3,2,
+FY20,7/30/2019,Routine Sample,10329,Stewart Creek,at La Garita W.A. (794 Rd),8.13,68.2,7.53,8.245,23,0.797,<5.5,0.323,27.6,128,237,16.5,<0.061,0.115,,0.16,0.048,0.176,8,<1.7,
+FY20,7/8/2019,Routine Sample,10330,East Fork Los Pinos Creek,just above Los Pinos Creek,7.2,45.8,8.2,8.3,20,0.198,<5.5,0.47,28,153,209,15,<0.061,0.0966,,0.211,0.056,<0.7,1.6,2.1,
+FY20,7/10/2019,Routine Sample,10375,Long Branch,above West Fork Long Branch,7.6,68.2,7.9,12.2,28,0.454,<5.5,0.68,26.3,269,523,26.9,<0.061,0.0956,,0.202,0.12,<0.7,,2,
+FY20,7/10/2019,Routine Sample,10390,Marshall Creek,above Indian Creek,8.1,95.1,7.2,16.5,46,0.179,<5.5,0.49,45.6,256,411,24.8,<0.061,<0.0089,,0.112,0.047,<0.7,3.2,1.7,
+FY20,8/13/2019,Routine Sample,10400,North Fork Gunnison,at mouth,8.5,1163.9,9.48,20.841,240,1.03,<5.5,7.4,587,21.4,210,31.1,<0.061,<0.0089,,0.24,0.02,2.41,450,6.5,
+FY20,8/8/2019,Routine Sample,10605G,Uncompaghre River,at Water Sports Park,7.9,332.5,8.8,13,81,0.632,<5.5,2.19,161,69.9,534,15.8,<0.061,0.111,,0.186,0.058,0.446,76,5.7,
+FY20,9/18/2019,Routine Sample,10690,Canyon Creek,below Camp Bird Mine,7.54,604.1,7.54,11.774,39,0.631,<5.5,0.66,320,10.2,91,99.5,<0.036,0.0592,,0.0538,<0.0077,0.342,240,240,
+FY20,9/18/2019,Routine Sample,10695,Sneffels Creek,near mouth,7.7,174,8.36,7.455,33,0.77,<5.5,0.367,85.8,3.3,20.9,16.6,<0.036,0.0685,,0.0715,<0.0077,0.192,47,24.5,
+FY20,9/18/2019,Routine Sample,10695,Sneffels Creek,near mouth,7.71,173.9,8.36,7.458,33,0.772,<5.5,0.369,85.6,7,17.9,17.5,<0.036,0.0712,,0.0631,<0.0077,0.226,48,24.9,
+FY20,8/6/2019,Routine Sample,10742,Little Taylor Creek,above conf. with Taylor Creek,8.2,226,7.3,13.2,110,0.187,<5.5,0.566,119,13.9,22.5,4.1,<0.061,0.0181,,0.12,<0.0077,<0.14,4.4,2.3,
+FY20,8/7/2019,Routine Sample,10767B,Roaring Forks Creek,at mouth,8.4,266,7.5,15.7,140,0.245,<5.5,0.419,148,12.3,47.9,5.8,<0.061,<0.0089,,0.0714,0.0094,0.165,2.7,3.5,
+FY20,8/6/2019,Routine Sample,10773,Burnett Creek,above Dolores River,8.3,197,7.5,13.3,95,0.095,<5.5,0.34,107,5,13.6,<0.93,<0.061,<0.0089,,0.0423,<0.0077,<0.14,5.1,2.5,
+FY20,8/6/2019,Routine Sample,10775,Sulphur Creek,above Dolores River,8.1,163,7.6,12.6,57,0.187,<5.5,0.261,79.1,1.7,8.7,<0.93,<0.061,<0.0089,,0.0439,<0.0077,0.186,20,95.4,
+FY20,8/7/2019,Routine Sample,10780C,Silver Creek,above Blair Tunnel,7.8,230,8,10.6,82,0.4,<5.5,0.295,117,15.5,19.2,33.6,<0.061,<0.0089,,0.041,<0.0077,<0.14,29,424,
+FY20,8/7/2019,Routine Sample,10782,Horse Creek,at Hwy 145,8,214,8.4,9.23,58,0.134,<5.5,0.33,103,8.3,29.9,125,<0.061,0.0148,,<0.041,<0.0077,0.177,44,12.9,
+FY20,8/7/2019,Routine Sample,10784R,Coal Creek,at FR 535 blw Lizard Head Wilderness,8.2,167,8.5,7.45,59,0.387,<5.5,0.246,87.2,14,62.1,4.9,<0.061,0.0544,,0.0929,<0.0077,0.333,20,2.5,
+FY20,8/7/2019,Routine Sample,10785,Barlow Creek,above Dolores River,8.1,129,8.8,7.8,55,0.275,<5.5,0.283,62.3,20.5,31.4,1.1,<0.061,0.0352,,0.0707,<0.0077,<0.14,9.1,<1.7,
+FY20,8/5/2019,Routine Sample,12304E,Blue River,d/s pedestrian footbridge,8.1,126.6,8.07,12.407,39,0.132,<5.5,2.73,56.4,52.1,117,69.2,<0.061,0.0772,,0.101,<0.0077,0.155,16,89.3,
+FY20,8/5/2019,Routine Sample,12390,French Gulch,at mouth at Hwy 9,7.76,204.6,8.3,9.949,42,0.326,<5.5,0.641,89.1,144,199,656,<0.061,0.0385,,0.0478,<0.0077,0.323,54,1920,
+FY20,9/11/2019,Routine Sample,133,North Fork Clear Creek,below Blackhawk,7.7,646,8.6,11.2,38,0.238,5.7,80,211,22.8,112,73.6,<0.061,1.26,,1.18,0.014,<0.14,160,191,
+FY20,8/19/2019,Routine Sample,137,San Juan River,abv Pagosa Springs,8.1,87.8,8.1,15.03,41,0.215,<5.5,0.46,43,38.4,217,4.6,<0.061,0.0145,,0.0871,0.021,0.168,6.9,<1.7,
+FY20,7/22/2019,Routine Sample,155,South Fork Republican River,below Bonny Reservoir,8.7,734,16,25.7,270,9.74,<5.5,12.1,350,52.3,211,87,<0.061,0.0164,,0.42,0.17,0.277,120,5,
+FY20,9/6/2019,Routine Sample,5254,Cherry Creek,at Franktown at Hwy 86,7.7,281,7.6,18.2,100,2.83,<5.5,15.6,113,97.7,509,67.3,<0.061,0.0108,,0.198,0.24,0.347,8.6,4.1,
+FY20,9/6/2019,Routine Sample,5258,West Cherry Creek,at Jones Rd.,7.5,234.5,6.6,15.7,65,0.447,<5.5,26.1,85.1,387,727,32.4,<0.061,0.00918,,0.302,0.083,0.211,6.3,7,
+FY20,9/10/2019,Routine Sample,5455,Little Thompson River ,at County Line Road,7.65,2159,6.9,16.3,230,0.964,<5.5,28,954,42.8,1400,92.7,<0.061,1.21,,1.25,0.12,4.59,890,9.7,
+FY20,8/13/2019,Routine Sample,55,Uncompahgre River,at Delta (at 5th St bridge),8.22,1100.1,7.6,19.753,240,1.03,<5.5,7.4,587,21.4,210,31.1,<0.061,<0.0089,,0.24,0.02,2.41,450,6.5,
+FY20,9/10/2019,Routine Sample,5560B,Lefthand Creek,at 95th St.,8.3,800,8,17.1,230,0.774,<5.5,19,390,95.9,182,48.4,<0.061,0.519,,0.57,0.027,0.688,220,8,
+FY20,9/10/2019,Routine Sample,5574,Boulder Creek,at Duncan Lane u/s of 95th St.,8.4,460.4,9.02,22.5,79,1.01,<5.5,41,146,64.7,454,12.8,<0.061,1.9,,1.87,0.99,0.369,46,12.6,
+FY20,9/11/2019,Routine Sample,5605,Clear Creek,at Youngfield St.,8.1,698,7.6,20.7,180,0.501,<5.5,66,151,168,210,261,0.18,0.946,,2.12,0.78,0.143,50,38.3,
+FY20,9/11/2019,Routine Sample,5791a,Lakewood Gulch,at Martinez Park u/s Tennyson St.,8.3,687,8.1,18.7,120,0.605,<5.5,84,229,21.7,528,12.6,<0.061,0.472,,0.495,0.064,0.737,78,10.8,
+FY20,8/7/2019,Routine Sample,58,Taylor River,at Almont,8.17,114.2,8.31,10.848,46,0.169,<5.5,0.51,59.3,44.6,96.9,2.8,<0.061,0.0193,,0.107,<0.0077,<0.14,6.1,<1.7,
+FY20,9/25/2019,Routine Sample,5870C,West Creek,above Little Creek,8,196,7.9,16.8,85,0.238,<4.9,2.47,83.3,328,439,115,<0.036,<0.0089,,0.133,0.024,0.273,3,13.4,
+FY20,7/16/2019,Routine Sample,5971a1,Horse Creek,at mouth above conf. with S. Platte R.,8.09,320,8.09,18.464,91,0.701,<5.5,27.2,128,93,532,46.7,<0.061,0.0144,,<0.041,0.019,<0.14,11,3.7,
+FY20,9/25/2019,Routine Sample,5971a7,Trout Creek,abv. 75 Rd.,8.1,510,8.4,7.2,85,0.564,6.7,65,116,139,327,21.2,0.065,6.69,,7.66,5.8,0.603,27,70.1,
+FY20,9/25/2019,Routine Sample,5971d1,Trail Creek,1 mile above mouth,7.8,153,8.5,9.6,58,0.095,<4.9,1.76,61,91.6,162,27.7,<0.036,0.0341,,0.0719,0.012,0.361,9.2,7.3,
+FY20,7/30/2019,Routine Sample,5988A1,Mosquito Creek,d/s Alma Tailings,7.29,142.9,8.19,11.153,43,0.085,<5.5,0.216,70.4,40.3,108,13.8,<0.061,0.0228,,0.0694,<0.0077,0.221,21,94.6,
+FY20,7/30/2019,Routine Sample,5988B1,South Mosquito Creek,d/s London Tailings,7.48,210.9,8.09,9.798,54,0.09,<5.5,0.28,103,26.2,64.4,50.7,<0.061,0.0505,,0.086,<0.0077,0.334,42,373,
+FY20,7/23/2019,Routine Sample,6030,Chief Creek,"at DOW Hatchery Bridge, u/s Wray",8.10,367.50,5.90,21.60,140,9.76,<5.5,3.81,142,52.5,199,8.8,<0.061,0.718,,0.925,0.019,1.49,11,5.2,
+FY20,7/23/2019,Routine Sample,6266,North Fork Republican River,at Sand Sage SWA,8.20,413.00,9.10,18.90,6.8,0.04,0.361,0.244,4.61,10,24.7,<0.93,<0.061,0.269,,0.259,<1.2,<0.14,1.5,<1.7,
+FY20,7/22/2019,Routine Sample,6420,South Fork Republican River,at Rd 2,8.00,447.10,8.80,19.60,170,4.61,<5.5,7.2,193,68.3,527,8.8,<0.061,1.46,,1.64,0.082,1.35,29,5.4,
+FY20,9/24/2019,Routine Sample,7235,Fourmile Creek,at mouth,8.00,867.00,8.10,13.90,160,0.626,<4.9,16.5,391,31.4,341,27.5,<0.036,0.453,,0.503,0.034,8.13,260,15,
+FY20,9/24/2019,Routine Sample,7237,East Fork West Beaver Creek,near Victor,8.40,71.70,6.90,16.40,18,0.255,<4.9,4.73,22.4,128,223,19.7,0.81,0.0759,,0.167,<0.011,0.167,0.167,0.167,
+FY20,9/24/2019,Routine Sample,7250,Cripple Creek,above Fourmile Creek,8.40,791.00,8.20,11.70,120,1.51,<4.9,104,170,9.3,118,5,<0.036,4.83,,4.84,0.26,0.463,81,10.6,
+FY20,9/5/2019,Routine Sample,7309,Sand Creek,at Academy Blvd,8.30,2238.00,8.60,22.00,140,0.734,<5.5,140,414,4.6,33.9,5.3,<0.061,1.21,,1.63,0.026,7.06,300,15.1,
+FY20,9/5/2019,Routine Sample,7401,Monument Creek,blw Mesa Rd.,8.40,777.00,6.70,25.60,100,1.02,<5.5,73.6,237,37.5,890,12.1,<0.061,3.21,,<0.041,0.35,1.52,78,30.8,
+FY20,9/23/2019,Routine Sample,7651,Cucharas River,at Hwy 160 and 340 Road,7.90,2530.00,9.50,18.20,1100,0.777,<4.9,31.3,114,142,518,250,0.15,0.0517,,0.303,0.036,0.344,270,4.2,
+FY20,9/23/2019,Routine Sample,8103A,Rio Grande River,at Wagon Wheel Gap (Middle),8.44,90.5,9.03,10.770,33,0.924,<4.9,0.561,37.7,90.3,178,4.4,<0.036,0.0121,,0.111,0.034,0.215,7.7,6.9,
+FY20,9/23/2019,Routine Sample,8104K,Rio Grande River,at Hwy 149,8.53,86.1,8.78,10.625,35,0.838,<4.9,0.51,37.8,99,213,4,<0.036,<0.0089,,0.0948,0.032,0.219,6.5,6,
+FY20,7/9/2019,Routine Sample,8638,North Fork Saguache Creek,at mouth,7.40,84.00,8.60,6.20,28,3.43,<5.5,0.79,34.9,309,868,19.7,<0.061,0.0785,,0.212,0.08,<0.7,8.1,2.1,
+FY20,7/9/2019,Routine Sample,8641,Johns Creek,above South Fork Saguache Creek,8.30,107.10,8.60,9.50,49,0.238,<5.5,0.59,54.4,162,598,10.1,<0.061,0.177,,0.288,0.079,<0.7,2.8,<1.7,
+FY20,7/9/2019,Routine Sample,8642,Deep Creek,at mouth,7.80,98.70,7.00,14.60,38,0.295,<5.5,0.405,45.1,41.2,163,2.6,<0.061,<0.0089,,0.117,0.042,<0.7,8.69,<1.7,
+FY20,7/9/2019,Routine Sample,8643,South Fork Saguache Creek,above Wannamaker Creek,7.40,45.00,7.60,10.90,17,0.713,<5.5,0.522,15.9,97,196,11.4,<0.061,0.356,,0.381,0.075,<0.7,1.84,<1.7,
+FY20,8/5/2019,Routine Sample,9245,Stollsteimer Creek,at Highway 151,8.20,783.00,9.40,20.70,220,1.13,<5.5,24.3,384,221,935,53.9,<0.061,0.245,,0.366,0.09,1.17,160,6.8,
+FY20,8/6/2019,Routine Sample,9745,Crystal Creek,at CR 350,8.10,108.00,8.10,7.40,47,0.197,<5.5,0.382,50.7,56.3,93.6,7.9,<0.061,<0.0089,,0.0577,0.016,0.149,3.8,<1.7,
+FY20,7/10/2019,Routine Sample,CO051M,Lottis Creek,,7.80,68.20,9.60,4.50,32,<0.17,<5.5,0.305,37.8,55,150,5,<0.061,0.038,,0.182,0.01,<0.7,2,<1.7,

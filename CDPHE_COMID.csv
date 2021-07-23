@@ -1,0 +1,368 @@
+StationID,WaterbodyName,Location,Lat,Long,COMID
+9190,East Fork San Juan River,at USGS Gage,37.38046667,-106.8634333,17035731
+137d,San Juan River,above Pagosa Springs at Service Rd.,37.33253333,-106.9486167,17035841
+9120B,McCabe Creek,at 411 Rd.,37.28925,-107.0245333,17034323
+9275,Williams Creek,at FR 631 (at Bridge Campground),37.46371667,-107.1964333,17030746
+9280,Devils Creek,at Devils Creek SWA,37.21761667,-107.2947667,17030974
+9861,Rio Blanco River,at mouth,37.15925,-106.9487833,17036223
+102F,Navajo River,above Chromo,37.03458333,-106.72465,17036467
+68,San Juan River,above Navajo Reservoir,37.01783333,-107.3151667,17034995
+9250,Piedra River,at Hwy 160,37.23088333,-107.34265,17031254
+12144,Troublesome Creek,above confluence with East Fork,40.158733,-106.2881,1231369
+12146,Muddy Creek,above Wolford Mountain Reservoir,40.19335,-106.417183,1231227
+12116,Sheephorn Creek,at CR1 near Radium,39.945367,-106.53375,1237187
+12118,Big Alkali Creek,at mouth,39.8898,-106.832417,1237741
+12115,Sweetwater Creek ,above Sweetwater Lake,39.810967,-107.18415,1235393
+7501,Timpas Creek,near Rocky Ford,37.953005,-103.72441,977112
+7503,St. Charles River,"at Hwy 50, Santa Fe Drive",38.24805,-104.48967,952325
+7701,Apishapa River,near Fowler,38.090867,-103.98165,981799
+7845,Two Butte Creek,below Two Butte Reservoir,37.635117,-102.535367,1001749
+7805,Arkansas River,below John Martin Reservoir,38.085717,-102.869833,1596107
+8116,West Alder Creek,near South Fork,37.705,-106.6478,17908145
+8148,Lime Creek,above FR 526,37.7141,-106.9845,17906737
+8150,Red Mountain Creek,above Ivy Creek,37.683217,-107.003083,17906117
+8155,South Clear Creek,below Browns Lake SWA,37.83005,-107.163233,17905881
+8147,Cross Creek,above confluence with Beaver Creek,37.5805,-106.6497,17907059
+8520,Cotton Creek,at gage,38.131867,-105.788,17887292
+8355,Hot Creek,at Hot Creek SWA,37.28625,-106.22028,17898103
+7115,Tallahassee Creek,nr mouth,38.49347,-105.3994,920975
+7117,Currant Creek,at Wormer Gulch STL,38.70342,-105.51233,919309
+7241,Fourmile Creek,at Garden Park,38.53658,-105.22153,947591
+7250,Cripple Creek,above Fourmile Creek,38.66527,-105.22623,948017
+7118,Grape Creek,at Temple Canyon Park,38.40765,-105.32628,921335
+7125,Texas Creek,at Arkansas River at Hwy 50,38.40875,-105.58373,921351
+7130,Hayden Creek,at Coaldale Campground,38.33558,-105.8022,921577
+7222,Hardscrabble Creek,above Greenwood,38.21227,-105.09563,949303
+8375,Sangre de Cristo Creek,near Fort Garland,37.425,-105.414722,17900337
+8315,Culebra Creek,at San Luis,37.18382,-105.42585,17899355
+8337,La Jara Creek,at La Jara State Wildlife Area,37.1742,-106.210883,17898269
+7502,Timpas Creek,3 mi SW of Timpas East of Brown Reservoir,37.761466,-103.843516,977532
+7590,Chicosa Arroyo,at 75.0 Rd,37.304533,-104.466766,936920
+7850,Clay Creek,at Highway 50,38.09183,-102.53017,1595371
+7997A,East Carrizo Creek,at Carrizo Picnic Area,37.135383,-103.015716,21122085
+6026,Black Wolf Creek,at Hwy 385,39.89862,-102.24135,11722439
+6543A,Arikaree River,at DD Rd. bridge,39.810083,-102.312733,11722629
+6030,Chief Creek,"at DOW Hatchery Bridge, u/s from Wray",40.08297,-102.26532,11712197
+11765,East Miller Creek,at Cty Rd 57,39.87682,-107.76486,1344588
+11770,South Fork White River,at Oak Ridge SWA near gage,39.97414,-107.62887,1345152
+11601,Piceance Creek,at Cty Rd 5,39.96431,-108.26821,3240347
+11625,Black Sulphur Creek,at 29 Rd.,39.8582,-108.3099,3240623
+11732A,Yellow Creek,at confluence with Barcus Creek,40.11808,-108.36089,3239647
+11728,Duck Creek,at Cty Rd 20,39.98098,-108.38501,3240329
+11412,Little Snake River,at FR 129 (on Williams property),41.002,-107.3591667,18276017
+11446,Slater Creek,at Cty. Rd. 1 nr. USGS station,40.9825,-107.3828333,18279725
+11485,Vermillion Creek,at Hwy 318,40.71965,-108.7518,3416498
+12832,Little Bear Creek,at 27 Rd N. of Craig,40.68883333,-107.4345,1352088
+11250,Buzzard Creek,at 64.3 Rd,39.27223,-107.85088,3181172
+11193,Garfield Creek,at 312 Rd in SWA,39.5329,-107.5532,3175684
+11187,East Divide Creek,at 313 Rd near gage,39.43538,-107.5783,3180446
+11190A,Main Elk Creek,at FR 243,39.65779,-107.56525,3175168
+11140,Parachute Creek,below confluences,39.56994,-108.1094,1253680
+11175,Middle Rifle Creek,above West Rifle Creek,39.65826,-107.78014,3175180
+11206,Carr Creek,above Scott Hill Rd.,39.56649,-108.5017,1254232
+11208,Roan Creek,above Mud Spring Canyon,39.50962,-108.52482,1254054
+11217,Clear Creek,at Chevron gage,39.54814,-108.33103,1253832
+12372C,Cataract Creek,at outlet of Cataract Creek,39.83673,-106.31082,1313221
+12230,Williams Fork,at FR 141 at bridge,39.83385,-106.0566,1237943
+12180,Meadow Creek,below Meadow Reservoir,40.00582,-105.81955,1234517
+12205,Williams Fork,at Henderson Mine,39.79655,-106.02525,1238141
+7527,Steels Fork,at Cty. Rd 11,38.69699,-103.86784,913769
+7998,South Rush Creek,near Punkin Center,38.8944,-103.7004,997564
+7286A,Peck Creek,at Bronquist,38.1829,-104.95415,951397
+7630,Bear Creek,at 330 Rd.,37.6138,-104.7738,1425882
+7595,Del Agua Arroyo,at Hwy I-25 Frontage Rd.,37.34722,-104.57424,984965
+7635,Santa Clara Creek,at Hwy I-25,37.51712,-104.69353,1425890
+7226,Hardscrabble Creek,at Cty Rd 19,38.34343,-105.06824,949203
+8146E,North Branch to Pass Creek,USFS site 1,37.47416,-106.7836,17908895
+8146F,North Branch to Pass Creek,below Wolf Creek parking lot drainage,37.47328,-106.7861,17908895
+8146G,North Branch to Pass Creek,at Hwy 160,37.47486,-106.7886,17908895
+10666,Billy Creek,at end of Cty Rd 2,38.29484,-107.70198,9769240
+10672,Deer Creek,at Cty Rd 8A,38.23413,-107.69408,9769816
+10567,Potter Creek,at mouth,38.63447,-108.1954,3232031
+10634,Spring Creek,at Spring Canyon Rd.,38.3923,-107.94519,9769214
+10551,Escalante Creek,at Escalante SWA,38.7178,-108.26861,3232471
+10558,Nork Fork Escalante Creek,above mouth,38.63689,-108.42722,3232013
+10559,Middle Fork Escalante Creek,above confluence with East Fork,38.58118,-108.40588,3232173
+10618,East Fork Dry Creek,at FR 540,38.35791,-108.04695,9768622
+10570,Kannah Creek,at Kannah Creek Trailhead,38.96121,-108.22965,3231089
+10215,Smith Fork,at USGS gage at FR 712,38.7283,-107.50724,3252121
+10266,Mill Creek,at TR 438 off 727 Rd.,38.69603,-107.05941,3251449
+10262,Beaver Creek,at Gunnison SWA at 762 Rd,38.55251,-107.05304,3251979
+10271A,South Beaver Creek,at powerline service rd.,38.45233,-106.99258,3254419
+10350,Razor Creek,at 45 Rd. Bridge,38.38455,-106.6732833,9773535
+5773,Bear Creek,at Waconda Park,39.2635,-104.9845,191871
+5774,Carpenter Creek,at 74 Rd.,39.1659,-104.866,191915
+5776A,West Plum Creek,at Haystack Ranch,39.22458,-104.9742,191879
+5771,Jackson Creek,at Jackson Creek Rd.,39.34566667,-104.9811667,191835
+5779B,East Plum Creek,above Emily Griffith School,39.18431,-104.93068,191913
+5589,South Boulder Creek,at South Mesa Open Space,39.93882,-105.26026,2891578
+5757A,Mount Vernon Creek,at Matthews/Winters Park,39.6936,-105.20574,188623
+5772A,Garber Creek,above Bee Rock Rd.,39.35524,-105.02718,190469
+5775,Cook Creek,at 74 Rd.,39.18165,-104.89682,191923
+5823,Turkey Creek,above reservoir,39.6393,-105.1609,188637
+5459,Little Thompson River,at Parrish Ranch,40.25708,-105.20457,13618
+5366,North Fork Cache La Poudre River,at Road 74E,40.78783,-105.25217,2900581
+5377A,Boxelder Creek,at 15 Rd. NW of Wellington,40.82371,-105.07653,2898449
+10917,North Fork Mesa Creek,at Cty Rd. 19.5,38.50319,-108.79037,18370694
+10980,Roc Creek,near mouth abv. Dolores River,38.44179,-108.87737,18371448
+10834,Naturita Creek,at Cty Rd. 1135,38.15912,-108.40305,18375284
+10840,Tabeguache Creek,near mouth,38.35838333,-108.7105833,18374904
+10845,Cottonwood Creek,above mouth,38.27142,-108.39391,18375058
+10847,Maverick Draw,at 37.5 Rd.,38.1927,-108.37805,18375346
+10905G,West Paradox Creek,at Cty Rd. U1,38.38273,-108.99602,18382297
+10906,La Sal Creek,at Hwy 90 and X4 Rd.,38.32052,-108.97699,18382371
+10922,Ute Creek,at mouth,38.7237,-108.9097,18370296
+12846,Elkhead Creek,at Rippy property,40.66944,-107.28547,1352988
+12846A,Elkhead Creek,above Rippy property,40.67624,-107.27145,1352988
+12849A,Elkhead Creek,above First Creek,40.75397,-107.13545,1352974
+WCOP99-0565,Elkhead Creek,at EMAP site,40.62761,-107.27507,1352372
+12840,Elkhead Creek,at Highway 40,40.531,-107.43633,1352642
+12843,Elkhead Creek,at County Rd. 76,40.59181,-107.32057,1352456
+12843A,Elkhead Creek,below Elkhead Reservoir,40.53901,-107.4106,1353094
+12851B,Sage Creek,in canyon on Rd 37,40.4041,-107.2242,1355436
+12863,Mad Creek,at Christina SWA,40.56533333,-106.8891667,1354152
+10121,Cement Creek,above campground,38.82861,-106.82917,1333084
+10267,Mill Creek,below West Elk Wilderness Trailhead,38.69528,-107.06139,3251449
+10125,Smith Fork,above Smith Fork Campground,38.72746,-107.50615,3252121
+10250,Soap Creek,at Soap Creek Campground,38.55083,-107.31917,3251827
+10485,Anthracite Creek,above Erichson Springs Campground,38.95667,-107.26667,1337162
+12741,Snowmass Creek,at 8 Rd.,39.29823,-106.95996,1327029
+12771,Woody Creek,at FR 103 above Lenado,39.24511,-106.7521,1327423
+12792,Sopris Creek,at Emma Road Bridge,39.36533,-107.06528,1326025
+5253A,Cherry Creek,at Castle Oak Dr.,39.41682,-104.76875,231131
+5254,Cherry Creek,at Franktown at Hwy 86,39.39231,-104.76136,231137
+5258,West Cherry Creek,at Jones Rd.,39.17294,-104.74675,231485
+EPA02-CC01,Cherry Creek,below Castlewood Canyon,39.359,-104.765,231167
+5252A,Cherry Creek,at Ecological Park,39.58039,-104.80142,230035
+5252B,Cherry Creek,at Sulphur Gulch Trail,39.51727,-104.77795,230137
+5253,Cherry Creek,behind Stroh Soccer Fields,39.47958,-104.76861,231093
+9672,La Plata River,at 122 Rd.,37.16855667,-108.1196017,16998728
+9676,La Plata River,at Ridgewood Events Center,37.20304833,-108.0739133,16998992
+9678,La Plata River,at Hwy 140 Bridge,37.25110983,-108.034055,16998992
+9680,La Plata River,at Hesperus (at Hwy 160),37.292033,-108.041616,16998670
+9683,La Plata River,at Sword of Truth,37.32924833,-108.0603567,16998670
+9687,La Plata River,at Mayday,37.356105,-108.0776267,16998634
+9690,La Plata River,at La Plata,37.39312667,-108.068893,16998628
+9426,Animas River,nr Trimble,37.3846,-107.8384,17014763
+9432,Junction Creek,at Forest Service Boundary,37.33137833,-107.9029667,17014783
+101,San Miguel River,near Norwood,38.12538,-108.20621,18375366
+10815,San Miguel River,at Society Turn,37.94972,-107.86861,18377498
+10817,Big Bear Creek,at mm 2,37.940845,-107.9761433,18377510
+10871,South Fork San Miguel River,near mouth,37.9401833,-107.8988166,18377514
+31,St. Vrain Creek,below Longmont,40.16105,-105.007366,2888828
+5511,St. Vrain Creek,below Longmont WWTP,40.15496,-105.08268,2888860
+5512,St. Vrain Creek,at Hygiene Road,40.1888,-105.198,2888730
+5570,Boulder Creek,at mouth,40.159,-105.01,2888870
+5571,Boulder Creek,at 1650 Rd.,40.109,-105.03714,2889070
+5572,Boulder Creek,u/s Coal Creek near Gooding,40.0695,-105.083,2889140
+5576,Boulder Creek,u/s Boulder WTP @ 61st,40.03812,-105.2116,2889276
+5971A2,Trout Creek,u/s of confluence with West Cr.,39.22161,-105.17707,190721
+5971A3,Trout Creek,below Manitou Reservoir Lake,39.088083,-105.096944,191397
+5975,Twin Creek,above Lake George,38.96897,-105.35619,5241902
+5628,Clear Creek,100 yds below Argo Discharge,39.74215,-105.49928,2885568
+5638,West Fork Clear Creek,below Woods Creek,39.77021,-105.80674,2885090
+5642,Clear Creek,above Georgetown Reservoir,39.71749,-105.69423,2885242
+5648A,Clear Creek,at Silver Plume,39.69512,-105.72989,2885576
+5634,Clear Creek,below West Fork,39.76166,-105.65101,2885140
+5665,North Fork Clear Creek,above Chase Gulch,39.80403,-105.49679,2885504
+151,Slate River,below Coal Creek,38.85206,-106.9532,1333026
+10403,North Fork Gunnison River,abv Leroux Creek at 34 Rd.,38.7919,-107.726,1337692
+10406D,North Fork Gunnison River,blw Bear Ck @ Hwy 133 Bridge,38.91896,-107.48966,1337270
+12710,Roaring Fork River,below Basalt,39.36766,-107.05211,944010022
+12780,Roaring Fork River,at Fother Gill,39.25738,-106.8821,1327069
+12761D,Brush Creek,at Brush Creek Rd.,39.24928,-106.88622,1327399
+12783,Roaring Fork River,below Aspen,39.20633,-106.838,1327109
+12786,Roaring Fork River,at Difficult Creek Campground,39.1482,-106.7828,1327169
+12797,Hunter Creek,at Red Mnt Bridge nr Aspen,39.197,-106.818,1327445
+10404g,North Fork Gunnison River,above Paonia WWTP,38.8692,-107.603,1337414
+5611,Clear Creek,below Croke Canal,39.76814,-105.19295,2885526
+5612,Clear Creek,below Wannamaker Canal,39.76455,-105.20746,2885118
+5616,Clear Creek,at Trestle bridge,39.76324,-105.21098,2885146
+5618,Clear Creek,below Farmers Highline Canal,39.75893,-105.21735,2885146
+5620,Clear Creek,at Ford St bridge,39.75748,-105.22066,2885178
+5606,Clear Creek,at I-70 bridge,39.77345,-105.14365,2885526
+5609,Clear Creek,blw McIntyre St,39.771633,-105.171416,2885526
+8529,Medano Creek,at flume at Sand Dunes NP,37.797717,-105.502685,17890674
+8530,Sand Creek,at Liberty,37.84293,-105.58335,943010102
+5977,Sugar Creek,at County Road 67,39.3067,-105.192511,190579
+5978,Fourmile Creek,at YMCA,39.2449,-105.234481,190751
+5976A,Pine Creek,at mouth,39.3578,-105.169565,190471
+5971A1,Horse Creek,at mouth,39.2536111,-105.2264444,191317
+5971D1,Trail Creek,1 mile above mouth,39.12822,-105.1745,191341
+34,Clear Creek,near mouth,39.8276,-104.9521,2885882
+5601,Clear Creek,at Pecos Street,39.814383,-105.00585,2885000
+5602,Clear Creek,at Tennyson,39.797883,-105.04365,2885052
+5605,Clear Creek,at Youngfield St,39.77417,-105.14133,2885526
+7316,Fountain Creek,at Circle Drive,38.7975,-104.78615,1529807
+7320,Fountain Creek,in Fountain @ Hwy 85-87,38.6774332,-104.7053666,1530231
+7350,Fountain Creek,at Hwy 47,38.3076666,-104.6042166,1532225
+12557,Gore Creek,above Black Gore Creek,39.6263833,-106.276845,1320264
+CG04,Gore Creek,at East Vail,39.6431767,-106.3078517,1319246
+GC05,Gore Creek,at Ford Park,39.640315,-106.360715,1319264
+GC06,Gore Creek,at Knicknick Bridge,39.62039,-106.427945,1319398
+GC07,Gore Creek,at Bighorn Park,39.63014333,-106.2879917,1319346
+USFS BGC 183,Black Gore Creek,Holy Cross Ranger District,39.6122,-106.276,1319454
+USFS BGC 184,Black Gore Creek,Holy Cross Ranger District,39.5964,-106.2652,1320274
+USFS BGC 185,Black Gore Creek,Holy Cross Ranger District,39.5917,-106.2466,1320278
+USFS BGC 188,Black Gore Creek,Holy Cross Ranger District,39.5562,-106.2293,1319726
+130,South Platte River,near Platteville,40.22528,-104.849,225489
+5137,South Platte River,at Weld CR 28,40.18773,-104.8296,225531
+5138,South Platte River,at Weld CR 18,40.1164,-104.8185,225621
+5140,South Platte River,at Ft. Lupton,40.08083,-104.821,226545
+5221,Big Dry Creek,near Ft. Lupton,40.0692,-104.8322,225687
+5416,Big Thompson River,"at I-25 Frontage Road, Loveland",40.39728,-104.99295,14934
+5005,South Platte River,at Ovid,40.954283,-102.387383,17451617
+5006,South Platte River,at Tamarack SWA,40.8416,-102.805,3558090
+5030,South Platte River,at Messex SWA,40.4213,-103.42015,3561734
+5040,South Platte River,at Brush SWA,40.309,-103.626,3561832
+5920,Craig Creek,at Estabrook,39.38244,-105.42872,190449
+CO174M,Scott Gomer Creek,,39.50806,-105.70472,188405
+5945,South Platte River,near Cove Campground,38.90993333,-105.4593667,5241420
+5953,Middle Fork South Platte River,at Tomahawk SWA,39.09275,-105.865675,5239884
+5966,South Fork South Platte River,at 63 Ranch Fishing Access Site,39.02017,-105.96517,5240108
+5967,South Fork South Platte River,at Knight Imler SWA,39.05418,-105.96685,5239956
+5988B4,South Mosquito Creek,at mouth,39.27767,-106.13083,5238908
+USFSPike2,Rough and Tumbling Creek,"Park Co., CO",39.036,-106.11586,5239074
+10649,Coal Creek,off Coal Creek Rd (above hydropower plant),38.101016,-107.738764,9769838
+10858,Fall Creek,at FR 618,37.937361,-108.037746,18376830
+10860,McKenzie Creek,at mouth above confl. w/ San Miguel,38.1261667,-108.2076667,18375350
+10860d,Specie Creek,near mouth off Rd M44,38.025,-108.118666,18375686
+11387,Fortification Creek,at 18 Rd.,40.62228,-107.46696,1353034
+11535,Lost Creek,abv Buford @ 8 Rd.,40.0506,-107.4687,1343186
+11720,West Douglas Creek,above West Creek,39.69726,-108.79628,5312750
+11722,Cathedral Creek,at Cty Rd 28,39.78489,-108.61694,5312506
+12169,Rock Creek,at Rock Creek SWA near Toponas,40.05673,-106.64722,1232009
+12202,Blacktail Creek,at Rd 212 crossing,40.05085,-106.58299,1232145
+12854,Fish Creek,at 27 Rd.,40.35633,-107.104,1355634
+12867,Greenville Creek,above USFS boundary,40.69725,-106.89889,1353936
+12876,Trout Creek,at Cty. Rd. 179 near mouth,40.46028,-106.98861,1357266
+12880,Service Creek,at Service Creek SWA,40.29453,-106.79903,1358236
+12895,Wolf Creek,at 52 Rd.,40.5469,-107.11252,1352608
+12898A,Bear River,at Yampa Town Park,40.14975,-106.90412,1357978
+USFSPIKE1,Pine Creek,near Wigwam,39.24058,-105.28255,191311
+5936,South Platte River,at Lone Rock Campground,39.251183,-105.236264,191315
+10322,Cochetopa Creek,at Sillsville,38.43725,-106.7625,9773459
+10252,Lake Fork Gunnison River,above Cooper Creek,37.94347,-107.47333,3255299
+10251,Lake Fork Gunnison River,above Silver Creek,37.93681,-107.46206,3255191
+10245,Henson Creek,above Hwy 149,38.024816,-107.32125,3253663
+5551,North St. Vrain Creek,at gage above Lyons,40.2474,-105.28885,2888568
+5561a45,James Creek,d/s Little James Cr.,40.1155,-105.3882,2888976
+7222a,North Hardscrabble Creek,at CR 387,38.18165333,-105.1083267,949365
+7222b,North Hardscrabble Creek,blw conf with S. Fork North Hardscrabble Ck,38.16759333,-105.18862,949383
+7224,South Hardscabble Creek,at 386L campsite,38.12385,-105.13617,949449
+7120A,Grape Creek,at State Hwy 69,38.16907,-105.4962,921979
+7133,South Colony Creek,at South Colony Creek trailhead,37.97547,-105.50822,924121
+7132,Middle Taylor Creek,above USFS boundary,38.11796,-105.59753,922103
+7121,Swift Creek,above Pine Road,38.167599,-105.574669,922027
+7123,North Lake Creek,at FR 198,38.2606,-105.6747,921797
+7124,Spruce Creek,at CR 331 crossing,38.24118,-105.66882,921823
+5674,Fall River,at mouth near Idaho Springs,39.75537,-105.55657,2885162
+5675,South Chicago Creek,near mouth at Hwy 103 & FR 247,39.6935,-105.6169,2885280
+FR1,Florida River,at fence line,37.153022,-107.762669,17015253
+FR2.5,Florida River,above bridge,37.155497,-107.760739,17015253
+FR4,Florida River,at ford,37.157858,-107.761617,17015253
+9160,Turkey Creek,at trailhead nr FY 647,37.3515,-106.92137,17035799
+9195,West Fork San Juan River,above CR 648 bridge,37.44996,-106.91128,17035569
+9113,San Juan River,above Taylor Canyon,37.165795,-107.037105,17034429
+9165,Sand Creek,at mouth abv East Fork San Juan River,37.38765,-106.846583,17035741
+9194,Quartz Creek,at CR 684 crossing,37.388903,-106.750783,17036987
+9860,Rito Blanco,at Hwy 84,37.16116,-106.94833,17036155
+9240,First Fork Piedra River,at mouth,37.35351,-107.32458,17030834
+9285,Weminuche Creek,above CR 631,37.54248,-107.27559,17029340
+9294,Middle Fork Piedra River,above Hunter Campground,37.51222,-107.14564,17029362
+9121,Mill Creek,below Pagosa Springs,37.24559,-107.004332,17036007
+WCOP99-0563,South Rush Creek,,38.88674,-103.68298,997576
+7510,Six Mile Creek,at Hwy 50,38.244,-104.396,951307
+7512,Chico Creek,at Rd. 3,38.3577,-104.3873,1006389
+7285,Boggs Creek,at Highway 96,38.2294,-104.7462,952337
+7284,Rock Creek,at Cty Rd. 200,38.20797,-104.79312,951301
+EPA01-249,Newlin Creek,< USU Star site >,38.2662,-105.1898,949257
+7385,Little Fountain Creek,above Keaton Reservoir,38.68167,-104.85806,1530257
+8715,La Manga Creek,above Elk Creek,37.11639,-106.37783,17875497
+8348,Alamosa River,at Gomez Bridge,37.3316667,-106.2302778,17898811
+8395,Rock Creek,at DWR flume near Monte Vista,37.4903,-106.2589,17898779
+CO03RS,Hope Creek,,37.553056,-106.802222,17907055
+8625A,Carnero Creek,at Hellgate,37.86342833,-106.3461417,17883024
+8629,South Fork Carnero Creek,at FR 675 above campground,37.9205556,-106.4513889,17881720
+8627,North Fork Carnero Creek,at 32U Rd.,37.9338889,-106.3883333,17881740
+EPA01-261,Lake Fork,< USU Star site >,39.2853,-106.449,916469
+7187G,Lake Fork,below Sugarloaf Dam,39.25115,-106.37537,916807
+EPA01-260,Rock Creek,< USU Star site >,39.2169,-106.398,916523
+7183,Halfmoon Creek,near Leadville,39.1708333,-106.3875,916821
+7188,Iowa Gulch,blw Black Cloud Mine Treatment Plant,37.364809,-105.654957,17900367
+7186,Arkansas River,above Iowa Gulch,39.194727,-106.349013,916543
+CO153M,Fourmile Creek,,38.966111,-106.139722,917463
+EPA01-253,North Cottonwood Creek,< USU Star site >,38.8708,-106.266,917613
+7165,Chalk Creek,at mouth abv mainstem Arkansas R,38.7419444,-106.0833889,917873
+8650,Kerber Creek,at Hwy 285 in Villa Grove,38.2501,-105.950115,17887782
+7164,Browns Creek,at FR 255,38.669,-106.161,918115
+EPA01-168,Fawn Creek ,< USU Star site >,39.8525,-107.315,1344748
+11767,East Miller Creek ,at end of Cty Rd 57,39.851379,-107.746287,1345028
+11510,White River ,at CR54,39.95021,-107.69492,1344178
+11540,North Fork White River ,above North Fork Campground,40.055244,-107.44725,1342660
+USFS Ripple,Ripple Creek ,Blanco Ranger District,40.0746,-107.3028,1342562
+12714B,Fourmile Creek ,above Atkinson Ditch,39.43271,-107.307677,1325905
+12785A,Lost Man Creek ,above reservoir,39.1292,-106.618,1327179
+12759,South Fork Fryingpan River,above Transbasin Diversion,39.2372,-106.59,1327433
+EPA01-259,Deeds Creek ,< USU Star site >,39.2979,-106.659,1327017
+USFS Avalanche,Avalanche Creek ,Sopris Ranger District,39.2311,-107.1992,1326155
+11149b,Mamm Creek ,at Antara Resources Near Garfield County Airport,39.51067,-107.69033,3175746
+12303,Blue River ,at Blue River Campground,39.727276,-106.130921,1312697
+12322,Straight Creek ,above Town of Dillon,39.64012,-106.039747,1313259
+12336,Tenmile Creek ,above Wheeler Junction nr Copper Mnt,39.50283,-106.14033,1313031
+12515,Red Sandstone Creek ,at mouth at Vail,39.64104,-106.39617,1319238
+12517,Red Sandstone Creek ,above Red Sandstone Rd. trail,39.649014,-106.396587,1319238
+USFS Meadow,Meadow Creek ,Dillon Ranger District,39.59026,-106.106172,1313555
+12556G,Black Gore Creek ,u/s from Timber Creek,39.596427,-106.265135,1320274
+USFS Gore 1,Gore Creek ,Holy Cross Ranger District,39.6277,-106.271,1320264
+12986,Laramie River,u/s Stub Creek,40.789,-105.88233,17497007
+12988,Laramie River,below Chambers Lake,40.63917,-105.85933,17497241
+12986A,Stub Creek,u/s Laramie River,40.7985,-105.88383,17497023
+5384,South Fork Cache La Poudre River,at 63E Rd (Pingree Park Rd.),40.61818,-105.52543,2899835
+5385,Bennet Creek,above Pingree Park Rd.,40.654337,-105.529596,2899589
+5390,Little Beaver Creek,below 63E Rd.,40.625459,-105.526743,2899801
+5385A,Elkhorn Creek,abv Hwy 15,40.699846,-105.441437,2899255
+5362,North Fork Cache La Poudre River,above Sheep Cr on Cherokee Park SWA,40.891818,-105.560879,2898123
+5381,Lone Pine Creek,at Cherokee Park SWA,40.769593,-105.358789,2898849
+5382,Stonewall Creek,at Hwy 287,40.826917,-105.242217,2898417
+5548,South St. Vrain Creek,u/s Brainard Lake,40.07877,-105.57775,2889120
+5456A,Little Thompson River,at Cty Rd 17,40.278663,-105.093187,13344
+5424,Big Thompson River,at downtown Estes Park,40.378378,-105.5148,12936
+CO1RS,Middle St. Vrain Creek,above South St. Vrain,40.167198,-105.39796,2888846
+5581b,Middle Boulder Creek,0.5 mi below spillway,39.971291,-105.475821,2891206
+5685,Hoop Creek ,at mouth,39.775399,-105.783002,2885074
+5661,North Fork Clear Creek,off Highway 119,39.762634,-105.440456,2885136
+5588,South Boulder Creek,at South Boulder Road,39.9860667,-105.2208333,2891200
+EPA01-250,Goose Creek,< USU Star site >,39.1856,-105.391,190801
+5952,South Platte River,below Spinney Mountain Reservoir @ Gage,38.970485,-105.614923,5241186
+5986,Michigan Creek,at Teter SWA,39.377833,-105.847217,5240404
+5985B,Tarryall Creek,at Tarryall SWA,39.24915,-105.66075,5240432
+5875,South Fork Lost Creek,above North Fork,39.283152,-105.504785,190601
+EPA01-252,Rock Creek,< USU Star site >,39.3746,-105.684,5239394
+5789,Kenosha Creek,east of FR 126C,39.416943,-105.746136,190373
+12955,Wilset Creek,abv Grizzly Creek and Hwy 14,40.425485,-106.52326,15999702
+12952B,East Fork Arapaho Creek,at FR 700,40.385685,-106.342565,15999880
+NPlatte,North Platte River,near Walden at SWA,40.69728,-106.41253,15996476
+12922,Roaring Fork River,at Manville SWA,40.68347,-106.46062,15996710
+12932,Government Creek,at Rd. 6E,40.88147,-106.24643,15995172
+12970A,Lake Creek,above Red Hill Ranch diversion,40.941255,-106.521632,15994928
+12949,North Fork Michigan River,above FR 41B,40.544604,-105.945194,15998896
+12962,Illinois River,above FR 765,40.40475,-106.03424,15999836
+12931A,Parkview Creek,above Hwy 125,40.381096,-106.104053,15999894
+11464,Willow Creek,at Rd 70,40.898748,-107.51268,18279735
+11480,Talamantes Creek,at Road 94,40.91925,-108.78047,3415658
+12803,Yampa River,at Highway 13,40.48133,-107.61233,1356774
+12804,Yampa River,at Hwy 394 S. of Craig,40.49933,-107.55316,1352770
+12823,Morapos Creek,near Hamilton,40.33967,-107.63117,1355638
+12168,Ranch Creek,near Tabernash,39.99897,-105.82758,1239233
+12196,Vasquez Creek,at gage at Hwy 40,39.92,-105.78517,1239617
+12184A,East St. Louis Creek,above diversion,39.887407,-105.877125,1239665
+12128,Beaver Creek,above Spring Creek,40.028749,-106.099376,1232421
+12179,Hurd Creek,at end of FR 848,40.01411,-105.751943,1234519
+12181,Meadow Creek,at Arapaho National Rec Area boundary,40.030572,-105.716641,1234349
+12182,Roaring Fork Arapaho Creek,at Indians Peaks WA near Granby,40.1308,-105.7675,1234509
+12172A,Willow Creek,at Sawmill Gulch Campground,40.228741,-106.058567,1231147
+5208,Crow Creek,at Nagakawa SWA,40.39532,-104.4928,2878205
+5418,Big Thompson River,at Hwy 257,40.34411,-104.86778,14978
+5210,Sand Creek,at mouth,39.813192,-104.951959,229677
+5212a,Sand Creek,blw Aurora Sand Creek WWTP,39.761036,-104.857969,229761
